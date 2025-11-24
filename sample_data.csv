@@ -1,0 +1,2038 @@
+order_id,customer_email,order_date,merchant,amount,status,notes
+1001,ivy.foster@gmail.com,01-11-2025 09:15,ShopA,49.99,completed,Receipt: Order #1001; card ****1234
+1002,gabby.parker@gmail.com,02-11-2025 14:05,ShopB,19.5,completed,Order confirmation email
+1003,ryan.foster@gmail.com,02-11-2025 14:07,ShopA,15,refunded,Refund processed on 2025-11-03
+1004,quinn.evans@gmail.com,03-11-2025 11:20,ShopC,25,pending,missing amount in email
+1005,olivia.davis@gmail.com,04-11-2025 08:45,ShopB,120,completed,Large purchase; promo applied
+1006,finn.king@gmail.com,04-11-2025 08:46,ShopB,120,completed,Duplicate order possible
+1007,jack.owen@gmail.com,05-11-2025 19:30,ShopD,9.99,completed,small order
+1008,mia.vance@gmail.com,06-11-2025 00:00,ShopA,11,completed,zero-amount test
+1009,jack.king@gmail.com,06-11-2025 23:59,ShopC,250,completed,high value order
+1010,leo.scott@gmail.com,07-11-2025 12:00,ShopE,35.25,completed,normal
+1011,alex.nelson@gmail.com,01-11-2025 09:15,ShopA,112.7666667,completed,Receipt: Order #1001; card ****1235
+1012,mia.owen@gmail.com,02-11-2025 14:05,ShopB,121.3473333,completed,Order confirmation email
+1013,hugo.miller@gmail.com,02-11-2025 14:07,ShopA,129.928,refunded,Refund processed on 2025-11-04
+1014,olivia.davis@gmail.com,03-11-2025 11:20,ShopC,138.5086667,pending,missing amount in email
+1015,chloe.green@gmail.com,04-11-2025 08:45,ShopB,147.0893333,completed,Large purchase; promo applied
+1016,jack.davis@gmail.com,04-11-2025 08:46,ShopB,155.67,completed,Duplicate order possible
+1017,dylan.taylor@gmail.com,05-11-2025 19:30,ShopD,164.2506667,completed,small order
+1018,chloe.king@gmail.com,06-11-2025 00:00,ShopA,172.8313333,completed,zero-amount test
+1019,olivia.adams@gmail.com,06-11-2025 23:59,ShopC,181.412,completed,high value order
+1020,olivia.parker@gmail.com,07-11-2025 12:00,ShopE,189.9926667,completed,low
+1021,sara.baker@gmail.com,01-11-2025 09:15,ShopA,198.5733333,completed,Receipt: Order #1001; card ****1236
+1022,alex.parker@gmail.com,02-11-2025 14:05,ShopB,207.154,completed,Order confirmation email
+1023,gabby.lopez@gmail.com,02-11-2025 14:07,ShopA,215.7346667,refunded,Refund processed on 2025-11-05
+1024,olivia.evans@gmail.com,03-11-2025 11:20,ShopC,224.3153333,pending,missing amount in email
+1025,paul.clark@gmail.com,04-11-2025 08:45,ShopB,232.896,completed,Large purchase; promo applied
+1026,karen.nelson@gmail.com,04-11-2025 08:46,ShopB,241.4766667,completed,Duplicate order possible
+1027,olivia.davis@gmail.com,05-11-2025 19:30,ShopD,250.0573333,completed,small order
+1028,dylan.lopez@gmail.com,06-11-2025 00:00,ShopA,258.638,completed,zero-amount test
+1029,hugo.clark@gmail.com,06-11-2025 23:59,ShopC,267.2186667,completed,high value order
+1030,ella.foster@gmail.com,07-11-2025 12:00,ShopE,275.7993333,completed,high
+1031,sara.green@gmail.com,01-11-2025 09:15,ShopA,284.38,completed,Receipt: Order #1001; card ****1237
+1032,finn.nelson@gmail.com,02-11-2025 14:05,ShopB,292.9606667,completed,Order confirmation email
+1033,noah.parker@gmail.com,02-11-2025 14:07,ShopA,301.5413333,refunded,Refund processed on 2025-11-06
+1034,alex.foster@gmail.com,03-11-2025 11:20,ShopC,310.122,pending,missing amount in email
+1035,gabby.miller@gmail.com,04-11-2025 08:45,ShopB,318.7026667,completed,Large purchase; promo applied
+1036,mia.king@gmail.com,04-11-2025 08:46,ShopB,327.2833333,completed,Duplicate order possible
+1037,jack.nelson@gmail.com,05-11-2025 19:30,ShopD,335.864,completed,small order
+1038,jack.adams@gmail.com,06-11-2025 00:00,ShopA,344.4446667,completed,zero-amount test
+1039,leo.parker@gmail.com,06-11-2025 23:59,ShopC,353.0253333,completed,high value order
+1040,mia.nelson@gmail.com,07-11-2025 12:00,ShopE,361.606,completed,normal
+1041,quinn.wood@gmail.com,01-11-2025 09:15,ShopA,370.1866667,completed,Receipt: Order #1001; card ****1238
+1042,ella.king@gmail.com,02-11-2025 14:05,ShopB,378.7673333,completed,Order confirmation email
+1043,alex.davis@gmail.com,02-11-2025 14:07,ShopA,387.348,refunded,Refund processed on 2025-11-07
+1044,quinn.owen@gmail.com,03-11-2025 11:20,ShopC,395.9286667,pending,missing amount in email
+1045,karen.miller@gmail.com,04-11-2025 08:45,ShopB,404.5093333,completed,Large purchase; promo applied
+1046,alex.wood@gmail.com,04-11-2025 08:46,ShopB,413.09,completed,Duplicate order possible
+1047,ivy.taylor@gmail.com,05-11-2025 19:30,ShopD,421.6706667,completed,small order
+1048,jack.owen@gmail.com,06-11-2025 00:00,ShopA,430.2513333,completed,zero-amount test
+1049,karen.wood@gmail.com,06-11-2025 23:59,ShopC,438.832,completed,high value order
+1050,toby.baker@gmail.com,07-11-2025 12:00,ShopE,447.4126667,completed,low
+1051,ryan.owen@gmail.com,01-11-2025 09:15,ShopA,455.9933333,completed,Receipt: Order #1001; card ****1239
+1052,hugo.taylor@gmail.com,02-11-2025 14:05,ShopB,464.574,completed,Order confirmation email
+1053,paul.wood@gmail.com,02-11-2025 14:07,ShopA,473.1546667,refunded,Refund processed on 2025-11-08
+1054,chloe.miller@gmail.com,03-11-2025 11:20,ShopC,481.7353333,pending,missing amount in email
+1055,hugo.jones@gmail.com,04-11-2025 08:45,ShopB,490.316,completed,Large purchase; promo applied
+1056,hugo.adams@gmail.com,04-11-2025 08:46,ShopB,498.8966667,completed,Duplicate order possible
+1057,chloe.evans@gmail.com,05-11-2025 19:30,ShopD,507.4773333,completed,small order
+1058,hugo.wood@gmail.com,06-11-2025 00:00,ShopA,516.058,completed,zero-amount test
+1059,jack.green@gmail.com,06-11-2025 23:59,ShopC,524.6386667,completed,high value order
+1060,ben.reid@gmail.com,07-11-2025 12:00,ShopE,533.2193333,completed,high
+1061,ivy.parker@gmail.com,01-11-2025 09:15,ShopA,541.8,completed,Receipt: Order #1001; card ****1240
+1062,gabby.baker@gmail.com,02-11-2025 14:05,ShopB,550.3806667,completed,Order confirmation email
+1063,paul.scott@gmail.com,02-11-2025 14:07,ShopA,558.9613333,refunded,Refund processed on 2025-11-09
+1064,quinn.jones@gmail.com,03-11-2025 11:20,ShopC,567.542,pending,missing amount in email
+1065,leo.wood@gmail.com,04-11-2025 08:45,ShopB,576.1226667,completed,Large purchase; promo applied
+1066,ivy.taylor@gmail.com,04-11-2025 08:46,ShopB,584.7033333,completed,Duplicate order possible
+1067,noah.davis@gmail.com,05-11-2025 19:30,ShopD,593.284,completed,small order
+1068,toby.davis@gmail.com,06-11-2025 00:00,ShopA,601.8646667,completed,zero-amount test
+1069,ryan.nelson@gmail.com,06-11-2025 23:59,ShopC,610.4453333,completed,high value order
+1070,finn.vance@gmail.com,07-11-2025 12:00,ShopE,619.026,completed,normal
+1071,ben.wood@gmail.com,01-11-2025 09:15,ShopA,627.6066667,completed,Receipt: Order #1001; card ****1241
+1072,olivia.baker@gmail.com,02-11-2025 14:05,ShopB,636.1873333,completed,Order confirmation email
+1073,ivy.king@gmail.com,02-11-2025 14:07,ShopA,644.768,refunded,Refund processed on 2025-11-10
+1074,ben.wood@gmail.com,03-11-2025 11:20,ShopC,653.3486667,pending,missing amount in email
+1075,ella.scott@gmail.com,04-11-2025 08:45,ShopB,661.9293333,completed,Large purchase; promo applied
+1076,olivia.wood@gmail.com,04-11-2025 08:46,ShopB,670.51,completed,Duplicate order possible
+1077,chloe.adams@gmail.com,05-11-2025 19:30,ShopD,679.0906667,completed,small order
+1078,ella.lopez@gmail.com,06-11-2025 00:00,ShopA,687.6713333,completed,zero-amount test
+1079,ben.king@gmail.com,06-11-2025 23:59,ShopC,696.252,completed,high value order
+1080,toby.foster@gmail.com,07-11-2025 12:00,ShopE,704.8326667,completed,low
+1081,karen.king@gmail.com,01-11-2025 09:15,ShopA,713.4133333,completed,Receipt: Order #1001; card ****1242
+1082,chloe.vance@gmail.com,02-11-2025 14:05,ShopB,721.994,completed,Order confirmation email
+1083,jack.baker@gmail.com,02-11-2025 14:07,ShopA,730.5746667,refunded,Refund processed on 2025-11-11
+1084,olivia.parker@gmail.com,03-11-2025 11:20,ShopC,739.1553333,pending,missing amount in email
+1085,gabby.wood@gmail.com,04-11-2025 08:45,ShopB,747.736,completed,Large purchase; promo applied
+1086,leo.green@gmail.com,04-11-2025 08:46,ShopB,756.3166667,completed,Duplicate order possible
+1087,quinn.wood@gmail.com,05-11-2025 19:30,ShopD,764.8973333,completed,small order
+1088,paul.evans@gmail.com,06-11-2025 00:00,ShopA,773.478,completed,zero-amount test
+1089,paul.wood@gmail.com,06-11-2025 23:59,ShopC,782.0586667,completed,high value order
+1090,jack.green@gmail.com,07-11-2025 12:00,ShopE,790.6393333,completed,high
+1091,noah.clark@gmail.com,01-11-2025 09:15,ShopA,799.22,completed,Receipt: Order #1001; card ****1243
+1092,alex.scott@gmail.com,02-11-2025 14:05,ShopB,807.8006667,completed,Order confirmation email
+1093,quinn.green@gmail.com,02-11-2025 14:07,ShopA,816.3813333,refunded,Refund processed on 2025-11-12
+1094,ben.king@gmail.com,03-11-2025 11:20,ShopC,824.962,pending,missing amount in email
+1095,paul.king@gmail.com,04-11-2025 08:45,ShopB,833.5426667,completed,Large purchase; promo applied
+1096,finn.hall@gmail.com,04-11-2025 08:46,ShopB,842.1233333,completed,Duplicate order possible
+1097,mia.clark@gmail.com,05-11-2025 19:30,ShopD,850.704,completed,small order
+1098,leo.foster@gmail.com,06-11-2025 00:00,ShopA,859.2846667,completed,zero-amount test
+1099,alex.evans@gmail.com,06-11-2025 23:59,ShopC,867.8653333,completed,high value order
+1100,gabby.foster@gmail.com,07-11-2025 12:00,ShopE,876.446,completed,normal
+1101,toby.adams@gmail.com,01-11-2025 09:15,ShopA,885.0266667,completed,Receipt: Order #1001; card ****1244
+1102,hugo.vance@gmail.com,02-11-2025 14:05,ShopB,893.6073333,completed,Order confirmation email
+1103,ben.vance@gmail.com,02-11-2025 14:07,ShopA,902.188,refunded,Refund processed on 2025-11-13
+1104,karen.scott@gmail.com,03-11-2025 11:20,ShopC,910.7686667,pending,missing amount in email
+1105,chloe.lopez@gmail.com,04-11-2025 08:45,ShopB,919.3493333,completed,Large purchase; promo applied
+1106,mia.miller@gmail.com,04-11-2025 08:46,ShopB,927.93,completed,Duplicate order possible
+1107,ryan.owen@gmail.com,05-11-2025 19:30,ShopD,936.5106667,completed,small order
+1108,dylan.lopez@gmail.com,06-11-2025 00:00,ShopA,945.0913333,completed,zero-amount test
+1109,quinn.adams@gmail.com,06-11-2025 23:59,ShopC,953.672,completed,high value order
+1110,karen.reid@gmail.com,07-11-2025 12:00,ShopE,962.2526667,completed,low
+1111,ryan.davis@gmail.com,01-11-2025 09:15,ShopA,970.8333333,completed,Receipt: Order #1001; card ****1245
+1112,leo.adams@gmail.com,02-11-2025 14:05,ShopB,979.414,completed,Order confirmation email
+1113,leo.hall@gmail.com,02-11-2025 14:07,ShopA,987.9946667,refunded,Refund processed on 2025-11-14
+1114,alex.foster@gmail.com,03-11-2025 11:20,ShopC,996.5753333,pending,missing amount in email
+1115,gabby.miller@gmail.com,04-11-2025 08:45,ShopB,1005.156,completed,Large purchase; promo applied
+1116,finn.green@gmail.com,04-11-2025 08:46,ShopB,1013.736667,completed,Duplicate order possible
+1117,ryan.green@gmail.com,05-11-2025 19:30,ShopD,1022.317333,completed,small order
+1118,ryan.parker@gmail.com,06-11-2025 00:00,ShopA,1030.898,completed,zero-amount test
+1119,finn.miller@gmail.com,06-11-2025 23:59,ShopC,1039.478667,completed,high value order
+1120,dylan.wood@gmail.com,07-11-2025 12:00,ShopE,1048.059333,completed,high
+1121,paul.baker@gmail.com,01-11-2025 09:15,ShopA,1056.64,completed,Receipt: Order #1001; card ****1246
+1122,paul.nelson@gmail.com,02-11-2025 14:05,ShopB,1065.220667,completed,Order confirmation email
+1123,quinn.taylor@gmail.com,02-11-2025 14:07,ShopA,1073.801333,refunded,Refund processed on 2025-11-15
+1124,jack.foster@gmail.com,03-11-2025 11:20,ShopC,1082.382,pending,missing amount in email
+1125,gabby.owen@gmail.com,04-11-2025 08:45,ShopB,1090.962667,completed,Large purchase; promo applied
+1126,mia.nelson@gmail.com,04-11-2025 08:46,ShopB,1099.543333,completed,Duplicate order possible
+1127,olivia.scott@gmail.com,05-11-2025 19:30,ShopD,1108.124,completed,small order
+1128,hugo.lopez@gmail.com,06-11-2025 00:00,ShopA,1116.704667,completed,zero-amount test
+1129,paul.owen@gmail.com,06-11-2025 23:59,ShopC,1125.285333,completed,high value order
+1130,karen.vance@gmail.com,07-11-2025 12:00,ShopE,1133.866,completed,normal
+1131,ben.davis@gmail.com,01-11-2025 09:15,ShopA,1142.446667,completed,Receipt: Order #1001; card ****1247
+1132,chloe.adams@gmail.com,02-11-2025 14:05,ShopB,1151.027333,completed,Order confirmation email
+1133,alex.hall@gmail.com,02-11-2025 14:07,ShopA,1159.608,refunded,Refund processed on 2025-11-16
+1134,noah.adams@gmail.com,03-11-2025 11:20,ShopC,1168.188667,pending,missing amount in email
+1135,jack.reid@gmail.com,04-11-2025 08:45,ShopB,1176.769333,completed,Large purchase; promo applied
+1136,toby.owen@gmail.com,04-11-2025 08:46,ShopB,1185.35,completed,Duplicate order possible
+1137,ryan.vance@gmail.com,05-11-2025 19:30,ShopD,1193.930667,completed,small order
+1138,ivy.lopez@gmail.com,06-11-2025 00:00,ShopA,1202.511333,completed,zero-amount test
+1139,mia.parker@gmail.com,06-11-2025 23:59,ShopC,1211.092,completed,high value order
+1140,dylan.miller@gmail.com,07-11-2025 12:00,ShopE,1219.672667,completed,low
+1141,ella.reid@gmail.com,01-11-2025 09:15,ShopA,1228.253333,completed,Receipt: Order #1001; card ****1248
+1142,dylan.owen@gmail.com,02-11-2025 14:05,ShopB,1236.834,completed,Order confirmation email
+1143,jack.foster@gmail.com,02-11-2025 14:07,ShopA,1245.414667,refunded,Refund processed on 2025-11-17
+1144,olivia.reid@gmail.com,03-11-2025 11:20,ShopC,1253.995333,pending,missing amount in email
+1145,finn.miller@gmail.com,04-11-2025 08:45,ShopB,1262.576,completed,Large purchase; promo applied
+1146,dylan.vance@gmail.com,04-11-2025 08:46,ShopB,1271.156667,completed,Duplicate order possible
+1147,finn.lopez@gmail.com,05-11-2025 19:30,ShopD,1279.737333,completed,small order
+1148,toby.hall@gmail.com,06-11-2025 00:00,ShopA,1288.318,completed,zero-amount test
+1149,ryan.green@gmail.com,06-11-2025 23:59,ShopC,1296.898667,completed,high value order
+1150,karen.clark@gmail.com,07-11-2025 12:00,ShopE,1305.479333,completed,high
+1151,gabby.green@gmail.com,01-11-2025 09:15,ShopA,1314.06,completed,Receipt: Order #1001; card ****1249
+1152,chloe.nelson@gmail.com,02-11-2025 14:05,ShopB,1322.640667,completed,Order confirmation email
+1153,ivy.reid@gmail.com,02-11-2025 14:07,ShopA,1331.221333,refunded,Refund processed on 2025-11-18
+1154,leo.miller@gmail.com,03-11-2025 11:20,ShopC,1339.802,pending,missing amount in email
+1155,noah.nelson@gmail.com,04-11-2025 08:45,ShopB,1348.382667,completed,Large purchase; promo applied
+1156,chloe.jones@gmail.com,04-11-2025 08:46,ShopB,1356.963333,completed,Duplicate order possible
+1157,dylan.nelson@gmail.com,05-11-2025 19:30,ShopD,1365.544,completed,small order
+1158,jack.lopez@gmail.com,06-11-2025 00:00,ShopA,1374.124667,completed,zero-amount test
+1159,dylan.adams@gmail.com,06-11-2025 23:59,ShopC,1382.705333,completed,high value order
+1160,mia.foster@gmail.com,07-11-2025 12:00,ShopE,1391.286,completed,normal
+1161,olivia.vance@gmail.com,01-11-2025 09:15,ShopA,1399.866667,completed,Receipt: Order #1001; card ****1250
+1162,karen.hall@gmail.com,02-11-2025 14:05,ShopB,1408.447333,completed,Order confirmation email
+1163,leo.taylor@gmail.com,02-11-2025 14:07,ShopA,1417.028,refunded,Refund processed on 2025-11-19
+1164,toby.nelson@gmail.com,03-11-2025 11:20,ShopC,1425.608667,pending,missing amount in email
+1165,ben.adams@gmail.com,04-11-2025 08:45,ShopB,1434.189333,completed,Large purchase; promo applied
+1166,dylan.hall@gmail.com,04-11-2025 08:46,ShopB,1442.77,completed,Duplicate order possible
+1167,paul.evans@gmail.com,05-11-2025 19:30,ShopD,1451.350667,completed,small order
+1168,noah.scott@gmail.com,06-11-2025 00:00,ShopA,1459.931333,completed,zero-amount test
+1169,noah.adams@gmail.com,06-11-2025 23:59,ShopC,1468.512,completed,high value order
+1170,ivy.vance@gmail.com,07-11-2025 12:00,ShopE,1477.092667,completed,low
+1171,finn.green@gmail.com,01-11-2025 09:15,ShopA,1485.673333,completed,Receipt: Order #1001; card ****1251
+1172,alex.green@gmail.com,02-11-2025 14:05,ShopB,1494.254,completed,Order confirmation email
+1173,ben.jones@gmail.com,02-11-2025 14:07,ShopA,1502.834667,refunded,Refund processed on 2025-11-20
+1174,ella.jones@gmail.com,03-11-2025 11:20,ShopC,1511.415333,pending,missing amount in email
+1175,sara.king@gmail.com,04-11-2025 08:45,ShopB,1519.996,completed,Large purchase; promo applied
+1176,ben.wood@gmail.com,04-11-2025 08:46,ShopB,1528.576667,completed,Duplicate order possible
+1177,ben.wood@gmail.com,05-11-2025 19:30,ShopD,1537.157333,completed,small order
+1178,ella.clark@gmail.com,06-11-2025 00:00,ShopA,1545.738,completed,zero-amount test
+1179,noah.miller@gmail.com,06-11-2025 23:59,ShopC,1554.318667,completed,high value order
+1180,sara.hall@gmail.com,07-11-2025 12:00,ShopE,1562.899333,completed,high
+1181,olivia.green@gmail.com,01-11-2025 09:15,ShopA,1571.48,completed,Receipt: Order #1001; card ****1252
+1182,ivy.wood@gmail.com,02-11-2025 14:05,ShopB,1580.060667,completed,Order confirmation email
+1183,jack.owen@gmail.com,02-11-2025 14:07,ShopA,1588.641333,refunded,Refund processed on 2025-11-21
+1184,chloe.baker@gmail.com,03-11-2025 11:20,ShopC,1597.222,pending,missing amount in email
+1185,gabby.jones@gmail.com,04-11-2025 08:45,ShopB,1605.802667,completed,Large purchase; promo applied
+1186,mia.foster@gmail.com,04-11-2025 08:46,ShopB,1614.383333,completed,Duplicate order possible
+1187,leo.reid@gmail.com,05-11-2025 19:30,ShopD,1622.964,completed,small order
+1188,jack.parker@gmail.com,06-11-2025 00:00,ShopA,1631.544667,completed,zero-amount test
+1189,toby.jones@gmail.com,06-11-2025 23:59,ShopC,1640.125333,completed,high value order
+1190,jack.parker@gmail.com,07-11-2025 12:00,ShopE,1648.706,completed,normal
+1191,ella.vance@gmail.com,01-11-2025 09:15,ShopA,1657.286667,completed,Receipt: Order #1001; card ****1253
+1192,ryan.adams@gmail.com,02-11-2025 14:05,ShopB,1665.867333,completed,Order confirmation email
+1193,gabby.king@gmail.com,02-11-2025 14:07,ShopA,1674.448,refunded,Refund processed on 2025-11-22
+1194,chloe.miller@gmail.com,03-11-2025 11:20,ShopC,1683.028667,pending,missing amount in email
+1195,hugo.baker@gmail.com,04-11-2025 08:45,ShopB,1691.609333,completed,Large purchase; promo applied
+1196,leo.vance@gmail.com,04-11-2025 08:46,ShopB,1700.19,completed,Duplicate order possible
+1197,leo.owen@gmail.com,05-11-2025 19:30,ShopD,1708.770667,completed,small order
+1198,toby.miller@gmail.com,06-11-2025 00:00,ShopA,1717.351333,completed,zero-amount test
+1199,ella.vance@gmail.com,06-11-2025 23:59,ShopC,1725.932,completed,high value order
+1200,dylan.green@gmail.com,07-11-2025 12:00,ShopE,1734.512667,completed,low
+1201,gabby.baker@gmail.com,01-11-2025 09:15,ShopA,1743.093333,completed,Receipt: Order #1001; card ****1254
+1202,finn.owen@gmail.com,02-11-2025 14:05,ShopB,1751.674,completed,Order confirmation email
+1203,gabby.clark@gmail.com,02-11-2025 14:07,ShopA,1760.254667,refunded,Refund processed on 2025-11-23
+1204,quinn.jones@gmail.com,03-11-2025 11:20,ShopC,1768.835333,pending,missing amount in email
+1205,ella.parker@gmail.com,04-11-2025 08:45,ShopB,1777.416,completed,Large purchase; promo applied
+1206,olivia.davis@gmail.com,04-11-2025 08:46,ShopB,1785.996667,completed,Duplicate order possible
+1207,sara.davis@gmail.com,05-11-2025 19:30,ShopD,1794.577333,completed,small order
+1208,jack.owen@gmail.com,06-11-2025 00:00,ShopA,1803.158,completed,zero-amount test
+1209,chloe.taylor@gmail.com,06-11-2025 23:59,ShopC,1811.738667,completed,high value order
+1210,olivia.green@gmail.com,07-11-2025 12:00,ShopE,1820.319333,completed,high
+1211,toby.taylor@gmail.com,01-11-2025 09:15,ShopA,1828.9,completed,Receipt: Order #1001; card ****1255
+1212,ella.miller@gmail.com,02-11-2025 14:05,ShopB,1837.480667,completed,Order confirmation email
+1213,gabby.parker@gmail.com,02-11-2025 14:07,ShopA,1846.061333,refunded,Refund processed on 2025-11-24
+1214,chloe.lopez@gmail.com,03-11-2025 11:20,ShopC,1854.642,pending,missing amount in email
+1215,olivia.reid@gmail.com,04-11-2025 08:45,ShopB,1863.222667,completed,Large purchase; promo applied
+1216,ella.reid@gmail.com,04-11-2025 08:46,ShopB,1871.803333,completed,Duplicate order possible
+1217,gabby.nelson@gmail.com,05-11-2025 19:30,ShopD,1880.384,completed,small order
+1218,jack.scott@gmail.com,06-11-2025 00:00,ShopA,1888.964667,completed,zero-amount test
+1219,toby.reid@gmail.com,06-11-2025 23:59,ShopC,1897.545333,completed,high value order
+1220,ryan.reid@gmail.com,07-11-2025 12:00,ShopE,1906.126,completed,normal
+1221,finn.jones@gmail.com,01-11-2025 09:15,ShopA,1914.706667,completed,Receipt: Order #1001; card ****1256
+1222,toby.jones@gmail.com,02-11-2025 14:05,ShopB,1923.287333,completed,Order confirmation email
+1223,gabby.hall@gmail.com,02-11-2025 14:07,ShopA,1931.868,refunded,Refund processed on 2025-11-25
+1224,ben.owen@gmail.com,03-11-2025 11:20,ShopC,1940.448667,pending,missing amount in email
+1225,chloe.king@gmail.com,04-11-2025 08:45,ShopB,1949.029333,completed,Large purchase; promo applied
+1226,paul.hall@gmail.com,04-11-2025 08:46,ShopB,1957.61,completed,Duplicate order possible
+1227,gabby.wood@gmail.com,05-11-2025 19:30,ShopD,1966.190667,completed,small order
+1228,paul.nelson@gmail.com,06-11-2025 00:00,ShopA,1974.771333,completed,zero-amount test
+1229,leo.hall@gmail.com,06-11-2025 23:59,ShopC,1983.352,completed,high value order
+1230,alex.baker@gmail.com,07-11-2025 12:00,ShopE,1991.932667,completed,low
+1231,jack.adams@gmail.com,01-11-2025 09:15,ShopA,2000.513333,completed,Receipt: Order #1001; card ****1257
+1232,finn.baker@gmail.com,02-11-2025 14:05,ShopB,2009.094,completed,Order confirmation email
+1233,toby.reid@gmail.com,02-11-2025 14:07,ShopA,2017.674667,refunded,Refund processed on 2025-11-26
+1234,jack.jones@gmail.com,03-11-2025 11:20,ShopC,2026.255333,pending,missing amount in email
+1235,ben.taylor@gmail.com,04-11-2025 08:45,ShopB,2034.836,completed,Large purchase; promo applied
+1236,ella.davis@gmail.com,04-11-2025 08:46,ShopB,2043.416667,completed,Duplicate order possible
+1237,hugo.lopez@gmail.com,05-11-2025 19:30,ShopD,2051.997333,completed,small order
+1238,karen.reid@gmail.com,06-11-2025 00:00,ShopA,2060.578,completed,zero-amount test
+1239,leo.hall@gmail.com,06-11-2025 23:59,ShopC,2069.158667,completed,high value order
+1240,sara.davis@gmail.com,07-11-2025 12:00,ShopE,2077.739333,completed,high
+1241,quinn.hall@gmail.com,01-11-2025 09:15,ShopA,2086.32,completed,Receipt: Order #1001; card ****1258
+1242,toby.foster@gmail.com,02-11-2025 14:05,ShopB,2094.900667,completed,Order confirmation email
+1243,chloe.hall@gmail.com,02-11-2025 14:07,ShopA,2103.481333,refunded,Refund processed on 2025-11-27
+1244,ryan.wood@gmail.com,03-11-2025 11:20,ShopC,2112.062,pending,missing amount in email
+1245,ivy.king@gmail.com,04-11-2025 08:45,ShopB,2120.642667,completed,Large purchase; promo applied
+1246,ben.taylor@gmail.com,04-11-2025 08:46,ShopB,2129.223333,completed,Duplicate order possible
+1247,ivy.foster@gmail.com,05-11-2025 19:30,ShopD,2137.804,completed,small order
+1248,quinn.green@gmail.com,06-11-2025 00:00,ShopA,2146.384667,completed,zero-amount test
+1249,toby.hall@gmail.com,06-11-2025 23:59,ShopC,2154.965333,completed,high value order
+1250,gabby.clark@gmail.com,07-11-2025 12:00,ShopE,2163.546,completed,normal
+1251,quinn.lopez@gmail.com,01-11-2025 09:15,ShopA,2172.126667,completed,Receipt: Order #1001; card ****1259
+1252,jack.taylor@gmail.com,02-11-2025 14:05,ShopB,2180.707333,completed,Order confirmation email
+1253,ella.taylor@gmail.com,02-11-2025 14:07,ShopA,2189.288,refunded,Refund processed on 2025-11-28
+1254,jack.evans@gmail.com,03-11-2025 11:20,ShopC,2197.868667,pending,missing amount in email
+1255,hugo.baker@gmail.com,04-11-2025 08:45,ShopB,2206.449333,completed,Large purchase; promo applied
+1256,leo.parker@gmail.com,04-11-2025 08:46,ShopB,2215.03,completed,Duplicate order possible
+1257,ivy.nelson@gmail.com,05-11-2025 19:30,ShopD,2223.610667,completed,small order
+1258,ben.baker@gmail.com,06-11-2025 00:00,ShopA,2232.191333,completed,zero-amount test
+1259,alex.miller@gmail.com,06-11-2025 23:59,ShopC,2240.772,completed,high value order
+1260,toby.adams@gmail.com,07-11-2025 12:00,ShopE,2249.352667,completed,low
+1261,ryan.nelson@gmail.com,01-11-2025 09:15,ShopA,2257.933333,completed,Receipt: Order #1001; card ****1260
+1262,chloe.parker@gmail.com,02-11-2025 14:05,ShopB,2266.514,completed,Order confirmation email
+1263,finn.taylor@gmail.com,02-11-2025 14:07,ShopA,2275.094667,refunded,Refund processed on 2025-11-29
+1264,hugo.hall@gmail.com,03-11-2025 11:20,ShopC,2283.675333,pending,missing amount in email
+1265,mia.lopez@gmail.com,04-11-2025 08:45,ShopB,2292.256,completed,Large purchase; promo applied
+1266,dylan.wood@gmail.com,04-11-2025 08:46,ShopB,2300.836667,completed,Duplicate order possible
+1267,gabby.baker@gmail.com,05-11-2025 19:30,ShopD,2309.417333,completed,small order
+1268,paul.clark@gmail.com,06-11-2025 00:00,ShopA,2317.998,completed,zero-amount test
+1269,hugo.evans@gmail.com,06-11-2025 23:59,ShopC,2326.578667,completed,high value order
+1270,ryan.scott@gmail.com,07-11-2025 12:00,ShopE,2335.159333,completed,high
+1271,jack.miller@gmail.com,01-11-2025 09:15,ShopA,2343.74,completed,Receipt: Order #1001; card ****1261
+1272,sara.miller@gmail.com,02-11-2025 14:05,ShopB,2352.320667,completed,Order confirmation email
+1273,karen.reid@gmail.com,02-11-2025 14:07,ShopA,2360.901333,refunded,Refund processed on 2025-11-30
+1274,leo.davis@gmail.com,03-11-2025 11:20,ShopC,2369.482,pending,missing amount in email
+1275,ella.evans@gmail.com,04-11-2025 08:45,ShopB,2378.062667,completed,Large purchase; promo applied
+1276,quinn.wood@gmail.com,04-11-2025 08:46,ShopB,2386.643333,completed,Duplicate order possible
+1277,alex.king@gmail.com,05-11-2025 19:30,ShopD,2395.224,completed,small order
+1278,hugo.evans@gmail.com,06-11-2025 00:00,ShopA,2403.804667,completed,zero-amount test
+1279,ben.vance@gmail.com,06-11-2025 23:59,ShopC,2412.385333,completed,high value order
+1280,hugo.lopez@gmail.com,07-11-2025 12:00,ShopE,2420.966,completed,normal
+1281,sara.foster@gmail.com,01-11-2025 09:15,ShopA,2429.546667,completed,Receipt: Order #1001; card ****1262
+1282,toby.reid@gmail.com,02-11-2025 14:05,ShopB,2438.127333,completed,Order confirmation email
+1283,gabby.scott@gmail.com,02-11-2025 14:07,ShopA,2446.708,refunded,Refund processed on 2025-11-31
+1284,leo.baker@gmail.com,03-11-2025 11:20,ShopC,2455.288667,pending,missing amount in email
+1285,hugo.miller@gmail.com,04-11-2025 08:45,ShopB,2463.869333,completed,Large purchase; promo applied
+1286,ella.miller@gmail.com,04-11-2025 08:46,ShopB,2472.45,completed,Duplicate order possible
+1287,chloe.green@gmail.com,05-11-2025 19:30,ShopD,2481.030667,completed,small order
+1288,quinn.nelson@gmail.com,06-11-2025 00:00,ShopA,2489.611333,completed,zero-amount test
+1289,karen.taylor@gmail.com,06-11-2025 23:59,ShopC,2498.192,completed,high value order
+1290,dylan.adams@gmail.com,07-11-2025 12:00,ShopE,2506.772667,completed,low
+1291,alex.scott@gmail.com,01-11-2025 09:15,ShopA,2515.353333,completed,Receipt: Order #1001; card ****1263
+1292,ryan.lopez@gmail.com,02-11-2025 14:05,ShopB,2523.934,completed,Order confirmation email
+1293,olivia.nelson@gmail.com,02-11-2025 14:07,ShopA,2532.514667,refunded,Refund processed on 2025-11-32
+1294,jack.wood@gmail.com,03-11-2025 11:20,ShopC,2541.095333,pending,missing amount in email
+1295,hugo.evans@gmail.com,04-11-2025 08:45,ShopB,2549.676,completed,Large purchase; promo applied
+1296,jack.scott@gmail.com,04-11-2025 08:46,ShopB,2558.256667,completed,Duplicate order possible
+1297,chloe.green@gmail.com,05-11-2025 19:30,ShopD,2566.837333,completed,small order
+1298,finn.adams@gmail.com,06-11-2025 00:00,ShopA,2575.418,completed,zero-amount test
+1299,ivy.miller@gmail.com,06-11-2025 23:59,ShopC,2583.998667,completed,high value order
+1300,hugo.hall@gmail.com,07-11-2025 12:00,ShopE,2592.579333,completed,high
+1301,paul.owen@gmail.com,01-11-2025 09:15,ShopA,2601.16,completed,Receipt: Order #1001; card ****1264
+1302,ella.wood@gmail.com,02-11-2025 14:05,ShopB,2609.740667,completed,Order confirmation email
+1303,ryan.reid@gmail.com,02-11-2025 14:07,ShopA,2618.321333,refunded,Refund processed on 2025-11-33
+1304,ryan.vance@gmail.com,03-11-2025 11:20,ShopC,2626.902,pending,missing amount in email
+1305,toby.jones@gmail.com,04-11-2025 08:45,ShopB,2635.482667,completed,Large purchase; promo applied
+1306,sara.wood@gmail.com,04-11-2025 08:46,ShopB,2644.063333,completed,Duplicate order possible
+1307,gabby.taylor@gmail.com,05-11-2025 19:30,ShopD,2652.644,completed,small order
+1308,sara.davis@gmail.com,06-11-2025 00:00,ShopA,2661.224667,completed,zero-amount test
+1309,ivy.owen@gmail.com,06-11-2025 23:59,ShopC,2669.805333,completed,high value order
+1310,ivy.owen@gmail.com,07-11-2025 12:00,ShopE,2678.386,completed,normal
+1311,karen.green@gmail.com,01-11-2025 09:15,ShopA,2686.966667,completed,Receipt: Order #1001; card ****1265
+1312,dylan.lopez@gmail.com,02-11-2025 14:05,ShopB,2695.547333,completed,Order confirmation email
+1313,quinn.baker@gmail.com,02-11-2025 14:07,ShopA,2704.128,refunded,Refund processed on 2025-11-34
+1314,finn.owen@gmail.com,03-11-2025 11:20,ShopC,2712.708667,pending,missing amount in email
+1315,alex.clark@gmail.com,04-11-2025 08:45,ShopB,2721.289333,completed,Large purchase; promo applied
+1316,gabby.evans@gmail.com,04-11-2025 08:46,ShopB,2729.87,completed,Duplicate order possible
+1317,olivia.baker@gmail.com,05-11-2025 19:30,ShopD,2738.450667,completed,small order
+1318,olivia.reid@gmail.com,06-11-2025 00:00,ShopA,2747.031333,completed,zero-amount test
+1319,ivy.wood@gmail.com,06-11-2025 23:59,ShopC,2755.612,completed,high value order
+1320,paul.evans@gmail.com,07-11-2025 12:00,ShopE,2764.192667,completed,low
+1321,olivia.evans@gmail.com,01-11-2025 09:15,ShopA,2772.773333,completed,Receipt: Order #1001; card ****1266
+1322,ivy.davis@gmail.com,02-11-2025 14:05,ShopB,2781.354,completed,Order confirmation email
+1323,ivy.king@gmail.com,02-11-2025 14:07,ShopA,2789.934667,refunded,Refund processed on 2025-11-35
+1324,alex.davis@gmail.com,03-11-2025 11:20,ShopC,2798.515333,pending,missing amount in email
+1325,ivy.nelson@gmail.com,04-11-2025 08:45,ShopB,2807.096,completed,Large purchase; promo applied
+1326,ivy.vance@gmail.com,04-11-2025 08:46,ShopB,2815.676667,completed,Duplicate order possible
+1327,hugo.miller@gmail.com,05-11-2025 19:30,ShopD,2824.257333,completed,small order
+1328,karen.vance@gmail.com,06-11-2025 00:00,ShopA,2832.838,completed,zero-amount test
+1329,noah.nelson@gmail.com,06-11-2025 23:59,ShopC,2841.418667,completed,high value order
+1330,toby.lopez@gmail.com,07-11-2025 12:00,ShopE,2849.999333,completed,high
+1331,mia.jones@gmail.com,01-11-2025 09:15,ShopA,2858.58,completed,Receipt: Order #1001; card ****1267
+1332,jack.nelson@gmail.com,02-11-2025 14:05,ShopB,2867.160667,completed,Order confirmation email
+1333,ella.king@gmail.com,02-11-2025 14:07,ShopA,2875.741333,refunded,Refund processed on 2025-11-36
+1334,noah.reid@gmail.com,03-11-2025 11:20,ShopC,2884.322,pending,missing amount in email
+1335,noah.owen@gmail.com,04-11-2025 08:45,ShopB,2892.902667,completed,Large purchase; promo applied
+1336,toby.wood@gmail.com,04-11-2025 08:46,ShopB,2901.483333,completed,Duplicate order possible
+1337,sara.clark@gmail.com,05-11-2025 19:30,ShopD,2910.064,completed,small order
+1338,ben.jones@gmail.com,06-11-2025 00:00,ShopA,2918.644667,completed,zero-amount test
+1339,alex.lopez@gmail.com,06-11-2025 23:59,ShopC,2927.225333,completed,high value order
+1340,gabby.lopez@gmail.com,07-11-2025 12:00,ShopE,2935.806,completed,normal
+1341,alex.adams@gmail.com,01-11-2025 09:15,ShopA,2944.386667,completed,Receipt: Order #1001; card ****1268
+1342,karen.foster@gmail.com,02-11-2025 14:05,ShopB,2952.967333,completed,Order confirmation email
+1343,ryan.parker@gmail.com,02-11-2025 14:07,ShopA,2961.548,refunded,Refund processed on 2025-11-37
+1344,noah.evans@gmail.com,03-11-2025 11:20,ShopC,2970.128667,pending,missing amount in email
+1345,toby.nelson@gmail.com,04-11-2025 08:45,ShopB,2978.709333,completed,Large purchase; promo applied
+1346,quinn.scott@gmail.com,04-11-2025 08:46,ShopB,2987.29,completed,Duplicate order possible
+1347,quinn.taylor@gmail.com,05-11-2025 19:30,ShopD,2995.870667,completed,small order
+1348,ella.clark@gmail.com,06-11-2025 00:00,ShopA,3004.451333,completed,zero-amount test
+1349,gabby.wood@gmail.com,06-11-2025 23:59,ShopC,3013.032,completed,high value order
+1350,ben.taylor@gmail.com,07-11-2025 12:00,ShopE,3021.612667,completed,low
+1351,paul.clark@gmail.com,01-11-2025 09:15,ShopA,3030.193333,completed,Receipt: Order #1001; card ****1269
+1352,ella.wood@gmail.com,02-11-2025 14:05,ShopB,3038.774,completed,Order confirmation email
+1353,hugo.king@gmail.com,02-11-2025 14:07,ShopA,3047.354667,refunded,Refund processed on 2025-11-38
+1354,jack.parker@gmail.com,03-11-2025 11:20,ShopC,3055.935333,pending,missing amount in email
+1355,karen.foster@gmail.com,04-11-2025 08:45,ShopB,3064.516,completed,Large purchase; promo applied
+1356,noah.clark@gmail.com,04-11-2025 08:46,ShopB,3073.096667,completed,Duplicate order possible
+1357,alex.owen@gmail.com,05-11-2025 19:30,ShopD,3081.677333,completed,small order
+1358,noah.vance@gmail.com,06-11-2025 00:00,ShopA,3090.258,completed,zero-amount test
+1359,alex.jones@gmail.com,06-11-2025 23:59,ShopC,3098.838667,completed,high value order
+1360,ryan.vance@gmail.com,07-11-2025 12:00,ShopE,3107.419333,completed,high
+1361,dylan.jones@gmail.com,01-11-2025 09:15,ShopA,3116,completed,Receipt: Order #1001; card ****1270
+1362,ben.reid@gmail.com,02-11-2025 14:05,ShopB,3124.580667,completed,Order confirmation email
+1363,ryan.scott@gmail.com,02-11-2025 14:07,ShopA,3133.161333,refunded,Refund processed on 2025-11-39
+1364,ivy.clark@gmail.com,03-11-2025 11:20,ShopC,3141.742,pending,missing amount in email
+1365,gabby.nelson@gmail.com,04-11-2025 08:45,ShopB,3150.322667,completed,Large purchase; promo applied
+1366,leo.vance@gmail.com,04-11-2025 08:46,ShopB,3158.903333,completed,Duplicate order possible
+1367,chloe.jones@gmail.com,05-11-2025 19:30,ShopD,3167.484,completed,small order
+1368,paul.parker@gmail.com,06-11-2025 00:00,ShopA,3176.064667,completed,zero-amount test
+1369,noah.green@gmail.com,06-11-2025 23:59,ShopC,3184.645333,completed,high value order
+1370,mia.taylor@gmail.com,07-11-2025 12:00,ShopE,3193.226,completed,normal
+1371,ryan.wood@gmail.com,01-11-2025 09:15,ShopA,3201.806667,completed,Receipt: Order #1001; card ****1271
+1372,ryan.vance@gmail.com,02-11-2025 14:05,ShopB,3210.387333,completed,Order confirmation email
+1373,hugo.taylor@gmail.com,02-11-2025 14:07,ShopA,3218.968,refunded,Refund processed on 2025-11-40
+1374,finn.green@gmail.com,03-11-2025 11:20,ShopC,3227.548667,pending,missing amount in email
+1375,toby.miller@gmail.com,04-11-2025 08:45,ShopB,3236.129333,completed,Large purchase; promo applied
+1376,quinn.clark@gmail.com,04-11-2025 08:46,ShopB,3244.71,completed,Duplicate order possible
+1377,jack.green@gmail.com,05-11-2025 19:30,ShopD,3253.290667,completed,small order
+1378,paul.wood@gmail.com,06-11-2025 00:00,ShopA,3261.871333,completed,zero-amount test
+1379,olivia.scott@gmail.com,06-11-2025 23:59,ShopC,3270.452,completed,high value order
+1380,toby.wood@gmail.com,07-11-2025 12:00,ShopE,3279.032667,completed,low
+1381,chloe.parker@gmail.com,01-11-2025 09:15,ShopA,3287.613333,completed,Receipt: Order #1001; card ****1272
+1382,alex.vance@gmail.com,02-11-2025 14:05,ShopB,3296.194,completed,Order confirmation email
+1383,sara.nelson@gmail.com,02-11-2025 14:07,ShopA,3304.774667,refunded,Refund processed on 2025-11-41
+1384,ryan.hall@gmail.com,03-11-2025 11:20,ShopC,3313.355333,pending,missing amount in email
+1385,hugo.baker@gmail.com,04-11-2025 08:45,ShopB,3321.936,completed,Large purchase; promo applied
+1386,ben.davis@gmail.com,04-11-2025 08:46,ShopB,3330.516667,completed,Duplicate order possible
+1387,gabby.hall@gmail.com,05-11-2025 19:30,ShopD,3339.097333,completed,small order
+1388,ryan.wood@gmail.com,06-11-2025 00:00,ShopA,3347.678,completed,zero-amount test
+1389,jack.evans@gmail.com,06-11-2025 23:59,ShopC,3356.258667,completed,high value order
+1390,ben.wood@gmail.com,07-11-2025 12:00,ShopE,3364.839333,completed,high
+1391,mia.owen@gmail.com,01-11-2025 09:15,ShopA,3373.42,completed,Receipt: Order #1001; card ****1273
+1392,leo.parker@gmail.com,02-11-2025 14:05,ShopB,3382.000667,completed,Order confirmation email
+1393,sara.nelson@gmail.com,02-11-2025 14:07,ShopA,3390.581333,refunded,Refund processed on 2025-11-42
+1394,alex.hall@gmail.com,03-11-2025 11:20,ShopC,3399.162,pending,missing amount in email
+1395,ella.king@gmail.com,04-11-2025 08:45,ShopB,3407.742667,completed,Large purchase; promo applied
+1396,dylan.nelson@gmail.com,04-11-2025 08:46,ShopB,3416.323333,completed,Duplicate order possible
+1397,gabby.reid@gmail.com,05-11-2025 19:30,ShopD,3424.904,completed,small order
+1398,alex.lopez@gmail.com,06-11-2025 00:00,ShopA,3433.484667,completed,zero-amount test
+1399,paul.wood@gmail.com,06-11-2025 23:59,ShopC,3442.065333,completed,high value order
+1400,leo.evans@gmail.com,07-11-2025 12:00,ShopE,3450.646,completed,normal
+1401,hugo.hall@gmail.com,01-11-2025 09:15,ShopA,3459.226667,completed,Receipt: Order #1001; card ****1274
+1402,chloe.davis@gmail.com,02-11-2025 14:05,ShopB,3467.807333,completed,Order confirmation email
+1403,mia.miller@gmail.com,02-11-2025 14:07,ShopA,3476.388,refunded,Refund processed on 2025-11-43
+1404,noah.scott@gmail.com,03-11-2025 11:20,ShopC,3484.968667,pending,missing amount in email
+1405,karen.foster@gmail.com,04-11-2025 08:45,ShopB,3493.549333,completed,Large purchase; promo applied
+1406,mia.lopez@gmail.com,04-11-2025 08:46,ShopB,3502.13,completed,Duplicate order possible
+1407,quinn.nelson@gmail.com,05-11-2025 19:30,ShopD,3510.710667,completed,small order
+1408,leo.reid@gmail.com,06-11-2025 00:00,ShopA,3519.291333,completed,zero-amount test
+1409,leo.king@gmail.com,06-11-2025 23:59,ShopC,3527.872,completed,high value order
+1410,noah.vance@gmail.com,07-11-2025 12:00,ShopE,3536.452667,completed,low
+1411,sara.foster@gmail.com,01-11-2025 09:15,ShopA,3545.033333,completed,Receipt: Order #1001; card ****1275
+1412,gabby.evans@gmail.com,02-11-2025 14:05,ShopB,3553.614,completed,Order confirmation email
+1413,finn.reid@gmail.com,02-11-2025 14:07,ShopA,3562.194667,refunded,Refund processed on 2025-11-44
+1414,leo.taylor@gmail.com,03-11-2025 11:20,ShopC,3570.775333,pending,missing amount in email
+1415,karen.nelson@gmail.com,04-11-2025 08:45,ShopB,3579.356,completed,Large purchase; promo applied
+1416,finn.vance@gmail.com,04-11-2025 08:46,ShopB,3587.936667,completed,Duplicate order possible
+1417,quinn.davis@gmail.com,05-11-2025 19:30,ShopD,3596.517333,completed,small order
+1418,alex.clark@gmail.com,06-11-2025 00:00,ShopA,3605.098,completed,zero-amount test
+1419,ben.green@gmail.com,06-11-2025 23:59,ShopC,3613.678667,completed,high value order
+1420,finn.king@gmail.com,07-11-2025 12:00,ShopE,3622.259333,completed,high
+1421,jack.davis@gmail.com,01-11-2025 09:15,ShopA,3630.84,completed,Receipt: Order #1001; card ****1276
+1422,ben.adams@gmail.com,02-11-2025 14:05,ShopB,3639.420667,completed,Order confirmation email
+1423,gabby.reid@gmail.com,02-11-2025 14:07,ShopA,3648.001333,refunded,Refund processed on 2025-11-45
+1424,alex.jones@gmail.com,03-11-2025 11:20,ShopC,3656.582,pending,missing amount in email
+1425,noah.adams@gmail.com,04-11-2025 08:45,ShopB,3665.162667,completed,Large purchase; promo applied
+1426,noah.king@gmail.com,04-11-2025 08:46,ShopB,3673.743333,completed,Duplicate order possible
+1427,quinn.clark@gmail.com,05-11-2025 19:30,ShopD,3682.324,completed,small order
+1428,mia.evans@gmail.com,06-11-2025 00:00,ShopA,3690.904667,completed,zero-amount test
+1429,leo.reid@gmail.com,06-11-2025 23:59,ShopC,3699.485333,completed,high value order
+1430,dylan.clark@gmail.com,07-11-2025 12:00,ShopE,3708.066,completed,normal
+1431,dylan.vance@gmail.com,01-11-2025 09:15,ShopA,3716.646667,completed,Receipt: Order #1001; card ****1277
+1432,karen.vance@gmail.com,02-11-2025 14:05,ShopB,3725.227333,completed,Order confirmation email
+1433,toby.baker@gmail.com,02-11-2025 14:07,ShopA,3733.808,refunded,Refund processed on 2025-11-46
+1434,leo.baker@gmail.com,03-11-2025 11:20,ShopC,3742.388667,pending,missing amount in email
+1435,ben.davis@gmail.com,04-11-2025 08:45,ShopB,3750.969333,completed,Large purchase; promo applied
+1436,sara.king@gmail.com,04-11-2025 08:46,ShopB,3759.55,completed,Duplicate order possible
+1437,finn.parker@gmail.com,05-11-2025 19:30,ShopD,3768.130667,completed,small order
+1438,olivia.evans@gmail.com,06-11-2025 00:00,ShopA,3776.711333,completed,zero-amount test
+1439,toby.davis@gmail.com,06-11-2025 23:59,ShopC,3785.292,completed,high value order
+1440,noah.owen@gmail.com,07-11-2025 12:00,ShopE,3793.872667,completed,low
+1441,hugo.clark@gmail.com,01-11-2025 09:15,ShopA,3802.453333,completed,Receipt: Order #1001; card ****1278
+1442,jack.lopez@gmail.com,02-11-2025 14:05,ShopB,3811.034,completed,Order confirmation email
+1443,dylan.owen@gmail.com,02-11-2025 14:07,ShopA,3819.614667,refunded,Refund processed on 2025-11-47
+1444,ryan.miller@gmail.com,03-11-2025 11:20,ShopC,3828.195333,pending,missing amount in email
+1445,chloe.clark@gmail.com,04-11-2025 08:45,ShopB,3836.776,completed,Large purchase; promo applied
+1446,karen.taylor@gmail.com,04-11-2025 08:46,ShopB,3845.356667,completed,Duplicate order possible
+1447,chloe.adams@gmail.com,05-11-2025 19:30,ShopD,3853.937333,completed,small order
+1448,leo.jones@gmail.com,06-11-2025 00:00,ShopA,3862.518,completed,zero-amount test
+1449,olivia.hall@gmail.com,06-11-2025 23:59,ShopC,3871.098667,completed,high value order
+1450,ben.nelson@gmail.com,07-11-2025 12:00,ShopE,3879.679333,completed,high
+1451,chloe.hall@gmail.com,01-11-2025 09:15,ShopA,3888.26,completed,Receipt: Order #1001; card ****1279
+1452,toby.reid@gmail.com,02-11-2025 14:05,ShopB,3896.840667,completed,Order confirmation email
+1453,noah.king@gmail.com,02-11-2025 14:07,ShopA,3905.421333,refunded,Refund processed on 2025-11-48
+1454,sara.baker@gmail.com,03-11-2025 11:20,ShopC,3914.002,pending,missing amount in email
+1455,karen.lopez@gmail.com,04-11-2025 08:45,ShopB,3922.582667,completed,Large purchase; promo applied
+1456,olivia.adams@gmail.com,04-11-2025 08:46,ShopB,3931.163333,completed,Duplicate order possible
+1457,olivia.reid@gmail.com,05-11-2025 19:30,ShopD,3939.744,completed,small order
+1458,karen.reid@gmail.com,06-11-2025 00:00,ShopA,3948.324667,completed,zero-amount test
+1459,paul.nelson@gmail.com,06-11-2025 23:59,ShopC,3956.905333,completed,high value order
+1460,toby.adams@gmail.com,07-11-2025 12:00,ShopE,3965.486,completed,normal
+1461,alex.foster@gmail.com,01-11-2025 09:15,ShopA,3974.066667,completed,Receipt: Order #1001; card ****1280
+1462,olivia.parker@gmail.com,02-11-2025 14:05,ShopB,3982.647333,completed,Order confirmation email
+1463,mia.davis@gmail.com,02-11-2025 14:07,ShopA,3991.228,refunded,Refund processed on 2025-11-49
+1464,ryan.hall@gmail.com,03-11-2025 11:20,ShopC,3999.808667,pending,missing amount in email
+1465,ryan.taylor@gmail.com,04-11-2025 08:45,ShopB,4008.389333,completed,Large purchase; promo applied
+1466,chloe.green@gmail.com,04-11-2025 08:46,ShopB,4016.97,completed,Duplicate order possible
+1467,alex.scott@gmail.com,05-11-2025 19:30,ShopD,4025.550667,completed,small order
+1468,jack.adams@gmail.com,06-11-2025 00:00,ShopA,4034.131333,completed,zero-amount test
+1469,gabby.owen@gmail.com,06-11-2025 23:59,ShopC,4042.712,completed,high value order
+1470,jack.green@gmail.com,07-11-2025 12:00,ShopE,4051.292667,completed,low
+1471,mia.miller@gmail.com,01-11-2025 09:15,ShopA,4059.873333,completed,Receipt: Order #1001; card ****1281
+1472,finn.miller@gmail.com,02-11-2025 14:05,ShopB,4068.454,completed,Order confirmation email
+1473,karen.wood@gmail.com,02-11-2025 14:07,ShopA,4077.034667,refunded,Refund processed on 2025-11-50
+1474,toby.vance@gmail.com,03-11-2025 11:20,ShopC,4085.615333,pending,missing amount in email
+1475,gabby.lopez@gmail.com,04-11-2025 08:45,ShopB,4094.196,completed,Large purchase; promo applied
+1476,ivy.adams@gmail.com,04-11-2025 08:46,ShopB,4102.776667,completed,Duplicate order possible
+1477,olivia.clark@gmail.com,05-11-2025 19:30,ShopD,4111.357333,completed,small order
+1478,ella.nelson@gmail.com,06-11-2025 00:00,ShopA,4119.938,completed,zero-amount test
+1479,ryan.king@gmail.com,06-11-2025 23:59,ShopC,4128.518667,completed,high value order
+1480,ella.wood@gmail.com,07-11-2025 12:00,ShopE,4137.099333,completed,high
+1481,gabby.parker@gmail.com,01-11-2025 09:15,ShopA,4145.68,completed,Receipt: Order #1001; card ****1282
+1482,toby.scott@gmail.com,02-11-2025 14:05,ShopB,4154.260667,completed,Order confirmation email
+1483,chloe.clark@gmail.com,02-11-2025 14:07,ShopA,4162.841333,refunded,Refund processed on 2025-11-51
+1484,paul.green@gmail.com,03-11-2025 11:20,ShopC,4171.422,pending,missing amount in email
+1485,chloe.baker@gmail.com,04-11-2025 08:45,ShopB,4180.002667,completed,Large purchase; promo applied
+1486,dylan.jones@gmail.com,04-11-2025 08:46,ShopB,4188.583333,completed,Duplicate order possible
+1487,toby.nelson@gmail.com,05-11-2025 19:30,ShopD,4197.164,completed,small order
+1488,paul.jones@gmail.com,06-11-2025 00:00,ShopA,4205.744667,completed,zero-amount test
+1489,olivia.reid@gmail.com,06-11-2025 23:59,ShopC,4214.325333,completed,high value order
+1490,paul.vance@gmail.com,07-11-2025 12:00,ShopE,4222.906,completed,normal
+1491,toby.king@gmail.com,01-11-2025 09:15,ShopA,4231.486667,completed,Receipt: Order #1001; card ****1283
+1492,noah.baker@gmail.com,02-11-2025 14:05,ShopB,4240.067333,completed,Order confirmation email
+1493,olivia.green@gmail.com,02-11-2025 14:07,ShopA,4248.648,refunded,Refund processed on 2025-11-52
+1494,quinn.lopez@gmail.com,03-11-2025 11:20,ShopC,4257.228667,pending,missing amount in email
+1495,toby.green@gmail.com,04-11-2025 08:45,ShopB,4265.809333,completed,Large purchase; promo applied
+1496,toby.baker@gmail.com,04-11-2025 08:46,ShopB,4274.39,completed,Duplicate order possible
+1497,quinn.jones@gmail.com,05-11-2025 19:30,ShopD,4282.970667,completed,small order
+1498,dylan.evans@gmail.com,06-11-2025 00:00,ShopA,4291.551333,completed,zero-amount test
+1499,gabby.king@gmail.com,06-11-2025 23:59,ShopC,4300.132,completed,high value order
+1500,ivy.adams@gmail.com,07-11-2025 12:00,ShopE,4308.712667,completed,low
+1501,olivia.scott@gmail.com,01-11-2025 09:15,ShopA,4317.293333,completed,Receipt: Order #1001; card ****1284
+1502,ivy.reid@gmail.com,02-11-2025 14:05,ShopB,4325.874,completed,Order confirmation email
+1503,quinn.hall@gmail.com,02-11-2025 14:07,ShopA,4334.454667,refunded,Refund processed on 2025-11-53
+1504,olivia.evans@gmail.com,03-11-2025 11:20,ShopC,4343.035333,pending,missing amount in email
+1505,ella.jones@gmail.com,04-11-2025 08:45,ShopB,4351.616,completed,Large purchase; promo applied
+1506,toby.vance@gmail.com,04-11-2025 08:46,ShopB,4360.196667,completed,Duplicate order possible
+1507,noah.clark@gmail.com,05-11-2025 19:30,ShopD,4368.777333,completed,small order
+1508,toby.davis@gmail.com,06-11-2025 00:00,ShopA,4377.358,completed,zero-amount test
+1509,dylan.lopez@gmail.com,06-11-2025 23:59,ShopC,4385.938667,completed,high value order
+1510,leo.davis@gmail.com,07-11-2025 12:00,ShopE,4394.519333,completed,high
+1511,ella.baker@gmail.com,01-11-2025 09:15,ShopA,4403.1,completed,Receipt: Order #1001; card ****1285
+1512,alex.green@gmail.com,02-11-2025 14:05,ShopB,4411.680667,completed,Order confirmation email
+1513,sara.vance@gmail.com,02-11-2025 14:07,ShopA,4420.261333,refunded,Refund processed on 2025-11-54
+1514,quinn.miller@gmail.com,03-11-2025 11:20,ShopC,4428.842,pending,missing amount in email
+1515,noah.nelson@gmail.com,04-11-2025 08:45,ShopB,4437.422667,completed,Large purchase; promo applied
+1516,alex.vance@gmail.com,04-11-2025 08:46,ShopB,4446.003333,completed,Duplicate order possible
+1517,paul.king@gmail.com,05-11-2025 19:30,ShopD,4454.584,completed,small order
+1518,ben.lopez@gmail.com,06-11-2025 00:00,ShopA,4463.164667,completed,zero-amount test
+1519,gabby.taylor@gmail.com,06-11-2025 23:59,ShopC,4471.745333,completed,high value order
+1520,noah.nelson@gmail.com,07-11-2025 12:00,ShopE,4480.326,completed,normal
+1521,sara.taylor@gmail.com,01-11-2025 09:15,ShopA,4488.906667,completed,Receipt: Order #1001; card ****1286
+1522,ella.vance@gmail.com,02-11-2025 14:05,ShopB,4497.487333,completed,Order confirmation email
+1523,paul.baker@gmail.com,02-11-2025 14:07,ShopA,4506.068,refunded,Refund processed on 2025-11-55
+1524,toby.baker@gmail.com,03-11-2025 11:20,ShopC,4514.648667,pending,missing amount in email
+1525,noah.nelson@gmail.com,04-11-2025 08:45,ShopB,4523.229333,completed,Large purchase; promo applied
+1526,ben.adams@gmail.com,04-11-2025 08:46,ShopB,4531.81,completed,Duplicate order possible
+1527,ben.green@gmail.com,05-11-2025 19:30,ShopD,4540.390667,completed,small order
+1528,karen.nelson@gmail.com,06-11-2025 00:00,ShopA,4548.971333,completed,zero-amount test
+1529,mia.scott@gmail.com,06-11-2025 23:59,ShopC,4557.552,completed,high value order
+1530,noah.evans@gmail.com,07-11-2025 12:00,ShopE,4566.132667,completed,low
+1531,olivia.lopez@gmail.com,01-11-2025 09:15,ShopA,4574.713333,completed,Receipt: Order #1001; card ****1287
+1532,olivia.lopez@gmail.com,02-11-2025 14:05,ShopB,4583.294,completed,Order confirmation email
+1533,karen.parker@gmail.com,02-11-2025 14:07,ShopA,4591.874667,refunded,Refund processed on 2025-11-56
+1534,alex.parker@gmail.com,03-11-2025 11:20,ShopC,4600.455333,pending,missing amount in email
+1535,alex.adams@gmail.com,04-11-2025 08:45,ShopB,4609.036,completed,Large purchase; promo applied
+1536,olivia.clark@gmail.com,04-11-2025 08:46,ShopB,4617.616667,completed,Duplicate order possible
+1537,leo.vance@gmail.com,05-11-2025 19:30,ShopD,4626.197333,completed,small order
+1538,sara.nelson@gmail.com,06-11-2025 00:00,ShopA,4634.778,completed,zero-amount test
+1539,dylan.reid@gmail.com,06-11-2025 23:59,ShopC,4643.358667,completed,high value order
+1540,jack.foster@gmail.com,07-11-2025 12:00,ShopE,4651.939333,completed,high
+1541,ivy.miller@gmail.com,01-11-2025 09:15,ShopA,4660.52,completed,Receipt: Order #1001; card ****1288
+1542,ryan.davis@gmail.com,02-11-2025 14:05,ShopB,4669.100667,completed,Order confirmation email
+1543,ben.baker@gmail.com,02-11-2025 14:07,ShopA,4677.681333,refunded,Refund processed on 2025-11-57
+1544,jack.scott@gmail.com,03-11-2025 11:20,ShopC,4686.262,pending,missing amount in email
+1545,gabby.nelson@gmail.com,04-11-2025 08:45,ShopB,4694.842667,completed,Large purchase; promo applied
+1546,mia.davis@gmail.com,04-11-2025 08:46,ShopB,4703.423333,completed,Duplicate order possible
+1547,ben.nelson@gmail.com,05-11-2025 19:30,ShopD,4712.004,completed,small order
+1548,jack.vance@gmail.com,06-11-2025 00:00,ShopA,4720.584667,completed,zero-amount test
+1549,finn.wood@gmail.com,06-11-2025 23:59,ShopC,4729.165333,completed,high value order
+1550,finn.davis@gmail.com,07-11-2025 12:00,ShopE,4737.746,completed,normal
+1551,noah.taylor@gmail.com,01-11-2025 09:15,ShopA,4746.326667,completed,Receipt: Order #1001; card ****1289
+1552,ben.wood@gmail.com,02-11-2025 14:05,ShopB,4754.907333,completed,Order confirmation email
+1553,paul.vance@gmail.com,02-11-2025 14:07,ShopA,4763.488,refunded,Refund processed on 2025-11-58
+1554,ivy.green@gmail.com,03-11-2025 11:20,ShopC,4772.068667,pending,missing amount in email
+1555,ryan.lopez@gmail.com,04-11-2025 08:45,ShopB,4780.649333,completed,Large purchase; promo applied
+1556,sara.lopez@gmail.com,04-11-2025 08:46,ShopB,4789.23,completed,Duplicate order possible
+1557,finn.miller@gmail.com,05-11-2025 19:30,ShopD,4797.810667,completed,small order
+1558,chloe.foster@gmail.com,06-11-2025 00:00,ShopA,4806.391333,completed,zero-amount test
+1559,hugo.evans@gmail.com,06-11-2025 23:59,ShopC,4814.972,completed,high value order
+1560,quinn.evans@gmail.com,07-11-2025 12:00,ShopE,4823.552667,completed,low
+1561,ivy.adams@gmail.com,01-11-2025 09:15,ShopA,4832.133333,completed,Receipt: Order #1001; card ****1290
+1562,alex.davis@gmail.com,02-11-2025 14:05,ShopB,4840.714,completed,Order confirmation email
+1563,sara.scott@gmail.com,02-11-2025 14:07,ShopA,4849.294667,refunded,Refund processed on 2025-11-59
+1564,ryan.green@gmail.com,03-11-2025 11:20,ShopC,4857.875333,pending,missing amount in email
+1565,ella.foster@gmail.com,04-11-2025 08:45,ShopB,4866.456,completed,Large purchase; promo applied
+1566,ella.wood@gmail.com,04-11-2025 08:46,ShopB,4875.036667,completed,Duplicate order possible
+1567,quinn.owen@gmail.com,05-11-2025 19:30,ShopD,4883.617333,completed,small order
+1568,ivy.adams@gmail.com,06-11-2025 00:00,ShopA,4892.198,completed,zero-amount test
+1569,jack.taylor@gmail.com,06-11-2025 23:59,ShopC,4900.778667,completed,high value order
+1570,ella.green@gmail.com,07-11-2025 12:00,ShopE,4909.359333,completed,high
+1571,dylan.lopez@gmail.com,01-11-2025 09:15,ShopA,4917.94,completed,Receipt: Order #1001; card ****1291
+1572,sara.nelson@gmail.com,02-11-2025 14:05,ShopB,4926.520667,completed,Order confirmation email
+1573,paul.taylor@gmail.com,02-11-2025 14:07,ShopA,4935.101333,refunded,Refund processed on 2025-11-60
+1574,alex.king@gmail.com,03-11-2025 11:20,ShopC,4943.682,pending,missing amount in email
+1575,ryan.scott@gmail.com,04-11-2025 08:45,ShopB,4952.262667,completed,Large purchase; promo applied
+1576,leo.adams@gmail.com,04-11-2025 08:46,ShopB,4960.843333,completed,Duplicate order possible
+1577,paul.lopez@gmail.com,05-11-2025 19:30,ShopD,4969.424,completed,small order
+1578,ryan.nelson@gmail.com,06-11-2025 00:00,ShopA,4978.004667,completed,zero-amount test
+1579,jack.miller@gmail.com,06-11-2025 23:59,ShopC,4986.585333,completed,high value order
+1580,hugo.owen@gmail.com,07-11-2025 12:00,ShopE,4995.166,completed,normal
+1581,paul.vance@gmail.com,01-11-2025 09:15,ShopA,5003.746667,completed,Receipt: Order #1001; card ****1292
+1582,mia.adams@gmail.com,02-11-2025 14:05,ShopB,5012.327333,completed,Order confirmation email
+1583,noah.nelson@gmail.com,02-11-2025 14:07,ShopA,5020.908,refunded,Refund processed on 2025-11-61
+1584,leo.taylor@gmail.com,03-11-2025 11:20,ShopC,5029.488667,pending,missing amount in email
+1585,quinn.owen@gmail.com,04-11-2025 08:45,ShopB,5038.069333,completed,Large purchase; promo applied
+1586,ella.davis@gmail.com,04-11-2025 08:46,ShopB,5046.65,completed,Duplicate order possible
+1587,olivia.nelson@gmail.com,05-11-2025 19:30,ShopD,5055.230667,completed,small order
+1588,quinn.owen@gmail.com,06-11-2025 00:00,ShopA,5063.811333,completed,zero-amount test
+1589,gabby.miller@gmail.com,06-11-2025 23:59,ShopC,5072.392,completed,high value order
+1590,karen.scott@gmail.com,07-11-2025 12:00,ShopE,5080.972667,completed,low
+1591,quinn.davis@gmail.com,01-11-2025 09:15,ShopA,5089.553333,completed,Receipt: Order #1001; card ****1293
+1592,finn.lopez@gmail.com,02-11-2025 14:05,ShopB,5098.134,completed,Order confirmation email
+1593,ben.adams@gmail.com,02-11-2025 14:07,ShopA,5106.714667,refunded,Refund processed on 2025-11-62
+1594,ivy.reid@gmail.com,03-11-2025 11:20,ShopC,5115.295333,pending,missing amount in email
+1595,alex.scott@gmail.com,04-11-2025 08:45,ShopB,5123.876,completed,Large purchase; promo applied
+1596,olivia.reid@gmail.com,04-11-2025 08:46,ShopB,5132.456667,completed,Duplicate order possible
+1597,olivia.green@gmail.com,05-11-2025 19:30,ShopD,5141.037333,completed,small order
+1598,dylan.scott@gmail.com,06-11-2025 00:00,ShopA,5149.618,completed,zero-amount test
+1599,toby.hall@gmail.com,06-11-2025 23:59,ShopC,5158.198667,completed,high value order
+1600,dylan.taylor@gmail.com,07-11-2025 12:00,ShopE,5166.779333,completed,high
+1601,ryan.king@gmail.com,01-11-2025 09:15,ShopA,5175.36,completed,Receipt: Order #1001; card ****1294
+1602,sara.clark@gmail.com,02-11-2025 14:05,ShopB,5183.940667,completed,Order confirmation email
+1603,chloe.parker@gmail.com,02-11-2025 14:07,ShopA,5192.521333,refunded,Refund processed on 2025-11-63
+1604,toby.wood@gmail.com,03-11-2025 11:20,ShopC,5201.102,pending,missing amount in email
+1605,olivia.wood@gmail.com,04-11-2025 08:45,ShopB,5209.682667,completed,Large purchase; promo applied
+1606,ben.parker@gmail.com,04-11-2025 08:46,ShopB,5218.263333,completed,Duplicate order possible
+1607,gabby.hall@gmail.com,05-11-2025 19:30,ShopD,5226.844,completed,small order
+1608,karen.hall@gmail.com,06-11-2025 00:00,ShopA,5235.424667,completed,zero-amount test
+1609,ben.davis@gmail.com,06-11-2025 23:59,ShopC,5244.005333,completed,high value order
+1610,toby.parker@gmail.com,07-11-2025 12:00,ShopE,5252.586,completed,normal
+1611,ivy.vance@gmail.com,01-11-2025 09:15,ShopA,5261.166667,completed,Receipt: Order #1001; card ****1295
+1612,ben.scott@gmail.com,02-11-2025 14:05,ShopB,5269.747333,completed,Order confirmation email
+1613,gabby.evans@gmail.com,02-11-2025 14:07,ShopA,5278.328,refunded,Refund processed on 2025-11-64
+1614,karen.parker@gmail.com,03-11-2025 11:20,ShopC,5286.908667,pending,missing amount in email
+1615,noah.owen@gmail.com,04-11-2025 08:45,ShopB,5295.489333,completed,Large purchase; promo applied
+1616,ryan.jones@gmail.com,04-11-2025 08:46,ShopB,5304.07,completed,Duplicate order possible
+1617,paul.scott@gmail.com,05-11-2025 19:30,ShopD,5312.650667,completed,small order
+1618,toby.lopez@gmail.com,06-11-2025 00:00,ShopA,5321.231333,completed,zero-amount test
+1619,ryan.parker@gmail.com,06-11-2025 23:59,ShopC,5329.812,completed,high value order
+1620,karen.scott@gmail.com,07-11-2025 12:00,ShopE,5338.392667,completed,low
+1621,alex.adams@gmail.com,01-11-2025 09:15,ShopA,5346.973333,completed,Receipt: Order #1001; card ****1296
+1622,sara.green@gmail.com,02-11-2025 14:05,ShopB,5355.554,completed,Order confirmation email
+1623,sara.jones@gmail.com,02-11-2025 14:07,ShopA,5364.134667,refunded,Refund processed on 2025-11-65
+1624,finn.evans@gmail.com,03-11-2025 11:20,ShopC,5372.715333,pending,missing amount in email
+1625,dylan.foster@gmail.com,04-11-2025 08:45,ShopB,5381.296,completed,Large purchase; promo applied
+1626,gabby.wood@gmail.com,04-11-2025 08:46,ShopB,5389.876667,completed,Duplicate order possible
+1627,jack.davis@gmail.com,05-11-2025 19:30,ShopD,5398.457333,completed,small order
+1628,mia.wood@gmail.com,06-11-2025 00:00,ShopA,5407.038,completed,zero-amount test
+1629,leo.vance@gmail.com,06-11-2025 23:59,ShopC,5415.618667,completed,high value order
+1630,alex.clark@gmail.com,07-11-2025 12:00,ShopE,5424.199333,completed,high
+1631,sara.wood@gmail.com,01-11-2025 09:15,ShopA,5432.78,completed,Receipt: Order #1001; card ****1297
+1632,quinn.hall@gmail.com,02-11-2025 14:05,ShopB,5441.360667,completed,Order confirmation email
+1633,gabby.owen@gmail.com,02-11-2025 14:07,ShopA,5449.941333,refunded,Refund processed on 2025-11-66
+1634,sara.wood@gmail.com,03-11-2025 11:20,ShopC,5458.522,pending,missing amount in email
+1635,olivia.foster@gmail.com,04-11-2025 08:45,ShopB,5467.102667,completed,Large purchase; promo applied
+1636,karen.green@gmail.com,04-11-2025 08:46,ShopB,5475.683333,completed,Duplicate order possible
+1637,paul.foster@gmail.com,05-11-2025 19:30,ShopD,5484.264,completed,small order
+1638,finn.parker@gmail.com,06-11-2025 00:00,ShopA,5492.844667,completed,zero-amount test
+1639,sara.adams@gmail.com,06-11-2025 23:59,ShopC,5501.425333,completed,high value order
+1640,dylan.jones@gmail.com,07-11-2025 12:00,ShopE,5510.006,completed,normal
+1641,ella.miller@gmail.com,01-11-2025 09:15,ShopA,5518.586667,completed,Receipt: Order #1001; card ****1298
+1642,toby.clark@gmail.com,02-11-2025 14:05,ShopB,5527.167333,completed,Order confirmation email
+1643,leo.lopez@gmail.com,02-11-2025 14:07,ShopA,5535.748,refunded,Refund processed on 2025-11-67
+1644,leo.king@gmail.com,03-11-2025 11:20,ShopC,5544.328667,pending,missing amount in email
+1645,alex.davis@gmail.com,04-11-2025 08:45,ShopB,5552.909333,completed,Large purchase; promo applied
+1646,paul.davis@gmail.com,04-11-2025 08:46,ShopB,5561.49,completed,Duplicate order possible
+1647,noah.baker@gmail.com,05-11-2025 19:30,ShopD,5570.070667,completed,small order
+1648,hugo.jones@gmail.com,06-11-2025 00:00,ShopA,5578.651333,completed,zero-amount test
+1649,sara.evans@gmail.com,06-11-2025 23:59,ShopC,5587.232,completed,high value order
+1650,ben.clark@gmail.com,07-11-2025 12:00,ShopE,5595.812667,completed,low
+1651,hugo.evans@gmail.com,01-11-2025 09:15,ShopA,5604.393333,completed,Receipt: Order #1001; card ****1299
+1652,leo.lopez@gmail.com,02-11-2025 14:05,ShopB,5612.974,completed,Order confirmation email
+1653,gabby.nelson@gmail.com,02-11-2025 14:07,ShopA,5621.554667,refunded,Refund processed on 2025-11-68
+1654,quinn.vance@gmail.com,03-11-2025 11:20,ShopC,5630.135333,pending,missing amount in email
+1655,toby.evans@gmail.com,04-11-2025 08:45,ShopB,5638.716,completed,Large purchase; promo applied
+1656,gabby.scott@gmail.com,04-11-2025 08:46,ShopB,5647.296667,completed,Duplicate order possible
+1657,olivia.hall@gmail.com,05-11-2025 19:30,ShopD,5655.877333,completed,small order
+1658,jack.baker@gmail.com,06-11-2025 00:00,ShopA,5664.458,completed,zero-amount test
+1659,noah.reid@gmail.com,06-11-2025 23:59,ShopC,5673.038667,completed,high value order
+1660,dylan.baker@gmail.com,07-11-2025 12:00,ShopE,5681.619333,completed,high
+1661,olivia.king@gmail.com,01-11-2025 09:15,ShopA,5690.2,completed,Receipt: Order #1001; card ****1300
+1662,ella.nelson@gmail.com,02-11-2025 14:05,ShopB,5698.780667,completed,Order confirmation email
+1663,chloe.vance@gmail.com,02-11-2025 14:07,ShopA,5707.361333,refunded,Refund processed on 2025-11-69
+1664,quinn.clark@gmail.com,03-11-2025 11:20,ShopC,5715.942,pending,missing amount in email
+1665,quinn.wood@gmail.com,04-11-2025 08:45,ShopB,5724.522667,completed,Large purchase; promo applied
+1666,mia.adams@gmail.com,04-11-2025 08:46,ShopB,5733.103333,completed,Duplicate order possible
+1667,paul.reid@gmail.com,05-11-2025 19:30,ShopD,5741.684,completed,small order
+1668,olivia.vance@gmail.com,06-11-2025 00:00,ShopA,5750.264667,completed,zero-amount test
+1669,chloe.king@gmail.com,06-11-2025 23:59,ShopC,5758.845333,completed,high value order
+1670,alex.scott@gmail.com,07-11-2025 12:00,ShopE,5767.426,completed,normal
+1671,chloe.reid@gmail.com,01-11-2025 09:15,ShopA,5776.006667,completed,Receipt: Order #1001; card ****1301
+1672,gabby.taylor@gmail.com,02-11-2025 14:05,ShopB,5784.587333,completed,Order confirmation email
+1673,jack.reid@gmail.com,02-11-2025 14:07,ShopA,5793.168,refunded,Refund processed on 2025-11-70
+1674,ben.owen@gmail.com,03-11-2025 11:20,ShopC,5801.748667,pending,missing amount in email
+1675,chloe.lopez@gmail.com,04-11-2025 08:45,ShopB,5810.329333,completed,Large purchase; promo applied
+1676,ryan.taylor@gmail.com,04-11-2025 08:46,ShopB,5818.91,completed,Duplicate order possible
+1677,ella.adams@gmail.com,05-11-2025 19:30,ShopD,5827.490667,completed,small order
+1678,leo.taylor@gmail.com,06-11-2025 00:00,ShopA,5836.071333,completed,zero-amount test
+1679,ella.foster@gmail.com,06-11-2025 23:59,ShopC,5844.652,completed,high value order
+1680,karen.parker@gmail.com,07-11-2025 12:00,ShopE,5853.232667,completed,low
+1681,chloe.wood@gmail.com,01-11-2025 09:15,ShopA,5861.813333,completed,Receipt: Order #1001; card ****1302
+1682,quinn.hall@gmail.com,02-11-2025 14:05,ShopB,5870.394,completed,Order confirmation email
+1683,olivia.nelson@gmail.com,02-11-2025 14:07,ShopA,5878.974667,refunded,Refund processed on 2025-11-71
+1684,chloe.wood@gmail.com,03-11-2025 11:20,ShopC,5887.555333,pending,missing amount in email
+1685,dylan.reid@gmail.com,04-11-2025 08:45,ShopB,5896.136,completed,Large purchase; promo applied
+1686,mia.lopez@gmail.com,04-11-2025 08:46,ShopB,5904.716667,completed,Duplicate order possible
+1687,alex.davis@gmail.com,05-11-2025 19:30,ShopD,5913.297333,completed,small order
+1688,chloe.taylor@gmail.com,06-11-2025 00:00,ShopA,5921.878,completed,zero-amount test
+1689,mia.wood@gmail.com,06-11-2025 23:59,ShopC,5930.458667,completed,high value order
+1690,mia.adams@gmail.com,07-11-2025 12:00,ShopE,5939.039333,completed,high
+1691,olivia.nelson@gmail.com,01-11-2025 09:15,ShopA,5947.62,completed,Receipt: Order #1001; card ****1303
+1692,toby.hall@gmail.com,02-11-2025 14:05,ShopB,5956.200667,completed,Order confirmation email
+1693,dylan.green@gmail.com,02-11-2025 14:07,ShopA,5964.781333,refunded,Refund processed on 2025-11-72
+1694,jack.nelson@gmail.com,03-11-2025 11:20,ShopC,5973.362,pending,missing amount in email
+1695,sara.foster@gmail.com,04-11-2025 08:45,ShopB,5981.942667,completed,Large purchase; promo applied
+1696,ben.reid@gmail.com,04-11-2025 08:46,ShopB,5990.523333,completed,Duplicate order possible
+1697,finn.clark@gmail.com,05-11-2025 19:30,ShopD,5999.104,completed,small order
+1698,finn.nelson@gmail.com,06-11-2025 00:00,ShopA,6007.684667,completed,zero-amount test
+1699,finn.nelson@gmail.com,06-11-2025 23:59,ShopC,6016.265333,completed,high value order
+1700,ryan.nelson@gmail.com,07-11-2025 12:00,ShopE,6024.846,completed,normal
+1701,finn.vance@gmail.com,01-11-2025 09:15,ShopA,6033.426667,completed,Receipt: Order #1001; card ****1304
+1702,ella.scott@gmail.com,02-11-2025 14:05,ShopB,6042.007333,completed,Order confirmation email
+1703,hugo.baker@gmail.com,02-11-2025 14:07,ShopA,6050.588,refunded,Refund processed on 2025-11-73
+1704,karen.hall@gmail.com,03-11-2025 11:20,ShopC,6059.168667,pending,missing amount in email
+1705,paul.parker@gmail.com,04-11-2025 08:45,ShopB,6067.749333,completed,Large purchase; promo applied
+1706,paul.adams@gmail.com,04-11-2025 08:46,ShopB,6076.33,completed,Duplicate order possible
+1707,leo.clark@gmail.com,05-11-2025 19:30,ShopD,6084.910667,completed,small order
+1708,jack.nelson@gmail.com,06-11-2025 00:00,ShopA,6093.491333,completed,zero-amount test
+1709,toby.nelson@gmail.com,06-11-2025 23:59,ShopC,6102.072,completed,high value order
+1710,noah.reid@gmail.com,07-11-2025 12:00,ShopE,6110.652667,completed,low
+1711,ella.hall@gmail.com,01-11-2025 09:15,ShopA,6119.233333,completed,Receipt: Order #1001; card ****1305
+1712,ryan.parker@gmail.com,02-11-2025 14:05,ShopB,6127.814,completed,Order confirmation email
+1713,ryan.miller@gmail.com,02-11-2025 14:07,ShopA,6136.394667,refunded,Refund processed on 2025-11-74
+1714,gabby.adams@gmail.com,03-11-2025 11:20,ShopC,6144.975333,pending,missing amount in email
+1715,jack.parker@gmail.com,04-11-2025 08:45,ShopB,6153.556,completed,Large purchase; promo applied
+1716,paul.vance@gmail.com,04-11-2025 08:46,ShopB,6162.136667,completed,Duplicate order possible
+1717,ben.taylor@gmail.com,05-11-2025 19:30,ShopD,6170.717333,completed,small order
+1718,olivia.green@gmail.com,06-11-2025 00:00,ShopA,6179.298,completed,zero-amount test
+1719,hugo.owen@gmail.com,06-11-2025 23:59,ShopC,6187.878667,completed,high value order
+1720,alex.adams@gmail.com,07-11-2025 12:00,ShopE,6196.459333,completed,high
+1721,ella.jones@gmail.com,01-11-2025 09:15,ShopA,6205.04,completed,Receipt: Order #1001; card ****1306
+1722,toby.king@gmail.com,02-11-2025 14:05,ShopB,6213.620667,completed,Order confirmation email
+1723,finn.nelson@gmail.com,02-11-2025 14:07,ShopA,6222.201333,refunded,Refund processed on 2025-11-75
+1724,gabby.jones@gmail.com,03-11-2025 11:20,ShopC,6230.782,pending,missing amount in email
+1725,leo.jones@gmail.com,04-11-2025 08:45,ShopB,6239.362667,completed,Large purchase; promo applied
+1726,gabby.king@gmail.com,04-11-2025 08:46,ShopB,6247.943333,completed,Duplicate order possible
+1727,finn.hall@gmail.com,05-11-2025 19:30,ShopD,6256.524,completed,small order
+1728,noah.baker@gmail.com,06-11-2025 00:00,ShopA,6265.104667,completed,zero-amount test
+1729,quinn.davis@gmail.com,06-11-2025 23:59,ShopC,6273.685333,completed,high value order
+1730,gabby.green@gmail.com,07-11-2025 12:00,ShopE,6282.266,completed,normal
+1731,olivia.hall@gmail.com,01-11-2025 09:15,ShopA,6290.846667,completed,Receipt: Order #1001; card ****1307
+1732,olivia.clark@gmail.com,02-11-2025 14:05,ShopB,6299.427333,completed,Order confirmation email
+1733,karen.davis@gmail.com,02-11-2025 14:07,ShopA,6308.008,refunded,Refund processed on 2025-11-76
+1734,ivy.parker@gmail.com,03-11-2025 11:20,ShopC,6316.588667,pending,missing amount in email
+1735,finn.miller@gmail.com,04-11-2025 08:45,ShopB,6325.169333,completed,Large purchase; promo applied
+1736,ryan.taylor@gmail.com,04-11-2025 08:46,ShopB,6333.75,completed,Duplicate order possible
+1737,toby.scott@gmail.com,05-11-2025 19:30,ShopD,6342.330667,completed,small order
+1738,dylan.green@gmail.com,06-11-2025 00:00,ShopA,6350.911333,completed,zero-amount test
+1739,toby.baker@gmail.com,06-11-2025 23:59,ShopC,6359.492,completed,high value order
+1740,finn.taylor@gmail.com,07-11-2025 12:00,ShopE,6368.072667,completed,low
+1741,hugo.lopez@gmail.com,01-11-2025 09:15,ShopA,6376.653333,completed,Receipt: Order #1001; card ****1308
+1742,sara.green@gmail.com,02-11-2025 14:05,ShopB,6385.234,completed,Order confirmation email
+1743,hugo.parker@gmail.com,02-11-2025 14:07,ShopA,6393.814667,refunded,Refund processed on 2025-11-77
+1744,finn.adams@gmail.com,03-11-2025 11:20,ShopC,6402.395333,pending,missing amount in email
+1745,chloe.davis@gmail.com,04-11-2025 08:45,ShopB,6410.976,completed,Large purchase; promo applied
+1746,finn.owen@gmail.com,04-11-2025 08:46,ShopB,6419.556667,completed,Duplicate order possible
+1747,chloe.nelson@gmail.com,05-11-2025 19:30,ShopD,6428.137333,completed,small order
+1748,ivy.vance@gmail.com,06-11-2025 00:00,ShopA,6436.718,completed,zero-amount test
+1749,chloe.jones@gmail.com,06-11-2025 23:59,ShopC,6445.298667,completed,high value order
+1750,ryan.adams@gmail.com,07-11-2025 12:00,ShopE,6453.879333,completed,high
+1751,ben.lopez@gmail.com,01-11-2025 09:15,ShopA,6462.46,completed,Receipt: Order #1001; card ****1309
+1752,leo.hall@gmail.com,02-11-2025 14:05,ShopB,6471.040667,completed,Order confirmation email
+1753,finn.miller@gmail.com,02-11-2025 14:07,ShopA,6479.621333,refunded,Refund processed on 2025-11-78
+1754,chloe.king@gmail.com,03-11-2025 11:20,ShopC,6488.202,pending,missing amount in email
+1755,ella.scott@gmail.com,04-11-2025 08:45,ShopB,6496.782667,completed,Large purchase; promo applied
+1756,ivy.owen@gmail.com,04-11-2025 08:46,ShopB,6505.363333,completed,Duplicate order possible
+1757,noah.adams@gmail.com,05-11-2025 19:30,ShopD,6513.944,completed,small order
+1758,karen.hall@gmail.com,06-11-2025 00:00,ShopA,6522.524667,completed,zero-amount test
+1759,mia.green@gmail.com,06-11-2025 23:59,ShopC,6531.105333,completed,high value order
+1760,ben.miller@gmail.com,07-11-2025 12:00,ShopE,6539.686,completed,normal
+1761,noah.wood@gmail.com,01-11-2025 09:15,ShopA,6548.266667,completed,Receipt: Order #1001; card ****1310
+1762,gabby.green@gmail.com,02-11-2025 14:05,ShopB,6556.847333,completed,Order confirmation email
+1763,chloe.taylor@gmail.com,02-11-2025 14:07,ShopA,6565.428,refunded,Refund processed on 2025-11-79
+1764,ivy.green@gmail.com,03-11-2025 11:20,ShopC,6574.008667,pending,missing amount in email
+1765,toby.evans@gmail.com,04-11-2025 08:45,ShopB,6582.589333,completed,Large purchase; promo applied
+1766,noah.hall@gmail.com,04-11-2025 08:46,ShopB,6591.17,completed,Duplicate order possible
+1767,toby.nelson@gmail.com,05-11-2025 19:30,ShopD,6599.750667,completed,small order
+1768,dylan.vance@gmail.com,06-11-2025 00:00,ShopA,6608.331333,completed,zero-amount test
+1769,ivy.reid@gmail.com,06-11-2025 23:59,ShopC,6616.912,completed,high value order
+1770,finn.clark@gmail.com,07-11-2025 12:00,ShopE,6625.492667,completed,low
+1771,jack.jones@gmail.com,01-11-2025 09:15,ShopA,6634.073333,completed,Receipt: Order #1001; card ****1311
+1772,jack.lopez@gmail.com,02-11-2025 14:05,ShopB,6642.654,completed,Order confirmation email
+1773,paul.nelson@gmail.com,02-11-2025 14:07,ShopA,6651.234667,refunded,Refund processed on 2025-11-80
+1774,alex.miller@gmail.com,03-11-2025 11:20,ShopC,6659.815333,pending,missing amount in email
+1775,dylan.parker@gmail.com,04-11-2025 08:45,ShopB,6668.396,completed,Large purchase; promo applied
+1776,jack.green@gmail.com,04-11-2025 08:46,ShopB,6676.976667,completed,Duplicate order possible
+1777,ella.vance@gmail.com,05-11-2025 19:30,ShopD,6685.557333,completed,small order
+1778,ryan.scott@gmail.com,06-11-2025 00:00,ShopA,6694.138,completed,zero-amount test
+1779,paul.taylor@gmail.com,06-11-2025 23:59,ShopC,6702.718667,completed,high value order
+1780,leo.lopez@gmail.com,07-11-2025 12:00,ShopE,6711.299333,completed,high
+1781,noah.jones@gmail.com,01-11-2025 09:15,ShopA,6719.88,completed,Receipt: Order #1001; card ****1312
+1782,toby.green@gmail.com,02-11-2025 14:05,ShopB,6728.460667,completed,Order confirmation email
+1783,ryan.hall@gmail.com,02-11-2025 14:07,ShopA,6737.041333,refunded,Refund processed on 2025-11-81
+1784,olivia.davis@gmail.com,03-11-2025 11:20,ShopC,6745.622,pending,missing amount in email
+1785,leo.vance@gmail.com,04-11-2025 08:45,ShopB,6754.202667,completed,Large purchase; promo applied
+1786,karen.miller@gmail.com,04-11-2025 08:46,ShopB,6762.783333,completed,Duplicate order possible
+1787,mia.reid@gmail.com,05-11-2025 19:30,ShopD,6771.364,completed,small order
+1788,leo.taylor@gmail.com,06-11-2025 00:00,ShopA,6779.944667,completed,zero-amount test
+1789,mia.adams@gmail.com,06-11-2025 23:59,ShopC,6788.525333,completed,high value order
+1790,toby.vance@gmail.com,07-11-2025 12:00,ShopE,6797.106,completed,normal
+1791,quinn.king@gmail.com,01-11-2025 09:15,ShopA,6805.686667,completed,Receipt: Order #1001; card ****1313
+1792,hugo.jones@gmail.com,02-11-2025 14:05,ShopB,6814.267333,completed,Order confirmation email
+1793,ryan.foster@gmail.com,02-11-2025 14:07,ShopA,6822.848,refunded,Refund processed on 2025-11-82
+1794,ben.jones@gmail.com,03-11-2025 11:20,ShopC,6831.428667,pending,missing amount in email
+1795,dylan.vance@gmail.com,04-11-2025 08:45,ShopB,6840.009333,completed,Large purchase; promo applied
+1796,olivia.king@gmail.com,04-11-2025 08:46,ShopB,6848.59,completed,Duplicate order possible
+1797,alex.adams@gmail.com,05-11-2025 19:30,ShopD,6857.170667,completed,small order
+1798,gabby.foster@gmail.com,06-11-2025 00:00,ShopA,6865.751333,completed,zero-amount test
+1799,olivia.evans@gmail.com,06-11-2025 23:59,ShopC,6874.332,completed,high value order
+1800,ryan.baker@gmail.com,07-11-2025 12:00,ShopE,6882.912667,completed,low
+1801,mia.foster@gmail.com,01-11-2025 09:15,ShopA,6891.493333,completed,Receipt: Order #1001; card ****1314
+1802,gabby.jones@gmail.com,02-11-2025 14:05,ShopB,6900.074,completed,Order confirmation email
+1803,ivy.lopez@gmail.com,02-11-2025 14:07,ShopA,6908.654667,refunded,Refund processed on 2025-11-83
+1804,ella.green@gmail.com,03-11-2025 11:20,ShopC,6917.235333,pending,missing amount in email
+1805,hugo.owen@gmail.com,04-11-2025 08:45,ShopB,6925.816,completed,Large purchase; promo applied
+1806,gabby.vance@gmail.com,04-11-2025 08:46,ShopB,6934.396667,completed,Duplicate order possible
+1807,noah.evans@gmail.com,05-11-2025 19:30,ShopD,6942.977333,completed,small order
+1808,toby.wood@gmail.com,06-11-2025 00:00,ShopA,6951.558,completed,zero-amount test
+1809,ella.wood@gmail.com,06-11-2025 23:59,ShopC,6960.138667,completed,high value order
+1810,ivy.nelson@gmail.com,07-11-2025 12:00,ShopE,6968.719333,completed,high
+1811,ryan.miller@gmail.com,01-11-2025 09:15,ShopA,6977.3,completed,Receipt: Order #1001; card ****1315
+1812,olivia.scott@gmail.com,02-11-2025 14:05,ShopB,6985.880667,completed,Order confirmation email
+1813,karen.green@gmail.com,02-11-2025 14:07,ShopA,6994.461333,refunded,Refund processed on 2025-11-84
+1814,ivy.green@gmail.com,03-11-2025 11:20,ShopC,7003.042,pending,missing amount in email
+1815,ella.clark@gmail.com,04-11-2025 08:45,ShopB,7011.622667,completed,Large purchase; promo applied
+1816,finn.evans@gmail.com,04-11-2025 08:46,ShopB,7020.203333,completed,Duplicate order possible
+1817,finn.lopez@gmail.com,05-11-2025 19:30,ShopD,7028.784,completed,small order
+1818,finn.evans@gmail.com,06-11-2025 00:00,ShopA,7037.364667,completed,zero-amount test
+1819,ivy.reid@gmail.com,06-11-2025 23:59,ShopC,7045.945333,completed,high value order
+1820,hugo.parker@gmail.com,07-11-2025 12:00,ShopE,7054.526,completed,normal
+1821,alex.reid@gmail.com,01-11-2025 09:15,ShopA,7063.106667,completed,Receipt: Order #1001; card ****1316
+1822,ben.owen@gmail.com,02-11-2025 14:05,ShopB,7071.687333,completed,Order confirmation email
+1823,quinn.king@gmail.com,02-11-2025 14:07,ShopA,7080.268,refunded,Refund processed on 2025-11-85
+1824,ivy.vance@gmail.com,03-11-2025 11:20,ShopC,7088.848667,pending,missing amount in email
+1825,ivy.miller@gmail.com,04-11-2025 08:45,ShopB,7097.429333,completed,Large purchase; promo applied
+1826,dylan.vance@gmail.com,04-11-2025 08:46,ShopB,7106.01,completed,Duplicate order possible
+1827,ivy.evans@gmail.com,05-11-2025 19:30,ShopD,7114.590667,completed,small order
+1828,chloe.lopez@gmail.com,06-11-2025 00:00,ShopA,7123.171333,completed,zero-amount test
+1829,ivy.adams@gmail.com,06-11-2025 23:59,ShopC,7131.752,completed,high value order
+1830,dylan.baker@gmail.com,07-11-2025 12:00,ShopE,7140.332667,completed,low
+1831,paul.king@gmail.com,01-11-2025 09:15,ShopA,7148.913333,completed,Receipt: Order #1001; card ****1317
+1832,toby.evans@gmail.com,02-11-2025 14:05,ShopB,7157.494,completed,Order confirmation email
+1833,karen.king@gmail.com,02-11-2025 14:07,ShopA,7166.074667,refunded,Refund processed on 2025-11-86
+1834,leo.baker@gmail.com,03-11-2025 11:20,ShopC,7174.655333,pending,missing amount in email
+1835,ryan.evans@gmail.com,04-11-2025 08:45,ShopB,7183.236,completed,Large purchase; promo applied
+1836,karen.scott@gmail.com,04-11-2025 08:46,ShopB,7191.816667,completed,Duplicate order possible
+1837,finn.king@gmail.com,05-11-2025 19:30,ShopD,7200.397333,completed,small order
+1838,quinn.jones@gmail.com,06-11-2025 00:00,ShopA,7208.978,completed,zero-amount test
+1839,ivy.scott@gmail.com,06-11-2025 23:59,ShopC,7217.558667,completed,high value order
+1840,ella.king@gmail.com,07-11-2025 12:00,ShopE,7226.139333,completed,high
+1841,finn.green@gmail.com,01-11-2025 09:15,ShopA,7234.72,completed,Receipt: Order #1001; card ****1318
+1842,alex.adams@gmail.com,02-11-2025 14:05,ShopB,7243.300667,completed,Order confirmation email
+1843,quinn.taylor@gmail.com,02-11-2025 14:07,ShopA,7251.881333,refunded,Refund processed on 2025-11-87
+1844,dylan.green@gmail.com,03-11-2025 11:20,ShopC,7260.462,pending,missing amount in email
+1845,ivy.baker@gmail.com,04-11-2025 08:45,ShopB,7269.042667,completed,Large purchase; promo applied
+1846,karen.green@gmail.com,04-11-2025 08:46,ShopB,7277.623333,completed,Duplicate order possible
+1847,ryan.lopez@gmail.com,05-11-2025 19:30,ShopD,7286.204,completed,small order
+1848,chloe.scott@gmail.com,06-11-2025 00:00,ShopA,7294.784667,completed,zero-amount test
+1849,toby.baker@gmail.com,06-11-2025 23:59,ShopC,7303.365333,completed,high value order
+1850,toby.reid@gmail.com,07-11-2025 12:00,ShopE,7311.946,completed,normal
+1851,gabby.foster@gmail.com,01-11-2025 09:15,ShopA,7320.526667,completed,Receipt: Order #1001; card ****1319
+1852,chloe.parker@gmail.com,02-11-2025 14:05,ShopB,7329.107333,completed,Order confirmation email
+1853,toby.davis@gmail.com,02-11-2025 14:07,ShopA,7337.688,refunded,Refund processed on 2025-11-88
+1854,quinn.scott@gmail.com,03-11-2025 11:20,ShopC,7346.268667,pending,missing amount in email
+1855,paul.vance@gmail.com,04-11-2025 08:45,ShopB,7354.849333,completed,Large purchase; promo applied
+1856,ella.wood@gmail.com,04-11-2025 08:46,ShopB,7363.43,completed,Duplicate order possible
+1857,ivy.baker@gmail.com,05-11-2025 19:30,ShopD,7372.010667,completed,small order
+1858,toby.clark@gmail.com,06-11-2025 00:00,ShopA,7380.591333,completed,zero-amount test
+1859,mia.taylor@gmail.com,06-11-2025 23:59,ShopC,7389.172,completed,high value order
+1860,alex.king@gmail.com,07-11-2025 12:00,ShopE,7397.752667,completed,low
+1861,ryan.king@gmail.com,01-11-2025 09:15,ShopA,7406.333333,completed,Receipt: Order #1001; card ****1320
+1862,ryan.scott@gmail.com,02-11-2025 14:05,ShopB,7414.914,completed,Order confirmation email
+1863,karen.nelson@gmail.com,02-11-2025 14:07,ShopA,7423.494667,refunded,Refund processed on 2025-11-89
+1864,dylan.baker@gmail.com,03-11-2025 11:20,ShopC,7432.075333,pending,missing amount in email
+1865,quinn.jones@gmail.com,04-11-2025 08:45,ShopB,7440.656,completed,Large purchase; promo applied
+1866,sara.davis@gmail.com,04-11-2025 08:46,ShopB,7449.236667,completed,Duplicate order possible
+1867,noah.jones@gmail.com,05-11-2025 19:30,ShopD,7457.817333,completed,small order
+1868,sara.miller@gmail.com,06-11-2025 00:00,ShopA,7466.398,completed,zero-amount test
+1869,ella.owen@gmail.com,06-11-2025 23:59,ShopC,7474.978667,completed,high value order
+1870,quinn.parker@gmail.com,07-11-2025 12:00,ShopE,7483.559333,completed,high
+1871,sara.owen@gmail.com,01-11-2025 09:15,ShopA,7492.14,completed,Receipt: Order #1001; card ****1321
+1872,paul.jones@gmail.com,02-11-2025 14:05,ShopB,7500.720667,completed,Order confirmation email
+1873,finn.evans@gmail.com,02-11-2025 14:07,ShopA,7509.301333,refunded,Refund processed on 2025-11-90
+1874,jack.scott@gmail.com,03-11-2025 11:20,ShopC,7517.882,pending,missing amount in email
+1875,ryan.owen@gmail.com,04-11-2025 08:45,ShopB,7526.462667,completed,Large purchase; promo applied
+1876,finn.king@gmail.com,04-11-2025 08:46,ShopB,7535.043333,completed,Duplicate order possible
+1877,ryan.hall@gmail.com,05-11-2025 19:30,ShopD,7543.624,completed,small order
+1878,dylan.scott@gmail.com,06-11-2025 00:00,ShopA,7552.204667,completed,zero-amount test
+1879,toby.baker@gmail.com,06-11-2025 23:59,ShopC,7560.785333,completed,high value order
+1880,paul.parker@gmail.com,07-11-2025 12:00,ShopE,7569.366,completed,normal
+1881,dylan.baker@gmail.com,01-11-2025 09:15,ShopA,7577.946667,completed,Receipt: Order #1001; card ****1322
+1882,mia.evans@gmail.com,02-11-2025 14:05,ShopB,7586.527333,completed,Order confirmation email
+1883,alex.wood@gmail.com,02-11-2025 14:07,ShopA,7595.108,refunded,Refund processed on 2025-11-91
+1884,alex.reid@gmail.com,03-11-2025 11:20,ShopC,7603.688667,pending,missing amount in email
+1885,jack.green@gmail.com,04-11-2025 08:45,ShopB,7612.269333,completed,Large purchase; promo applied
+1886,mia.clark@gmail.com,04-11-2025 08:46,ShopB,7620.85,completed,Duplicate order possible
+1887,olivia.parker@gmail.com,05-11-2025 19:30,ShopD,7629.430667,completed,small order
+1888,olivia.scott@gmail.com,06-11-2025 00:00,ShopA,7638.011333,completed,zero-amount test
+1889,olivia.green@gmail.com,06-11-2025 23:59,ShopC,7646.592,completed,high value order
+1890,karen.davis@gmail.com,07-11-2025 12:00,ShopE,7655.172667,completed,low
+1891,sara.lopez@gmail.com,01-11-2025 09:15,ShopA,7663.753333,completed,Receipt: Order #1001; card ****1323
+1892,olivia.nelson@gmail.com,02-11-2025 14:05,ShopB,7672.334,completed,Order confirmation email
+1893,noah.owen@gmail.com,02-11-2025 14:07,ShopA,7680.914667,refunded,Refund processed on 2025-11-92
+1894,mia.evans@gmail.com,03-11-2025 11:20,ShopC,7689.495333,pending,missing amount in email
+1895,olivia.vance@gmail.com,04-11-2025 08:45,ShopB,7698.076,completed,Large purchase; promo applied
+1896,ella.hall@gmail.com,04-11-2025 08:46,ShopB,7706.656667,completed,Duplicate order possible
+1897,paul.parker@gmail.com,05-11-2025 19:30,ShopD,7715.237333,completed,small order
+1898,alex.vance@gmail.com,06-11-2025 00:00,ShopA,7723.818,completed,zero-amount test
+1899,leo.lopez@gmail.com,06-11-2025 23:59,ShopC,7732.398667,completed,high value order
+1900,sara.nelson@gmail.com,07-11-2025 12:00,ShopE,7740.979333,completed,high
+1901,ryan.owen@gmail.com,01-11-2025 09:15,ShopA,7749.56,completed,Receipt: Order #1001; card ****1324
+1902,ella.parker@gmail.com,02-11-2025 14:05,ShopB,7758.140667,completed,Order confirmation email
+1903,karen.adams@gmail.com,02-11-2025 14:07,ShopA,7766.721333,refunded,Refund processed on 2025-11-93
+1904,quinn.jones@gmail.com,03-11-2025 11:20,ShopC,7775.302,pending,missing amount in email
+1905,leo.green@gmail.com,04-11-2025 08:45,ShopB,7783.882667,completed,Large purchase; promo applied
+1906,chloe.lopez@gmail.com,04-11-2025 08:46,ShopB,7792.463333,completed,Duplicate order possible
+1907,mia.reid@gmail.com,05-11-2025 19:30,ShopD,7801.044,completed,small order
+1908,gabby.lopez@gmail.com,06-11-2025 00:00,ShopA,7809.624667,completed,zero-amount test
+1909,quinn.adams@gmail.com,06-11-2025 23:59,ShopC,7818.205333,completed,high value order
+1910,finn.green@gmail.com,07-11-2025 12:00,ShopE,7826.786,completed,normal
+1911,ivy.reid@gmail.com,01-11-2025 09:15,ShopA,7835.366667,completed,Receipt: Order #1001; card ****1325
+1912,hugo.clark@gmail.com,02-11-2025 14:05,ShopB,7843.947333,completed,Order confirmation email
+1913,mia.scott@gmail.com,02-11-2025 14:07,ShopA,7852.528,refunded,Refund processed on 2025-11-94
+1914,hugo.foster@gmail.com,03-11-2025 11:20,ShopC,7861.108667,pending,missing amount in email
+1915,noah.parker@gmail.com,04-11-2025 08:45,ShopB,7869.689333,completed,Large purchase; promo applied
+1916,sara.hall@gmail.com,04-11-2025 08:46,ShopB,7878.27,completed,Duplicate order possible
+1917,karen.baker@gmail.com,05-11-2025 19:30,ShopD,7886.850667,completed,small order
+1918,dylan.parker@gmail.com,06-11-2025 00:00,ShopA,7895.431333,completed,zero-amount test
+1919,chloe.baker@gmail.com,06-11-2025 23:59,ShopC,7904.012,completed,high value order
+1920,sara.green@gmail.com,07-11-2025 12:00,ShopE,7912.592667,completed,low
+1921,noah.reid@gmail.com,01-11-2025 09:15,ShopA,7921.173333,completed,Receipt: Order #1001; card ****1326
+1922,jack.king@gmail.com,02-11-2025 14:05,ShopB,7929.754,completed,Order confirmation email
+1923,olivia.clark@gmail.com,02-11-2025 14:07,ShopA,7938.334667,refunded,Refund processed on 2025-11-95
+1924,ryan.reid@gmail.com,03-11-2025 11:20,ShopC,7946.915333,pending,missing amount in email
+1925,leo.evans@gmail.com,04-11-2025 08:45,ShopB,7955.496,completed,Large purchase; promo applied
+1926,quinn.lopez@gmail.com,04-11-2025 08:46,ShopB,7964.076667,completed,Duplicate order possible
+1927,ben.clark@gmail.com,05-11-2025 19:30,ShopD,7972.657333,completed,small order
+1928,dylan.jones@gmail.com,06-11-2025 00:00,ShopA,7981.238,completed,zero-amount test
+1929,jack.adams@gmail.com,06-11-2025 23:59,ShopC,7989.818667,completed,high value order
+1930,quinn.scott@gmail.com,07-11-2025 12:00,ShopE,7998.399333,completed,high
+1931,gabby.miller@gmail.com,01-11-2025 09:15,ShopA,8006.98,completed,Receipt: Order #1001; card ****1327
+1932,ella.jones@gmail.com,02-11-2025 14:05,ShopB,8015.560667,completed,Order confirmation email
+1933,ivy.miller@gmail.com,02-11-2025 14:07,ShopA,8024.141333,refunded,Refund processed on 2025-11-96
+1934,ryan.reid@gmail.com,03-11-2025 11:20,ShopC,8032.722,pending,missing amount in email
+1935,paul.king@gmail.com,04-11-2025 08:45,ShopB,8041.302667,completed,Large purchase; promo applied
+1936,finn.evans@gmail.com,04-11-2025 08:46,ShopB,8049.883333,completed,Duplicate order possible
+1937,karen.adams@gmail.com,05-11-2025 19:30,ShopD,8058.464,completed,small order
+1938,dylan.reid@gmail.com,06-11-2025 00:00,ShopA,8067.044667,completed,zero-amount test
+1939,jack.parker@gmail.com,06-11-2025 23:59,ShopC,8075.625333,completed,high value order
+1940,paul.foster@gmail.com,07-11-2025 12:00,ShopE,8084.206,completed,normal
+1941,gabby.vance@gmail.com,01-11-2025 09:15,ShopA,8092.786667,completed,Receipt: Order #1001; card ****1328
+1942,hugo.adams@gmail.com,02-11-2025 14:05,ShopB,8101.367333,completed,Order confirmation email
+1943,olivia.scott@gmail.com,02-11-2025 14:07,ShopA,8109.948,refunded,Refund processed on 2025-11-97
+1944,gabby.baker@gmail.com,03-11-2025 11:20,ShopC,8118.528667,pending,missing amount in email
+1945,ivy.nelson@gmail.com,04-11-2025 08:45,ShopB,8127.109333,completed,Large purchase; promo applied
+1946,dylan.reid@gmail.com,04-11-2025 08:46,ShopB,8135.69,completed,Duplicate order possible
+1947,leo.nelson@gmail.com,05-11-2025 19:30,ShopD,8144.270667,completed,small order
+1948,toby.miller@gmail.com,06-11-2025 00:00,ShopA,8152.851333,completed,zero-amount test
+1949,leo.taylor@gmail.com,06-11-2025 23:59,ShopC,8161.432,completed,high value order
+1950,dylan.foster@gmail.com,07-11-2025 12:00,ShopE,8170.012667,completed,low
+1951,mia.wood@gmail.com,01-11-2025 09:15,ShopA,8178.593333,completed,Receipt: Order #1001; card ****1329
+1952,jack.nelson@gmail.com,02-11-2025 14:05,ShopB,8187.174,completed,Order confirmation email
+1953,hugo.scott@gmail.com,02-11-2025 14:07,ShopA,8195.754667,refunded,Refund processed on 2025-11-98
+1954,ben.foster@gmail.com,03-11-2025 11:20,ShopC,8204.335333,pending,missing amount in email
+1955,gabby.clark@gmail.com,04-11-2025 08:45,ShopB,8212.916,completed,Large purchase; promo applied
+1956,gabby.wood@gmail.com,04-11-2025 08:46,ShopB,8221.496667,completed,Duplicate order possible
+1957,dylan.scott@gmail.com,05-11-2025 19:30,ShopD,8230.077333,completed,small order
+1958,ella.wood@gmail.com,06-11-2025 00:00,ShopA,8238.658,completed,zero-amount test
+1959,mia.taylor@gmail.com,06-11-2025 23:59,ShopC,8247.238667,completed,high value order
+1960,toby.adams@gmail.com,07-11-2025 12:00,ShopE,8255.819333,completed,high
+1961,jack.baker@gmail.com,01-11-2025 09:15,ShopA,8264.4,completed,Receipt: Order #1001; card ****1330
+1962,karen.clark@gmail.com,02-11-2025 14:05,ShopB,8272.980667,completed,Order confirmation email
+1963,finn.reid@gmail.com,02-11-2025 14:07,ShopA,8281.561333,refunded,Refund processed on 2025-11-99
+1964,paul.miller@gmail.com,03-11-2025 11:20,ShopC,8290.142,pending,missing amount in email
+1965,karen.evans@gmail.com,04-11-2025 08:45,ShopB,8298.722667,completed,Large purchase; promo applied
+1966,olivia.taylor@gmail.com,04-11-2025 08:46,ShopB,8307.303333,completed,Duplicate order possible
+1967,leo.king@gmail.com,05-11-2025 19:30,ShopD,8315.884,completed,small order
+1968,leo.green@gmail.com,06-11-2025 00:00,ShopA,8324.464667,completed,zero-amount test
+1969,jack.davis@gmail.com,06-11-2025 23:59,ShopC,8333.045333,completed,high value order
+1970,ben.hall@gmail.com,07-11-2025 12:00,ShopE,8341.626,completed,normal
+1971,karen.taylor@gmail.com,01-11-2025 09:15,ShopA,8350.206667,completed,Receipt: Order #1001; card ****1331
+1972,ella.lopez@gmail.com,02-11-2025 14:05,ShopB,8358.787333,completed,Order confirmation email
+1973,gabby.davis@gmail.com,02-11-2025 14:07,ShopA,8367.368,refunded,Refund processed on 2025-11-100
+1974,toby.lopez@gmail.com,03-11-2025 11:20,ShopC,8375.948667,pending,missing amount in email
+1975,quinn.nelson@gmail.com,04-11-2025 08:45,ShopB,8384.529333,completed,Large purchase; promo applied
+1976,noah.miller@gmail.com,04-11-2025 08:46,ShopB,8393.11,completed,Duplicate order possible
+1977,gabby.nelson@gmail.com,05-11-2025 19:30,ShopD,8401.690667,completed,small order
+1978,toby.nelson@gmail.com,06-11-2025 00:00,ShopA,8410.271333,completed,zero-amount test
+1979,quinn.king@gmail.com,06-11-2025 23:59,ShopC,8418.852,completed,high value order
+1980,dylan.scott@gmail.com,07-11-2025 12:00,ShopE,8427.432667,completed,low
+1981,finn.owen@gmail.com,01-11-2025 09:15,ShopA,8436.013333,completed,Receipt: Order #1001; card ****1332
+1982,finn.wood@gmail.com,02-11-2025 14:05,ShopB,8444.594,completed,Order confirmation email
+1983,ben.green@gmail.com,02-11-2025 14:07,ShopA,8453.174667,refunded,Refund processed on 2025-11-101
+1984,ryan.taylor@gmail.com,03-11-2025 11:20,ShopC,8461.755333,pending,missing amount in email
+1985,ivy.king@gmail.com,04-11-2025 08:45,ShopB,8470.336,completed,Large purchase; promo applied
+1986,sara.davis@gmail.com,04-11-2025 08:46,ShopB,8478.916667,completed,Duplicate order possible
+1987,ryan.miller@gmail.com,05-11-2025 19:30,ShopD,8487.497333,completed,small order
+1988,sara.baker@gmail.com,06-11-2025 00:00,ShopA,8496.078,completed,zero-amount test
+1989,ivy.adams@gmail.com,06-11-2025 23:59,ShopC,8504.658667,completed,high value order
+1990,karen.clark@gmail.com,07-11-2025 12:00,ShopE,8513.239333,completed,high
+1991,quinn.jones@gmail.com,01-11-2025 09:15,ShopA,8521.82,completed,Receipt: Order #1001; card ****1333
+1992,quinn.taylor@gmail.com,02-11-2025 14:05,ShopB,8530.400667,completed,Order confirmation email
+1993,mia.taylor@gmail.com,02-11-2025 14:07,ShopA,8538.981333,refunded,Refund processed on 2025-11-102
+1994,jack.wood@gmail.com,03-11-2025 11:20,ShopC,8547.562,pending,missing amount in email
+1995,toby.parker@gmail.com,04-11-2025 08:45,ShopB,8556.142667,completed,Large purchase; promo applied
+1996,chloe.vance@gmail.com,04-11-2025 08:46,ShopB,8564.723333,completed,Duplicate order possible
+1997,noah.taylor@gmail.com,05-11-2025 19:30,ShopD,8573.304,completed,small order
+1998,hugo.miller@gmail.com,06-11-2025 00:00,ShopA,8581.884667,completed,zero-amount test
+1999,jack.king@gmail.com,06-11-2025 23:59,ShopC,8590.465333,completed,high value order
+2000,ivy.nelson@gmail.com,07-11-2025 12:00,ShopE,8599.046,completed,normal
+2001,gabby.owen@gmail.com,01-11-2025 09:15,ShopA,8607.626667,completed,Receipt: Order #1001; card ****1334
+2002,karen.miller@gmail.com,02-11-2025 14:05,ShopB,8616.207333,completed,Order confirmation email
+2003,karen.hall@gmail.com,02-11-2025 14:07,ShopA,8624.788,refunded,Refund processed on 2025-11-103
+2004,sara.nelson@gmail.com,03-11-2025 11:20,ShopC,8633.368667,pending,missing amount in email
+2005,gabby.green@gmail.com,04-11-2025 08:45,ShopB,8641.949333,completed,Large purchase; promo applied
+2006,hugo.adams@gmail.com,04-11-2025 08:46,ShopB,8650.53,completed,Duplicate order possible
+2007,leo.jones@gmail.com,05-11-2025 19:30,ShopD,8659.110667,completed,small order
+2008,ryan.clark@gmail.com,06-11-2025 00:00,ShopA,8667.691333,completed,zero-amount test
+2009,ben.miller@gmail.com,06-11-2025 23:59,ShopC,8676.272,completed,high value order
+2010,finn.foster@gmail.com,07-11-2025 12:00,ShopE,8684.852667,completed,low
+2011,leo.davis@gmail.com,01-11-2025 09:15,ShopA,8693.433333,completed,Receipt: Order #1001; card ****1335
+2012,dylan.reid@gmail.com,02-11-2025 14:05,ShopB,8702.014,completed,Order confirmation email
+2013,olivia.miller@gmail.com,02-11-2025 14:07,ShopA,8710.594667,refunded,Refund processed on 2025-11-104
+2014,chloe.taylor@gmail.com,03-11-2025 11:20,ShopC,8719.175333,pending,missing amount in email
+2015,leo.evans@gmail.com,04-11-2025 08:45,ShopB,8727.756,completed,Large purchase; promo applied
+2016,noah.evans@gmail.com,04-11-2025 08:46,ShopB,8736.336667,completed,Duplicate order possible
+2017,olivia.vance@gmail.com,05-11-2025 19:30,ShopD,8744.917333,completed,small order
+2018,toby.adams@gmail.com,06-11-2025 00:00,ShopA,8753.498,completed,zero-amount test
+2019,leo.hall@gmail.com,06-11-2025 23:59,ShopC,8762.078667,completed,high value order
+2020,ben.green@gmail.com,07-11-2025 12:00,ShopE,8770.659333,completed,high
+2021,hugo.king@gmail.com,01-11-2025 09:15,ShopA,8779.24,completed,Receipt: Order #1001; card ****1336
+2022,chloe.hall@gmail.com,02-11-2025 14:05,ShopB,8787.820667,completed,Order confirmation email
+2023,karen.wood@gmail.com,02-11-2025 14:07,ShopA,8796.401333,refunded,Refund processed on 2025-11-105
+2024,finn.parker@gmail.com,03-11-2025 11:20,ShopC,8804.982,pending,missing amount in email
+2025,mia.lopez@gmail.com,04-11-2025 08:45,ShopB,8813.562667,completed,Large purchase; promo applied
+2026,finn.scott@gmail.com,04-11-2025 08:46,ShopB,8822.143333,completed,Duplicate order possible
+2027,karen.wood@gmail.com,05-11-2025 19:30,ShopD,8830.724,completed,small order
+2028,ryan.taylor@gmail.com,06-11-2025 00:00,ShopA,8839.304667,completed,zero-amount test
+2029,jack.davis@gmail.com,06-11-2025 23:59,ShopC,8847.885333,completed,high value order
+2030,quinn.taylor@gmail.com,07-11-2025 12:00,ShopE,8856.466,completed,normal
+2031,ivy.lopez@gmail.com,01-11-2025 09:15,ShopA,8865.046667,completed,Receipt: Order #1001; card ****1337
+2032,toby.taylor@gmail.com,02-11-2025 14:05,ShopB,8873.627333,completed,Order confirmation email
+2033,olivia.king@gmail.com,02-11-2025 14:07,ShopA,8882.208,refunded,Refund processed on 2025-11-106
+2034,chloe.king@gmail.com,03-11-2025 11:20,ShopC,8890.788667,pending,missing amount in email
+2035,noah.evans@gmail.com,04-11-2025 08:45,ShopB,8899.369333,completed,Large purchase; promo applied
+2036,paul.parker@gmail.com,04-11-2025 08:46,ShopB,8907.95,completed,Duplicate order possible
+2037,dylan.wood@gmail.com,05-11-2025 19:30,ShopD,8916.530667,completed,small order
+2038,hugo.davis@gmail.com,06-11-2025 00:00,ShopA,8925.111333,completed,zero-amount test
+2039,mia.vance@gmail.com,06-11-2025 23:59,ShopC,8933.692,completed,high value order
+2040,ivy.reid@gmail.com,07-11-2025 12:00,ShopE,8942.272667,completed,low
+2041,sara.hall@gmail.com,01-11-2025 09:15,ShopA,8950.853333,completed,Receipt: Order #1001; card ****1338
+2042,karen.vance@gmail.com,02-11-2025 14:05,ShopB,8959.434,completed,Order confirmation email
+2043,paul.king@gmail.com,02-11-2025 14:07,ShopA,8968.014667,refunded,Refund processed on 2025-11-107
+2044,ella.parker@gmail.com,03-11-2025 11:20,ShopC,8976.595333,pending,missing amount in email
+2045,ben.green@gmail.com,04-11-2025 08:45,ShopB,8985.176,completed,Large purchase; promo applied
+2046,olivia.adams@gmail.com,04-11-2025 08:46,ShopB,8993.756667,completed,Duplicate order possible
+2047,gabby.green@gmail.com,05-11-2025 19:30,ShopD,9002.337333,completed,small order
+2048,dylan.wood@gmail.com,06-11-2025 00:00,ShopA,9010.918,completed,zero-amount test
+2049,noah.green@gmail.com,06-11-2025 23:59,ShopC,9019.498667,completed,high value order
+2050,alex.jones@gmail.com,07-11-2025 12:00,ShopE,9028.079333,completed,high
+2051,karen.nelson@gmail.com,01-11-2025 09:15,ShopA,9036.66,completed,Receipt: Order #1001; card ****1339
+2052,alex.evans@gmail.com,02-11-2025 14:05,ShopB,9045.240667,completed,Order confirmation email
+2053,sara.owen@gmail.com,02-11-2025 14:07,ShopA,9053.821333,refunded,Refund processed on 2025-11-108
+2054,ben.jones@gmail.com,03-11-2025 11:20,ShopC,9062.402,pending,missing amount in email
+2055,karen.hall@gmail.com,04-11-2025 08:45,ShopB,9070.982667,completed,Large purchase; promo applied
+2056,hugo.nelson@gmail.com,04-11-2025 08:46,ShopB,9079.563333,completed,Duplicate order possible
+2057,mia.lopez@gmail.com,05-11-2025 19:30,ShopD,9088.144,completed,small order
+2058,jack.wood@gmail.com,06-11-2025 00:00,ShopA,9096.724667,completed,zero-amount test
+2059,ben.green@gmail.com,06-11-2025 23:59,ShopC,9105.305333,completed,high value order
+2060,finn.jones@gmail.com,07-11-2025 12:00,ShopE,9113.886,completed,normal
+2061,ryan.nelson@gmail.com,01-11-2025 09:15,ShopA,9122.466667,completed,Receipt: Order #1001; card ****1340
+2062,olivia.wood@gmail.com,02-11-2025 14:05,ShopB,9131.047333,completed,Order confirmation email
+2063,noah.baker@gmail.com,02-11-2025 14:07,ShopA,9139.628,refunded,Refund processed on 2025-11-109
+2064,olivia.miller@gmail.com,03-11-2025 11:20,ShopC,9148.208667,pending,missing amount in email
+2065,ivy.wood@gmail.com,04-11-2025 08:45,ShopB,9156.789333,completed,Large purchase; promo applied
+2066,olivia.scott@gmail.com,04-11-2025 08:46,ShopB,9165.37,completed,Duplicate order possible
+2067,toby.taylor@gmail.com,05-11-2025 19:30,ShopD,9173.950667,completed,small order
+2068,chloe.wood@gmail.com,06-11-2025 00:00,ShopA,9182.531333,completed,zero-amount test
+2069,ella.reid@gmail.com,06-11-2025 23:59,ShopC,9191.112,completed,high value order
+2070,quinn.scott@gmail.com,07-11-2025 12:00,ShopE,9199.692667,completed,low
+2071,chloe.vance@gmail.com,01-11-2025 09:15,ShopA,9208.273333,completed,Receipt: Order #1001; card ****1341
+2072,quinn.scott@gmail.com,02-11-2025 14:05,ShopB,9216.854,completed,Order confirmation email
+2073,karen.king@gmail.com,02-11-2025 14:07,ShopA,9225.434667,refunded,Refund processed on 2025-11-110
+2074,toby.scott@gmail.com,03-11-2025 11:20,ShopC,9234.015333,pending,missing amount in email
+2075,noah.parker@gmail.com,04-11-2025 08:45,ShopB,9242.596,completed,Large purchase; promo applied
+2076,ben.lopez@gmail.com,04-11-2025 08:46,ShopB,9251.176667,completed,Duplicate order possible
+2077,quinn.reid@gmail.com,05-11-2025 19:30,ShopD,9259.757333,completed,small order
+2078,olivia.miller@gmail.com,06-11-2025 00:00,ShopA,9268.338,completed,zero-amount test
+2079,mia.parker@gmail.com,06-11-2025 23:59,ShopC,9276.918667,completed,high value order
+2080,karen.taylor@gmail.com,07-11-2025 12:00,ShopE,9285.499333,completed,high
+2081,ryan.evans@gmail.com,01-11-2025 09:15,ShopA,9294.08,completed,Receipt: Order #1001; card ****1342
+2082,quinn.green@gmail.com,02-11-2025 14:05,ShopB,9302.660667,completed,Order confirmation email
+2083,alex.clark@gmail.com,02-11-2025 14:07,ShopA,9311.241333,refunded,Refund processed on 2025-11-111
+2084,paul.parker@gmail.com,03-11-2025 11:20,ShopC,9319.822,pending,missing amount in email
+2085,mia.king@gmail.com,04-11-2025 08:45,ShopB,9328.402667,completed,Large purchase; promo applied
+2086,paul.wood@gmail.com,04-11-2025 08:46,ShopB,9336.983333,completed,Duplicate order possible
+2087,ben.scott@gmail.com,05-11-2025 19:30,ShopD,9345.564,completed,small order
+2088,ella.davis@gmail.com,06-11-2025 00:00,ShopA,9354.144667,completed,zero-amount test
+2089,finn.taylor@gmail.com,06-11-2025 23:59,ShopC,9362.725333,completed,high value order
+2090,olivia.nelson@gmail.com,07-11-2025 12:00,ShopE,9371.306,completed,normal
+2091,ivy.foster@gmail.com,01-11-2025 09:15,ShopA,9379.886667,completed,Receipt: Order #1001; card ****1343
+2092,sara.jones@gmail.com,02-11-2025 14:05,ShopB,9388.467333,completed,Order confirmation email
+2093,finn.wood@gmail.com,02-11-2025 14:07,ShopA,9397.048,refunded,Refund processed on 2025-11-112
+2094,dylan.vance@gmail.com,03-11-2025 11:20,ShopC,9405.628667,pending,missing amount in email
+2095,mia.king@gmail.com,04-11-2025 08:45,ShopB,9414.209333,completed,Large purchase; promo applied
+2096,noah.adams@gmail.com,04-11-2025 08:46,ShopB,9422.79,completed,Duplicate order possible
+2097,dylan.king@gmail.com,05-11-2025 19:30,ShopD,9431.370667,completed,small order
+2098,karen.wood@gmail.com,06-11-2025 00:00,ShopA,9439.951333,completed,zero-amount test
+2099,mia.miller@gmail.com,06-11-2025 23:59,ShopC,9448.532,completed,high value order
+2100,gabby.scott@gmail.com,07-11-2025 12:00,ShopE,9457.112667,completed,low
+2101,finn.wood@gmail.com,01-11-2025 09:15,ShopA,9465.693333,completed,Receipt: Order #1001; card ****1344
+2102,leo.davis@gmail.com,02-11-2025 14:05,ShopB,9474.274,completed,Order confirmation email
+2103,olivia.foster@gmail.com,02-11-2025 14:07,ShopA,9482.854667,refunded,Refund processed on 2025-11-113
+2104,gabby.hall@gmail.com,03-11-2025 11:20,ShopC,9491.435333,pending,missing amount in email
+2105,alex.clark@gmail.com,04-11-2025 08:45,ShopB,9500.016,completed,Large purchase; promo applied
+2106,noah.adams@gmail.com,04-11-2025 08:46,ShopB,9508.596667,completed,Duplicate order possible
+2107,paul.scott@gmail.com,05-11-2025 19:30,ShopD,9517.177333,completed,small order
+2108,olivia.jones@gmail.com,06-11-2025 00:00,ShopA,9525.758,completed,zero-amount test
+2109,paul.wood@gmail.com,06-11-2025 23:59,ShopC,9534.338667,completed,high value order
+2110,ryan.nelson@gmail.com,07-11-2025 12:00,ShopE,9542.919333,completed,high
+2111,ella.taylor@gmail.com,01-11-2025 09:15,ShopA,9551.5,completed,Receipt: Order #1001; card ****1345
+2112,sara.wood@gmail.com,02-11-2025 14:05,ShopB,9560.080667,completed,Order confirmation email
+2113,olivia.lopez@gmail.com,02-11-2025 14:07,ShopA,9568.661333,refunded,Refund processed on 2025-11-114
+2114,gabby.owen@gmail.com,03-11-2025 11:20,ShopC,9577.242,pending,missing amount in email
+2115,leo.clark@gmail.com,04-11-2025 08:45,ShopB,9585.822667,completed,Large purchase; promo applied
+2116,dylan.owen@gmail.com,04-11-2025 08:46,ShopB,9594.403333,completed,Duplicate order possible
+2117,olivia.adams@gmail.com,05-11-2025 19:30,ShopD,9602.984,completed,small order
+2118,ella.miller@gmail.com,06-11-2025 00:00,ShopA,9611.564667,completed,zero-amount test
+2119,ryan.parker@gmail.com,06-11-2025 23:59,ShopC,9620.145333,completed,high value order
+2120,alex.adams@gmail.com,07-11-2025 12:00,ShopE,9628.726,completed,normal
+2121,ivy.davis@gmail.com,01-11-2025 09:15,ShopA,9637.306667,completed,Receipt: Order #1001; card ****1346
+2122,olivia.adams@gmail.com,02-11-2025 14:05,ShopB,9645.887333,completed,Order confirmation email
+2123,ivy.vance@gmail.com,02-11-2025 14:07,ShopA,9654.468,refunded,Refund processed on 2025-11-115
+2124,finn.vance@gmail.com,03-11-2025 11:20,ShopC,9663.048667,pending,missing amount in email
+2125,sara.parker@gmail.com,04-11-2025 08:45,ShopB,9671.629333,completed,Large purchase; promo applied
+2126,gabby.miller@gmail.com,04-11-2025 08:46,ShopB,9680.21,completed,Duplicate order possible
+2127,alex.taylor@gmail.com,05-11-2025 19:30,ShopD,9688.790667,completed,small order
+2128,ivy.foster@gmail.com,06-11-2025 00:00,ShopA,9697.371333,completed,zero-amount test
+2129,alex.foster@gmail.com,06-11-2025 23:59,ShopC,9705.952,completed,high value order
+2130,chloe.hall@gmail.com,07-11-2025 12:00,ShopE,9714.532667,completed,low
+2131,ivy.davis@gmail.com,01-11-2025 09:15,ShopA,9723.113333,completed,Receipt: Order #1001; card ****1347
+2132,alex.miller@gmail.com,02-11-2025 14:05,ShopB,9731.694,completed,Order confirmation email
+2133,jack.green@gmail.com,02-11-2025 14:07,ShopA,9740.274667,refunded,Refund processed on 2025-11-116
+2134,hugo.reid@gmail.com,03-11-2025 11:20,ShopC,9748.855333,pending,missing amount in email
+2135,leo.taylor@gmail.com,04-11-2025 08:45,ShopB,9757.436,completed,Large purchase; promo applied
+2136,gabby.reid@gmail.com,04-11-2025 08:46,ShopB,9766.016667,completed,Duplicate order possible
+2137,jack.wood@gmail.com,05-11-2025 19:30,ShopD,9774.597333,completed,small order
+2138,hugo.green@gmail.com,06-11-2025 00:00,ShopA,9783.178,completed,zero-amount test
+2139,toby.jones@gmail.com,06-11-2025 23:59,ShopC,9791.758667,completed,high value order
+2140,ryan.scott@gmail.com,07-11-2025 12:00,ShopE,9800.339333,completed,high
+2141,mia.lopez@gmail.com,01-11-2025 09:15,ShopA,9808.92,completed,Receipt: Order #1001; card ****1348
+2142,ella.green@gmail.com,02-11-2025 14:05,ShopB,9817.500667,completed,Order confirmation email
+2143,ivy.baker@gmail.com,02-11-2025 14:07,ShopA,9826.081333,refunded,Refund processed on 2025-11-117
+2144,toby.king@gmail.com,03-11-2025 11:20,ShopC,9834.662,pending,missing amount in email
+2145,alex.taylor@gmail.com,04-11-2025 08:45,ShopB,9843.242667,completed,Large purchase; promo applied
+2146,toby.green@gmail.com,04-11-2025 08:46,ShopB,9851.823333,completed,Duplicate order possible
+2147,paul.vance@gmail.com,05-11-2025 19:30,ShopD,9860.404,completed,small order
+2148,alex.scott@gmail.com,06-11-2025 00:00,ShopA,9868.984667,completed,zero-amount test
+2149,mia.adams@gmail.com,06-11-2025 23:59,ShopC,9877.565333,completed,high value order
+2150,dylan.wood@gmail.com,07-11-2025 12:00,ShopE,9886.146,completed,normal
+2151,hugo.lopez@gmail.com,01-11-2025 09:15,ShopA,9894.726667,completed,Receipt: Order #1001; card ****1349
+2152,gabby.king@gmail.com,02-11-2025 14:05,ShopB,9903.307333,completed,Order confirmation email
+2153,alex.wood@gmail.com,02-11-2025 14:07,ShopA,9911.888,refunded,Refund processed on 2025-11-118
+2154,chloe.baker@gmail.com,03-11-2025 11:20,ShopC,9920.468667,pending,missing amount in email
+2155,gabby.parker@gmail.com,04-11-2025 08:45,ShopB,9929.049333,completed,Large purchase; promo applied
+2156,hugo.davis@gmail.com,04-11-2025 08:46,ShopB,9937.63,completed,Duplicate order possible
+2157,ivy.nelson@gmail.com,05-11-2025 19:30,ShopD,9946.210667,completed,small order
+2158,alex.taylor@gmail.com,06-11-2025 00:00,ShopA,9954.791333,completed,zero-amount test
+2159,olivia.clark@gmail.com,06-11-2025 23:59,ShopC,9963.372,completed,high value order
+2160,ryan.vance@gmail.com,07-11-2025 12:00,ShopE,9971.952667,completed,low
+2161,jack.lopez@gmail.com,01-11-2025 09:15,ShopA,9980.533333,completed,Receipt: Order #1001; card ****1350
+2162,ivy.adams@gmail.com,02-11-2025 14:05,ShopB,9989.114,completed,Order confirmation email
+2163,toby.miller@gmail.com,02-11-2025 14:07,ShopA,9997.694667,refunded,Refund processed on 2025-11-119
+2164,olivia.vance@gmail.com,03-11-2025 11:20,ShopC,10006.27533,pending,missing amount in email
+2165,noah.nelson@gmail.com,04-11-2025 08:45,ShopB,10014.856,completed,Large purchase; promo applied
+2166,leo.wood@gmail.com,04-11-2025 08:46,ShopB,10023.43667,completed,Duplicate order possible
+2167,sara.davis@gmail.com,05-11-2025 19:30,ShopD,10032.01733,completed,small order
+2168,toby.lopez@gmail.com,06-11-2025 00:00,ShopA,10040.598,completed,zero-amount test
+2169,finn.vance@gmail.com,06-11-2025 23:59,ShopC,10049.17867,completed,high value order
+2170,sara.davis@gmail.com,07-11-2025 12:00,ShopE,10057.75933,completed,high
+2171,leo.jones@gmail.com,01-11-2025 09:15,ShopA,10066.34,completed,Receipt: Order #1001; card ****1351
+2172,toby.foster@gmail.com,02-11-2025 14:05,ShopB,10074.92067,completed,Order confirmation email
+2173,sara.taylor@gmail.com,02-11-2025 14:07,ShopA,10083.50133,refunded,Refund processed on 2025-11-120
+2174,quinn.adams@gmail.com,03-11-2025 11:20,ShopC,10092.082,pending,missing amount in email
+2175,ben.hall@gmail.com,04-11-2025 08:45,ShopB,10100.66267,completed,Large purchase; promo applied
+2176,ivy.hall@gmail.com,04-11-2025 08:46,ShopB,10109.24333,completed,Duplicate order possible
+2177,ella.davis@gmail.com,05-11-2025 19:30,ShopD,10117.824,completed,small order
+2178,ella.reid@gmail.com,06-11-2025 00:00,ShopA,10126.40467,completed,zero-amount test
+2179,chloe.foster@gmail.com,06-11-2025 23:59,ShopC,10134.98533,completed,high value order
+2180,ryan.wood@gmail.com,07-11-2025 12:00,ShopE,10143.566,completed,normal
+2181,karen.reid@gmail.com,01-11-2025 09:15,ShopA,10152.14667,completed,Receipt: Order #1001; card ****1352
+2182,ivy.reid@gmail.com,02-11-2025 14:05,ShopB,10160.72733,completed,Order confirmation email
+2183,noah.davis@gmail.com,02-11-2025 14:07,ShopA,10169.308,refunded,Refund processed on 2025-11-121
+2184,ella.wood@gmail.com,03-11-2025 11:20,ShopC,10177.88867,pending,missing amount in email
+2185,mia.hall@gmail.com,04-11-2025 08:45,ShopB,10186.46933,completed,Large purchase; promo applied
+2186,jack.owen@gmail.com,04-11-2025 08:46,ShopB,10195.05,completed,Duplicate order possible
+2187,ryan.vance@gmail.com,05-11-2025 19:30,ShopD,10203.63067,completed,small order
+2188,alex.vance@gmail.com,06-11-2025 00:00,ShopA,10212.21133,completed,zero-amount test
+2189,toby.taylor@gmail.com,06-11-2025 23:59,ShopC,10220.792,completed,high value order
+2190,alex.reid@gmail.com,07-11-2025 12:00,ShopE,10229.37267,completed,low
+2191,mia.scott@gmail.com,01-11-2025 09:15,ShopA,10237.95333,completed,Receipt: Order #1001; card ****1353
+2192,leo.owen@gmail.com,02-11-2025 14:05,ShopB,10246.534,completed,Order confirmation email
+2193,karen.king@gmail.com,02-11-2025 14:07,ShopA,10255.11467,refunded,Refund processed on 2025-11-122
+2194,jack.vance@gmail.com,03-11-2025 11:20,ShopC,10263.69533,pending,missing amount in email
+2195,toby.adams@gmail.com,04-11-2025 08:45,ShopB,10272.276,completed,Large purchase; promo applied
+2196,alex.clark@gmail.com,04-11-2025 08:46,ShopB,10280.85667,completed,Duplicate order possible
+2197,dylan.scott@gmail.com,05-11-2025 19:30,ShopD,10289.43733,completed,small order
+2198,ivy.green@gmail.com,06-11-2025 00:00,ShopA,10298.018,completed,zero-amount test
+2199,noah.evans@gmail.com,06-11-2025 23:59,ShopC,10306.59867,completed,high value order
+2200,mia.reid@gmail.com,07-11-2025 12:00,ShopE,10315.17933,completed,high
+2201,karen.clark@gmail.com,01-11-2025 09:15,ShopA,10323.76,completed,Receipt: Order #1001; card ****1354
+2202,sara.owen@gmail.com,02-11-2025 14:05,ShopB,10332.34067,completed,Order confirmation email
+2203,ella.clark@gmail.com,02-11-2025 14:07,ShopA,10340.92133,refunded,Refund processed on 2025-11-123
+2204,ben.clark@gmail.com,03-11-2025 11:20,ShopC,10349.502,pending,missing amount in email
+2205,toby.nelson@gmail.com,04-11-2025 08:45,ShopB,10358.08267,completed,Large purchase; promo applied
+2206,jack.davis@gmail.com,04-11-2025 08:46,ShopB,10366.66333,completed,Duplicate order possible
+2207,ryan.vance@gmail.com,05-11-2025 19:30,ShopD,10375.244,completed,small order
+2208,olivia.green@gmail.com,06-11-2025 00:00,ShopA,10383.82467,completed,zero-amount test
+2209,quinn.hall@gmail.com,06-11-2025 23:59,ShopC,10392.40533,completed,high value order
+2210,chloe.owen@gmail.com,07-11-2025 12:00,ShopE,10400.986,completed,normal
+2211,paul.hall@gmail.com,01-11-2025 09:15,ShopA,10409.56667,completed,Receipt: Order #1001; card ****1355
+2212,ryan.baker@gmail.com,02-11-2025 14:05,ShopB,10418.14733,completed,Order confirmation email
+2213,chloe.owen@gmail.com,02-11-2025 14:07,ShopA,10426.728,refunded,Refund processed on 2025-11-124
+2214,leo.foster@gmail.com,03-11-2025 11:20,ShopC,10435.30867,pending,missing amount in email
+2215,dylan.evans@gmail.com,04-11-2025 08:45,ShopB,10443.88933,completed,Large purchase; promo applied
+2216,ben.clark@gmail.com,04-11-2025 08:46,ShopB,10452.47,completed,Duplicate order possible
+2217,dylan.lopez@gmail.com,05-11-2025 19:30,ShopD,10461.05067,completed,small order
+2218,ben.davis@gmail.com,06-11-2025 00:00,ShopA,10469.63133,completed,zero-amount test
+2219,jack.lopez@gmail.com,06-11-2025 23:59,ShopC,10478.212,completed,high value order
+2220,chloe.wood@gmail.com,07-11-2025 12:00,ShopE,10486.79267,completed,low
+2221,ella.vance@gmail.com,01-11-2025 09:15,ShopA,10495.37333,completed,Receipt: Order #1001; card ****1356
+2222,paul.taylor@gmail.com,02-11-2025 14:05,ShopB,10503.954,completed,Order confirmation email
+2223,noah.foster@gmail.com,02-11-2025 14:07,ShopA,10512.53467,refunded,Refund processed on 2025-11-125
+2224,jack.clark@gmail.com,03-11-2025 11:20,ShopC,10521.11533,pending,missing amount in email
+2225,ben.parker@gmail.com,04-11-2025 08:45,ShopB,10529.696,completed,Large purchase; promo applied
+2226,olivia.foster@gmail.com,04-11-2025 08:46,ShopB,10538.27667,completed,Duplicate order possible
+2227,ryan.foster@gmail.com,05-11-2025 19:30,ShopD,10546.85733,completed,small order
+2228,mia.scott@gmail.com,06-11-2025 00:00,ShopA,10555.438,completed,zero-amount test
+2229,hugo.green@gmail.com,06-11-2025 23:59,ShopC,10564.01867,completed,high value order
+2230,alex.jones@gmail.com,07-11-2025 12:00,ShopE,10572.59933,completed,high
+2231,mia.miller@gmail.com,01-11-2025 09:15,ShopA,10581.18,completed,Receipt: Order #1001; card ****1357
+2232,leo.hall@gmail.com,02-11-2025 14:05,ShopB,10589.76067,completed,Order confirmation email
+2233,toby.scott@gmail.com,02-11-2025 14:07,ShopA,10598.34133,refunded,Refund processed on 2025-11-126
+2234,toby.green@gmail.com,03-11-2025 11:20,ShopC,10606.922,pending,missing amount in email
+2235,finn.parker@gmail.com,04-11-2025 08:45,ShopB,10615.50267,completed,Large purchase; promo applied
+2236,ella.miller@gmail.com,04-11-2025 08:46,ShopB,10624.08333,completed,Duplicate order possible
+2237,ella.nelson@gmail.com,05-11-2025 19:30,ShopD,10632.664,completed,small order
+2238,noah.parker@gmail.com,06-11-2025 00:00,ShopA,10641.24467,completed,zero-amount test
+2239,ella.green@gmail.com,06-11-2025 23:59,ShopC,10649.82533,completed,high value order
+2240,quinn.hall@gmail.com,07-11-2025 12:00,ShopE,10658.406,completed,normal
+2241,dylan.king@gmail.com,01-11-2025 09:15,ShopA,10666.98667,completed,Receipt: Order #1001; card ****1358
+2242,hugo.scott@gmail.com,02-11-2025 14:05,ShopB,10675.56733,completed,Order confirmation email
+2243,ivy.taylor@gmail.com,02-11-2025 14:07,ShopA,10684.148,refunded,Refund processed on 2025-11-127
+2244,toby.wood@gmail.com,03-11-2025 11:20,ShopC,10692.72867,pending,missing amount in email
+2245,sara.davis@gmail.com,04-11-2025 08:45,ShopB,10701.30933,completed,Large purchase; promo applied
+2246,quinn.davis@gmail.com,04-11-2025 08:46,ShopB,10709.89,completed,Duplicate order possible
+2247,ella.reid@gmail.com,05-11-2025 19:30,ShopD,10718.47067,completed,small order
+2248,paul.green@gmail.com,06-11-2025 00:00,ShopA,10727.05133,completed,zero-amount test
+2249,ivy.taylor@gmail.com,06-11-2025 23:59,ShopC,10735.632,completed,high value order
+2250,quinn.jones@gmail.com,07-11-2025 12:00,ShopE,10744.21267,completed,low
+2251,ryan.king@gmail.com,01-11-2025 09:15,ShopA,10752.79333,completed,Receipt: Order #1001; card ****1359
+2252,noah.scott@gmail.com,02-11-2025 14:05,ShopB,10761.374,completed,Order confirmation email
+2253,alex.reid@gmail.com,02-11-2025 14:07,ShopA,10769.95467,refunded,Refund processed on 2025-11-128
+2254,jack.hall@gmail.com,03-11-2025 11:20,ShopC,10778.53533,pending,missing amount in email
+2255,toby.vance@gmail.com,04-11-2025 08:45,ShopB,10787.116,completed,Large purchase; promo applied
+2256,leo.taylor@gmail.com,04-11-2025 08:46,ShopB,10795.69667,completed,Duplicate order possible
+2257,ben.davis@gmail.com,05-11-2025 19:30,ShopD,10804.27733,completed,small order
+2258,hugo.green@gmail.com,06-11-2025 00:00,ShopA,10812.858,completed,zero-amount test
+2259,jack.owen@gmail.com,06-11-2025 23:59,ShopC,10821.43867,completed,high value order
+2260,sara.vance@gmail.com,07-11-2025 12:00,ShopE,10830.01933,completed,high
+2261,sara.king@gmail.com,01-11-2025 09:15,ShopA,10838.6,completed,Receipt: Order #1001; card ****1360
+2262,chloe.davis@gmail.com,02-11-2025 14:05,ShopB,10847.18067,completed,Order confirmation email
+2263,sara.lopez@gmail.com,02-11-2025 14:07,ShopA,10855.76133,refunded,Refund processed on 2025-11-129
+2264,ivy.king@gmail.com,03-11-2025 11:20,ShopC,10864.342,pending,missing amount in email
+2265,noah.foster@gmail.com,04-11-2025 08:45,ShopB,10872.92267,completed,Large purchase; promo applied
+2266,gabby.scott@gmail.com,04-11-2025 08:46,ShopB,10881.50333,completed,Duplicate order possible
+2267,finn.lopez@gmail.com,05-11-2025 19:30,ShopD,10890.084,completed,small order
+2268,olivia.taylor@gmail.com,06-11-2025 00:00,ShopA,10898.66467,completed,zero-amount test
+2269,paul.lopez@gmail.com,06-11-2025 23:59,ShopC,10907.24533,completed,high value order
+2270,ivy.hall@gmail.com,07-11-2025 12:00,ShopE,10915.826,completed,normal
+2271,ben.evans@gmail.com,01-11-2025 09:15,ShopA,10924.40667,completed,Receipt: Order #1001; card ****1361
+2272,finn.scott@gmail.com,02-11-2025 14:05,ShopB,10932.98733,completed,Order confirmation email
+2273,karen.wood@gmail.com,02-11-2025 14:07,ShopA,10941.568,refunded,Refund processed on 2025-11-130
+2274,sara.owen@gmail.com,03-11-2025 11:20,ShopC,10950.14867,pending,missing amount in email
+2275,ivy.adams@gmail.com,04-11-2025 08:45,ShopB,10958.72933,completed,Large purchase; promo applied
+2276,chloe.taylor@gmail.com,04-11-2025 08:46,ShopB,10967.31,completed,Duplicate order possible
+2277,ryan.miller@gmail.com,05-11-2025 19:30,ShopD,10975.89067,completed,small order
+2278,finn.adams@gmail.com,06-11-2025 00:00,ShopA,10984.47133,completed,zero-amount test
+2279,ryan.scott@gmail.com,06-11-2025 23:59,ShopC,10993.052,completed,high value order
+2280,chloe.king@gmail.com,07-11-2025 12:00,ShopE,11001.63267,completed,low
+2281,ben.foster@gmail.com,01-11-2025 09:15,ShopA,11010.21333,completed,Receipt: Order #1001; card ****1362
+2282,sara.nelson@gmail.com,02-11-2025 14:05,ShopB,11018.794,completed,Order confirmation email
+2283,ella.wood@gmail.com,02-11-2025 14:07,ShopA,11027.37467,refunded,Refund processed on 2025-11-131
+2284,quinn.foster@gmail.com,03-11-2025 11:20,ShopC,11035.95533,pending,missing amount in email
+2285,finn.foster@gmail.com,04-11-2025 08:45,ShopB,11044.536,completed,Large purchase; promo applied
+2286,toby.evans@gmail.com,04-11-2025 08:46,ShopB,11053.11667,completed,Duplicate order possible
+2287,mia.miller@gmail.com,05-11-2025 19:30,ShopD,11061.69733,completed,small order
+2288,paul.parker@gmail.com,06-11-2025 00:00,ShopA,11070.278,completed,zero-amount test
+2289,sara.nelson@gmail.com,06-11-2025 23:59,ShopC,11078.85867,completed,high value order
+2290,finn.reid@gmail.com,07-11-2025 12:00,ShopE,11087.43933,completed,high
+2291,mia.wood@gmail.com,01-11-2025 09:15,ShopA,11096.02,completed,Receipt: Order #1001; card ****1363
+2292,olivia.parker@gmail.com,02-11-2025 14:05,ShopB,11104.60067,completed,Order confirmation email
+2293,ivy.clark@gmail.com,02-11-2025 14:07,ShopA,11113.18133,refunded,Refund processed on 2025-11-132
+2294,toby.parker@gmail.com,03-11-2025 11:20,ShopC,11121.762,pending,missing amount in email
+2295,jack.evans@gmail.com,04-11-2025 08:45,ShopB,11130.34267,completed,Large purchase; promo applied
+2296,leo.king@gmail.com,04-11-2025 08:46,ShopB,11138.92333,completed,Duplicate order possible
+2297,leo.lopez@gmail.com,05-11-2025 19:30,ShopD,11147.504,completed,small order
+2298,sara.lopez@gmail.com,06-11-2025 00:00,ShopA,11156.08467,completed,zero-amount test
+2299,quinn.clark@gmail.com,06-11-2025 23:59,ShopC,11164.66533,completed,high value order
+2300,leo.adams@gmail.com,07-11-2025 12:00,ShopE,11173.246,completed,normal
+2301,hugo.vance@gmail.com,01-11-2025 09:15,ShopA,11181.82667,completed,Receipt: Order #1001; card ****1364
+2302,hugo.taylor@gmail.com,02-11-2025 14:05,ShopB,11190.40733,completed,Order confirmation email
+2303,mia.evans@gmail.com,02-11-2025 14:07,ShopA,11198.988,refunded,Refund processed on 2025-11-133
+2304,alex.king@gmail.com,03-11-2025 11:20,ShopC,11207.56867,pending,missing amount in email
+2305,gabby.king@gmail.com,04-11-2025 08:45,ShopB,11216.14933,completed,Large purchase; promo applied
+2306,sara.scott@gmail.com,04-11-2025 08:46,ShopB,11224.73,completed,Duplicate order possible
+2307,paul.evans@gmail.com,05-11-2025 19:30,ShopD,11233.31067,completed,small order
+2308,chloe.nelson@gmail.com,06-11-2025 00:00,ShopA,11241.89133,completed,zero-amount test
+2309,dylan.foster@gmail.com,06-11-2025 23:59,ShopC,11250.472,completed,high value order
+2310,dylan.scott@gmail.com,07-11-2025 12:00,ShopE,11259.05267,completed,low
+2311,ben.nelson@gmail.com,01-11-2025 09:15,ShopA,11267.63333,completed,Receipt: Order #1001; card ****1365
+2312,ella.evans@gmail.com,02-11-2025 14:05,ShopB,11276.214,completed,Order confirmation email
+2313,karen.scott@gmail.com,02-11-2025 14:07,ShopA,11284.79467,refunded,Refund processed on 2025-11-134
+2314,sara.taylor@gmail.com,03-11-2025 11:20,ShopC,11293.37533,pending,missing amount in email
+2315,mia.wood@gmail.com,04-11-2025 08:45,ShopB,11301.956,completed,Large purchase; promo applied
+2316,paul.davis@gmail.com,04-11-2025 08:46,ShopB,11310.53667,completed,Duplicate order possible
+2317,hugo.baker@gmail.com,05-11-2025 19:30,ShopD,11319.11733,completed,small order
+2318,sara.davis@gmail.com,06-11-2025 00:00,ShopA,11327.698,completed,zero-amount test
+2319,leo.reid@gmail.com,06-11-2025 23:59,ShopC,11336.27867,completed,high value order
+2320,finn.adams@gmail.com,07-11-2025 12:00,ShopE,11344.85933,completed,high
+2321,leo.adams@gmail.com,01-11-2025 09:15,ShopA,11353.44,completed,Receipt: Order #1001; card ****1366
+2322,toby.davis@gmail.com,02-11-2025 14:05,ShopB,11362.02067,completed,Order confirmation email
+2323,chloe.scott@gmail.com,02-11-2025 14:07,ShopA,11370.60133,refunded,Refund processed on 2025-11-135
+2324,mia.adams@gmail.com,03-11-2025 11:20,ShopC,11379.182,pending,missing amount in email
+2325,dylan.nelson@gmail.com,04-11-2025 08:45,ShopB,11387.76267,completed,Large purchase; promo applied
+2326,chloe.parker@gmail.com,04-11-2025 08:46,ShopB,11396.34333,completed,Duplicate order possible
+2327,hugo.nelson@gmail.com,05-11-2025 19:30,ShopD,11404.924,completed,small order
+2328,jack.adams@gmail.com,06-11-2025 00:00,ShopA,11413.50467,completed,zero-amount test
+2329,paul.baker@gmail.com,06-11-2025 23:59,ShopC,11422.08533,completed,high value order
+2330,gabby.adams@gmail.com,07-11-2025 12:00,ShopE,11430.666,completed,normal
+2331,paul.scott@gmail.com,01-11-2025 09:15,ShopA,11439.24667,completed,Receipt: Order #1001; card ****1367
+2332,jack.jones@gmail.com,02-11-2025 14:05,ShopB,11447.82733,completed,Order confirmation email
+2333,jack.baker@gmail.com,02-11-2025 14:07,ShopA,11456.408,refunded,Refund processed on 2025-11-136
+2334,jack.green@gmail.com,03-11-2025 11:20,ShopC,11464.98867,pending,missing amount in email
+2335,hugo.king@gmail.com,04-11-2025 08:45,ShopB,11473.56933,completed,Large purchase; promo applied
+2336,quinn.owen@gmail.com,04-11-2025 08:46,ShopB,11482.15,completed,Duplicate order possible
+2337,ella.green@gmail.com,05-11-2025 19:30,ShopD,11490.73067,completed,small order
+2338,dylan.nelson@gmail.com,06-11-2025 00:00,ShopA,11499.31133,completed,zero-amount test
+2339,hugo.jones@gmail.com,06-11-2025 23:59,ShopC,11507.892,completed,high value order
+2340,leo.foster@gmail.com,07-11-2025 12:00,ShopE,11516.47267,completed,low
+2341,ryan.jones@gmail.com,01-11-2025 09:15,ShopA,11525.05333,completed,Receipt: Order #1001; card ****1368
+2342,hugo.baker@gmail.com,02-11-2025 14:05,ShopB,11533.634,completed,Order confirmation email
+2343,olivia.owen@gmail.com,02-11-2025 14:07,ShopA,11542.21467,refunded,Refund processed on 2025-11-137
+2344,gabby.davis@gmail.com,03-11-2025 11:20,ShopC,11550.79533,pending,missing amount in email
+2345,alex.clark@gmail.com,04-11-2025 08:45,ShopB,11559.376,completed,Large purchase; promo applied
+2346,ella.taylor@gmail.com,04-11-2025 08:46,ShopB,11567.95667,completed,Duplicate order possible
+2347,finn.davis@gmail.com,05-11-2025 19:30,ShopD,11576.53733,completed,small order
+2348,olivia.clark@gmail.com,06-11-2025 00:00,ShopA,11585.118,completed,zero-amount test
+2349,karen.reid@gmail.com,06-11-2025 23:59,ShopC,11593.69867,completed,high value order
+2350,toby.scott@gmail.com,07-11-2025 12:00,ShopE,11602.27933,completed,high
+2351,karen.vance@gmail.com,01-11-2025 09:15,ShopA,11610.86,completed,Receipt: Order #1001; card ****1369
+2352,ivy.baker@gmail.com,02-11-2025 14:05,ShopB,11619.44067,completed,Order confirmation email
+2353,ben.taylor@gmail.com,02-11-2025 14:07,ShopA,11628.02133,refunded,Refund processed on 2025-11-138
+2354,noah.miller@gmail.com,03-11-2025 11:20,ShopC,11636.602,pending,missing amount in email
+2355,gabby.clark@gmail.com,04-11-2025 08:45,ShopB,11645.18267,completed,Large purchase; promo applied
+2356,ben.miller@gmail.com,04-11-2025 08:46,ShopB,11653.76333,completed,Duplicate order possible
+2357,noah.owen@gmail.com,05-11-2025 19:30,ShopD,11662.344,completed,small order
+2358,ivy.davis@gmail.com,06-11-2025 00:00,ShopA,11670.92467,completed,zero-amount test
+2359,ben.reid@gmail.com,06-11-2025 23:59,ShopC,11679.50533,completed,high value order
+2360,dylan.wood@gmail.com,07-11-2025 12:00,ShopE,11688.086,completed,normal
+2361,chloe.wood@gmail.com,01-11-2025 09:15,ShopA,11696.66667,completed,Receipt: Order #1001; card ****1370
+2362,chloe.hall@gmail.com,02-11-2025 14:05,ShopB,11705.24733,completed,Order confirmation email
+2363,sara.nelson@gmail.com,02-11-2025 14:07,ShopA,11713.828,refunded,Refund processed on 2025-11-139
+2364,olivia.wood@gmail.com,03-11-2025 11:20,ShopC,11722.40867,pending,missing amount in email
+2365,gabby.reid@gmail.com,04-11-2025 08:45,ShopB,11730.98933,completed,Large purchase; promo applied
+2366,karen.foster@gmail.com,04-11-2025 08:46,ShopB,11739.57,completed,Duplicate order possible
+2367,hugo.wood@gmail.com,05-11-2025 19:30,ShopD,11748.15067,completed,small order
+2368,mia.clark@gmail.com,06-11-2025 00:00,ShopA,11756.73133,completed,zero-amount test
+2369,hugo.scott@gmail.com,06-11-2025 23:59,ShopC,11765.312,completed,high value order
+2370,finn.jones@gmail.com,07-11-2025 12:00,ShopE,11773.89267,completed,low
+2371,chloe.lopez@gmail.com,01-11-2025 09:15,ShopA,11782.47333,completed,Receipt: Order #1001; card ****1371
+2372,sara.jones@gmail.com,02-11-2025 14:05,ShopB,11791.054,completed,Order confirmation email
+2373,gabby.hall@gmail.com,02-11-2025 14:07,ShopA,11799.63467,refunded,Refund processed on 2025-11-140
+2374,toby.scott@gmail.com,03-11-2025 11:20,ShopC,11808.21533,pending,missing amount in email
+2375,paul.lopez@gmail.com,04-11-2025 08:45,ShopB,11816.796,completed,Large purchase; promo applied
+2376,jack.evans@gmail.com,04-11-2025 08:46,ShopB,11825.37667,completed,Duplicate order possible
+2377,jack.foster@gmail.com,05-11-2025 19:30,ShopD,11833.95733,completed,small order
+2378,ella.nelson@gmail.com,06-11-2025 00:00,ShopA,11842.538,completed,zero-amount test
+2379,olivia.davis@gmail.com,06-11-2025 23:59,ShopC,11851.11867,completed,high value order
+2380,alex.vance@gmail.com,07-11-2025 12:00,ShopE,11859.69933,completed,high
+2381,gabby.adams@gmail.com,01-11-2025 09:15,ShopA,11868.28,completed,Receipt: Order #1001; card ****1372
+2382,paul.evans@gmail.com,02-11-2025 14:05,ShopB,11876.86067,completed,Order confirmation email
+2383,quinn.king@gmail.com,02-11-2025 14:07,ShopA,11885.44133,refunded,Refund processed on 2025-11-141
+2384,hugo.parker@gmail.com,03-11-2025 11:20,ShopC,11894.022,pending,missing amount in email
+2385,paul.owen@gmail.com,04-11-2025 08:45,ShopB,11902.60267,completed,Large purchase; promo applied
+2386,jack.vance@gmail.com,04-11-2025 08:46,ShopB,11911.18333,completed,Duplicate order possible
+2387,jack.green@gmail.com,05-11-2025 19:30,ShopD,11919.764,completed,small order
+2388,jack.parker@gmail.com,06-11-2025 00:00,ShopA,11928.34467,completed,zero-amount test
+2389,paul.vance@gmail.com,06-11-2025 23:59,ShopC,11936.92533,completed,high value order
+2390,chloe.evans@gmail.com,07-11-2025 12:00,ShopE,11945.506,completed,normal
+2391,hugo.evans@gmail.com,01-11-2025 09:15,ShopA,11954.08667,completed,Receipt: Order #1001; card ****1373
+2392,noah.evans@gmail.com,02-11-2025 14:05,ShopB,11962.66733,completed,Order confirmation email
+2393,leo.wood@gmail.com,02-11-2025 14:07,ShopA,11971.248,refunded,Refund processed on 2025-11-142
+2394,dylan.hall@gmail.com,03-11-2025 11:20,ShopC,11979.82867,pending,missing amount in email
+2395,sara.foster@gmail.com,04-11-2025 08:45,ShopB,11988.40933,completed,Large purchase; promo applied
+2396,toby.wood@gmail.com,04-11-2025 08:46,ShopB,11996.99,completed,Duplicate order possible
+2397,ben.evans@gmail.com,05-11-2025 19:30,ShopD,12005.57067,completed,small order
+2398,ella.lopez@gmail.com,06-11-2025 00:00,ShopA,12014.15133,completed,zero-amount test
+2399,ivy.foster@gmail.com,06-11-2025 23:59,ShopC,12022.732,completed,high value order
+2400,mia.clark@gmail.com,07-11-2025 12:00,ShopE,12031.31267,completed,low
+2401,mia.king@gmail.com,01-11-2025 09:15,ShopA,12039.89333,completed,Receipt: Order #1001; card ****1374
+2402,alex.foster@gmail.com,02-11-2025 14:05,ShopB,12048.474,completed,Order confirmation email
+2403,quinn.scott@gmail.com,02-11-2025 14:07,ShopA,12057.05467,refunded,Refund processed on 2025-11-143
+2404,ivy.clark@gmail.com,03-11-2025 11:20,ShopC,12065.63533,pending,missing amount in email
+2405,paul.scott@gmail.com,04-11-2025 08:45,ShopB,12074.216,completed,Large purchase; promo applied
+2406,gabby.owen@gmail.com,04-11-2025 08:46,ShopB,12082.79667,completed,Duplicate order possible
+2407,gabby.adams@gmail.com,05-11-2025 19:30,ShopD,12091.37733,completed,small order
+2408,dylan.hall@gmail.com,06-11-2025 00:00,ShopA,12099.958,completed,zero-amount test
+2409,paul.evans@gmail.com,06-11-2025 23:59,ShopC,12108.53867,completed,high value order
+2410,quinn.clark@gmail.com,07-11-2025 12:00,ShopE,12117.11933,completed,high
+2411,chloe.wood@gmail.com,01-11-2025 09:15,ShopA,12125.7,completed,Receipt: Order #1001; card ****1375
+2412,olivia.jones@gmail.com,02-11-2025 14:05,ShopB,12134.28067,completed,Order confirmation email
+2413,jack.taylor@gmail.com,02-11-2025 14:07,ShopA,12142.86133,refunded,Refund processed on 2025-11-144
+2414,jack.jones@gmail.com,03-11-2025 11:20,ShopC,12151.442,pending,missing amount in email
+2415,olivia.foster@gmail.com,04-11-2025 08:45,ShopB,12160.02267,completed,Large purchase; promo applied
+2416,chloe.foster@gmail.com,04-11-2025 08:46,ShopB,12168.60333,completed,Duplicate order possible
+2417,finn.vance@gmail.com,05-11-2025 19:30,ShopD,12177.184,completed,small order
+2418,leo.adams@gmail.com,06-11-2025 00:00,ShopA,12185.76467,completed,zero-amount test
+2419,chloe.owen@gmail.com,06-11-2025 23:59,ShopC,12194.34533,completed,high value order
+2420,jack.green@gmail.com,07-11-2025 12:00,ShopE,12202.926,completed,normal
+2421,olivia.adams@gmail.com,01-11-2025 09:15,ShopA,12211.50667,completed,Receipt: Order #1001; card ****1376
+2422,olivia.adams@gmail.com,02-11-2025 14:05,ShopB,12220.08733,completed,Order confirmation email
+2423,toby.hall@gmail.com,02-11-2025 14:07,ShopA,12228.668,refunded,Refund processed on 2025-11-145
+2424,olivia.wood@gmail.com,03-11-2025 11:20,ShopC,12237.24867,pending,missing amount in email
+2425,quinn.jones@gmail.com,04-11-2025 08:45,ShopB,12245.82933,completed,Large purchase; promo applied
+2426,quinn.scott@gmail.com,04-11-2025 08:46,ShopB,12254.41,completed,Duplicate order possible
+2427,ben.adams@gmail.com,05-11-2025 19:30,ShopD,12262.99067,completed,small order
+2428,ryan.reid@gmail.com,06-11-2025 00:00,ShopA,12271.57133,completed,zero-amount test
+2429,ryan.evans@gmail.com,06-11-2025 23:59,ShopC,12280.152,completed,high value order
+2430,alex.green@gmail.com,07-11-2025 12:00,ShopE,12288.73267,completed,low
+2431,toby.miller@gmail.com,01-11-2025 09:15,ShopA,12297.31333,completed,Receipt: Order #1001; card ****1377
+2432,ivy.davis@gmail.com,02-11-2025 14:05,ShopB,12305.894,completed,Order confirmation email
+2433,sara.davis@gmail.com,02-11-2025 14:07,ShopA,12314.47467,refunded,Refund processed on 2025-11-146
+2434,olivia.foster@gmail.com,03-11-2025 11:20,ShopC,12323.05533,pending,missing amount in email
+2435,ella.owen@gmail.com,04-11-2025 08:45,ShopB,12331.636,completed,Large purchase; promo applied
+2436,finn.taylor@gmail.com,04-11-2025 08:46,ShopB,12340.21667,completed,Duplicate order possible
+2437,dylan.scott@gmail.com,05-11-2025 19:30,ShopD,12348.79733,completed,small order
+2438,mia.green@gmail.com,06-11-2025 00:00,ShopA,12357.378,completed,zero-amount test
+2439,sara.jones@gmail.com,06-11-2025 23:59,ShopC,12365.95867,completed,high value order
+2440,paul.adams@gmail.com,07-11-2025 12:00,ShopE,12374.53933,completed,high
+2441,noah.parker@gmail.com,01-11-2025 09:15,ShopA,12383.12,completed,Receipt: Order #1001; card ****1378
+2442,quinn.owen@gmail.com,02-11-2025 14:05,ShopB,12391.70067,completed,Order confirmation email
+2443,hugo.reid@gmail.com,02-11-2025 14:07,ShopA,12400.28133,refunded,Refund processed on 2025-11-147
+2444,leo.miller@gmail.com,03-11-2025 11:20,ShopC,12408.862,pending,missing amount in email
+2445,leo.taylor@gmail.com,04-11-2025 08:45,ShopB,12417.44267,completed,Large purchase; promo applied
+2446,karen.green@gmail.com,04-11-2025 08:46,ShopB,12426.02333,completed,Duplicate order possible
+2447,mia.jones@gmail.com,05-11-2025 19:30,ShopD,12434.604,completed,small order
+2448,paul.foster@gmail.com,06-11-2025 00:00,ShopA,12443.18467,completed,zero-amount test
+2449,chloe.clark@gmail.com,06-11-2025 23:59,ShopC,12451.76533,completed,high value order
+2450,hugo.clark@gmail.com,07-11-2025 12:00,ShopE,12460.346,completed,normal
+2451,mia.wood@gmail.com,01-11-2025 09:15,ShopA,12468.92667,completed,Receipt: Order #1001; card ****1379
+2452,quinn.scott@gmail.com,02-11-2025 14:05,ShopB,12477.50733,completed,Order confirmation email
+2453,toby.evans@gmail.com,02-11-2025 14:07,ShopA,12486.088,refunded,Refund processed on 2025-11-148
+2454,paul.miller@gmail.com,03-11-2025 11:20,ShopC,12494.66867,pending,missing amount in email
+2455,toby.foster@gmail.com,04-11-2025 08:45,ShopB,12503.24933,completed,Large purchase; promo applied
+2456,paul.reid@gmail.com,04-11-2025 08:46,ShopB,12511.83,completed,Duplicate order possible
+2457,mia.owen@gmail.com,05-11-2025 19:30,ShopD,12520.41067,completed,small order
+2458,ivy.owen@gmail.com,06-11-2025 00:00,ShopA,12528.99133,completed,zero-amount test
+2459,ryan.miller@gmail.com,06-11-2025 23:59,ShopC,12537.572,completed,high value order
+2460,mia.nelson@gmail.com,07-11-2025 12:00,ShopE,12546.15267,completed,low
+2461,karen.lopez@gmail.com,01-11-2025 09:15,ShopA,12554.73333,completed,Receipt: Order #1001; card ****1380
+2462,chloe.jones@gmail.com,02-11-2025 14:05,ShopB,12563.314,completed,Order confirmation email
+2463,toby.miller@gmail.com,02-11-2025 14:07,ShopA,12571.89467,refunded,Refund processed on 2025-11-149
+2464,ivy.adams@gmail.com,03-11-2025 11:20,ShopC,12580.47533,pending,missing amount in email
+2465,ben.scott@gmail.com,04-11-2025 08:45,ShopB,12589.056,completed,Large purchase; promo applied
+2466,ben.parker@gmail.com,04-11-2025 08:46,ShopB,12597.63667,completed,Duplicate order possible
+2467,mia.evans@gmail.com,05-11-2025 19:30,ShopD,12606.21733,completed,small order
+2468,gabby.parker@gmail.com,06-11-2025 00:00,ShopA,12614.798,completed,zero-amount test
+2469,mia.baker@gmail.com,06-11-2025 23:59,ShopC,12623.37867,completed,high value order
+2470,paul.clark@gmail.com,07-11-2025 12:00,ShopE,12631.95933,completed,high
+2471,olivia.davis@gmail.com,01-11-2025 09:15,ShopA,12640.54,completed,Receipt: Order #1001; card ****1381
+2472,alex.evans@gmail.com,02-11-2025 14:05,ShopB,12649.12067,completed,Order confirmation email
+2473,jack.nelson@gmail.com,02-11-2025 14:07,ShopA,12657.70133,refunded,Refund processed on 2025-11-150
+2474,sara.reid@gmail.com,03-11-2025 11:20,ShopC,12666.282,pending,missing amount in email
+2475,chloe.nelson@gmail.com,04-11-2025 08:45,ShopB,12674.86267,completed,Large purchase; promo applied
+2476,karen.wood@gmail.com,04-11-2025 08:46,ShopB,12683.44333,completed,Duplicate order possible
+2477,leo.adams@gmail.com,05-11-2025 19:30,ShopD,12692.024,completed,small order
+2478,gabby.clark@gmail.com,06-11-2025 00:00,ShopA,12700.60467,completed,zero-amount test
+2479,sara.reid@gmail.com,06-11-2025 23:59,ShopC,12709.18533,completed,high value order
+2480,hugo.davis@gmail.com,07-11-2025 12:00,ShopE,12717.766,completed,normal
+2481,mia.wood@gmail.com,01-11-2025 09:15,ShopA,12726.34667,completed,Receipt: Order #1001; card ****1382
+2482,paul.king@gmail.com,02-11-2025 14:05,ShopB,12734.92733,completed,Order confirmation email
+2483,ivy.taylor@gmail.com,02-11-2025 14:07,ShopA,12743.508,refunded,Refund processed on 2025-11-151
+2484,ryan.reid@gmail.com,03-11-2025 11:20,ShopC,12752.08867,pending,missing amount in email
+2485,sara.reid@gmail.com,04-11-2025 08:45,ShopB,12760.66933,completed,Large purchase; promo applied
+2486,ella.adams@gmail.com,04-11-2025 08:46,ShopB,12769.25,completed,Duplicate order possible
+2487,olivia.reid@gmail.com,05-11-2025 19:30,ShopD,12777.83067,completed,small order
+2488,quinn.evans@gmail.com,06-11-2025 00:00,ShopA,12786.41133,completed,zero-amount test
+2489,leo.lopez@gmail.com,06-11-2025 23:59,ShopC,12794.992,completed,high value order
+2490,alex.baker@gmail.com,07-11-2025 12:00,ShopE,12803.57267,completed,low
+2491,gabby.foster@gmail.com,01-11-2025 09:15,ShopA,12812.15333,completed,Receipt: Order #1001; card ****1383
+2492,jack.miller@gmail.com,02-11-2025 14:05,ShopB,12820.734,completed,Order confirmation email
+2493,olivia.green@gmail.com,02-11-2025 14:07,ShopA,12829.31467,refunded,Refund processed on 2025-11-152
+2494,alex.wood@gmail.com,03-11-2025 11:20,ShopC,12837.89533,pending,missing amount in email
+2495,quinn.green@gmail.com,04-11-2025 08:45,ShopB,12846.476,completed,Large purchase; promo applied
+2496,hugo.reid@gmail.com,04-11-2025 08:46,ShopB,12855.05667,completed,Duplicate order possible
+2497,chloe.king@gmail.com,05-11-2025 19:30,ShopD,12863.63733,completed,small order
+2498,olivia.wood@gmail.com,06-11-2025 00:00,ShopA,12872.218,completed,zero-amount test
+2499,leo.king@gmail.com,06-11-2025 23:59,ShopC,12880.79867,completed,high value order
+2500,toby.green@gmail.com,07-11-2025 12:00,ShopE,12889.37933,completed,high
+2501,ella.davis@gmail.com,01-11-2025 09:15,ShopA,12897.96,completed,Receipt: Order #1001; card ****1384
+2502,gabby.foster@gmail.com,02-11-2025 14:05,ShopB,12906.54067,completed,Order confirmation email
+2503,karen.wood@gmail.com,02-11-2025 14:07,ShopA,12915.12133,refunded,Refund processed on 2025-11-153
+2504,mia.davis@gmail.com,03-11-2025 11:20,ShopC,12923.702,pending,missing amount in email
+2505,toby.lopez@gmail.com,04-11-2025 08:45,ShopB,12932.28267,completed,Large purchase; promo applied
+2506,mia.lopez@gmail.com,04-11-2025 08:46,ShopB,12940.86333,completed,Duplicate order possible
+2507,mia.lopez@gmail.com,05-11-2025 19:30,ShopD,12949.444,completed,small order
+2508,ryan.hall@gmail.com,06-11-2025 00:00,ShopA,12958.02467,completed,zero-amount test
+2509,olivia.nelson@gmail.com,06-11-2025 23:59,ShopC,12966.60533,completed,high value order
+2510,paul.evans@gmail.com,07-11-2025 12:00,ShopE,12975.186,completed,normal
+2511,quinn.green@gmail.com,01-11-2025 09:15,ShopA,12983.76667,completed,Receipt: Order #1001; card ****1385
+2512,paul.taylor@gmail.com,02-11-2025 14:05,ShopB,12992.34733,completed,Order confirmation email
+2513,ivy.davis@gmail.com,02-11-2025 14:07,ShopA,13000.928,refunded,Refund processed on 2025-11-154
+2514,ella.jones@gmail.com,03-11-2025 11:20,ShopC,13009.50867,pending,missing amount in email
+2515,sara.clark@gmail.com,04-11-2025 08:45,ShopB,13018.08933,completed,Large purchase; promo applied
+2516,gabby.parker@gmail.com,04-11-2025 08:46,ShopB,13026.67,completed,Duplicate order possible
+2517,jack.green@gmail.com,05-11-2025 19:30,ShopD,13035.25067,completed,small order
+2518,mia.baker@gmail.com,06-11-2025 00:00,ShopA,13043.83133,completed,zero-amount test
+2519,ben.evans@gmail.com,06-11-2025 23:59,ShopC,13052.412,completed,high value order
+2520,finn.hall@gmail.com,07-11-2025 12:00,ShopE,13060.99267,completed,low
+2521,quinn.adams@gmail.com,01-11-2025 09:15,ShopA,13069.57333,completed,Receipt: Order #1001; card ****1386
+2522,ben.clark@gmail.com,02-11-2025 14:05,ShopB,13078.154,completed,Order confirmation email
+2523,ivy.miller@gmail.com,02-11-2025 14:07,ShopA,13086.73467,refunded,Refund processed on 2025-11-155
+2524,ivy.lopez@gmail.com,03-11-2025 11:20,ShopC,13095.31533,pending,missing amount in email
+2525,sara.hall@gmail.com,04-11-2025 08:45,ShopB,13103.896,completed,Large purchase; promo applied
+2526,mia.hall@gmail.com,04-11-2025 08:46,ShopB,13112.47667,completed,Duplicate order possible
+2527,ella.reid@gmail.com,05-11-2025 19:30,ShopD,13121.05733,completed,small order
+2528,noah.davis@gmail.com,06-11-2025 00:00,ShopA,13129.638,completed,zero-amount test
+2529,ben.parker@gmail.com,06-11-2025 23:59,ShopC,13138.21867,completed,high value order
+2530,quinn.owen@gmail.com,07-11-2025 12:00,ShopE,13146.79933,completed,high
+2531,paul.miller@gmail.com,01-11-2025 09:15,ShopA,13155.38,completed,Receipt: Order #1001; card ****1387
+2532,ivy.vance@gmail.com,02-11-2025 14:05,ShopB,13163.96067,completed,Order confirmation email
+2533,karen.davis@gmail.com,02-11-2025 14:07,ShopA,13172.54133,refunded,Refund processed on 2025-11-156
+2534,leo.parker@gmail.com,03-11-2025 11:20,ShopC,13181.122,pending,missing amount in email
+2535,ivy.parker@gmail.com,04-11-2025 08:45,ShopB,13189.70267,completed,Large purchase; promo applied
+2536,gabby.taylor@gmail.com,04-11-2025 08:46,ShopB,13198.28333,completed,Duplicate order possible
+2537,quinn.foster@gmail.com,05-11-2025 19:30,ShopD,13206.864,completed,small order
+2538,chloe.hall@gmail.com,06-11-2025 00:00,ShopA,13215.44467,completed,zero-amount test
+2539,dylan.owen@gmail.com,06-11-2025 23:59,ShopC,13224.02533,completed,high value order
+2540,ivy.nelson@gmail.com,07-11-2025 12:00,ShopE,13232.606,completed,normal
+2541,mia.adams@gmail.com,01-11-2025 09:15,ShopA,13241.18667,completed,Receipt: Order #1001; card ****1388
+2542,ivy.owen@gmail.com,02-11-2025 14:05,ShopB,13249.76733,completed,Order confirmation email
+2543,olivia.hall@gmail.com,02-11-2025 14:07,ShopA,13258.348,refunded,Refund processed on 2025-11-157
+2544,quinn.foster@gmail.com,03-11-2025 11:20,ShopC,13266.92867,pending,missing amount in email
+2545,finn.hall@gmail.com,04-11-2025 08:45,ShopB,13275.50933,completed,Large purchase; promo applied
+2546,jack.king@gmail.com,04-11-2025 08:46,ShopB,13284.09,completed,Duplicate order possible
+2547,paul.vance@gmail.com,05-11-2025 19:30,ShopD,13292.67067,completed,small order
+2548,chloe.taylor@gmail.com,06-11-2025 00:00,ShopA,13301.25133,completed,zero-amount test
+2549,dylan.taylor@gmail.com,06-11-2025 23:59,ShopC,13309.832,completed,high value order
+2550,mia.lopez@gmail.com,07-11-2025 12:00,ShopE,13318.41267,completed,low
+2551,ben.lopez@gmail.com,01-11-2025 09:15,ShopA,13326.99333,completed,Receipt: Order #1001; card ****1389
+2552,chloe.wood@gmail.com,02-11-2025 14:05,ShopB,13335.574,completed,Order confirmation email
+2553,alex.davis@gmail.com,02-11-2025 14:07,ShopA,13344.15467,refunded,Refund processed on 2025-11-158
+2554,ivy.wood@gmail.com,03-11-2025 11:20,ShopC,13352.73533,pending,missing amount in email
+2555,ivy.scott@gmail.com,04-11-2025 08:45,ShopB,13361.316,completed,Large purchase; promo applied
+2556,karen.jones@gmail.com,04-11-2025 08:46,ShopB,13369.89667,completed,Duplicate order possible
+2557,leo.vance@gmail.com,05-11-2025 19:30,ShopD,13378.47733,completed,small order
+2558,chloe.hall@gmail.com,06-11-2025 00:00,ShopA,13387.058,completed,zero-amount test
+2559,ella.davis@gmail.com,06-11-2025 23:59,ShopC,13395.63867,completed,high value order
+2560,ivy.green@gmail.com,07-11-2025 12:00,ShopE,13404.21933,completed,high
+2561,ben.vance@gmail.com,01-11-2025 09:15,ShopA,13412.8,completed,Receipt: Order #1001; card ****1390
+2562,toby.adams@gmail.com,02-11-2025 14:05,ShopB,13421.38067,completed,Order confirmation email
+2563,ella.miller@gmail.com,02-11-2025 14:07,ShopA,13429.96133,refunded,Refund processed on 2025-11-159
+2564,leo.adams@gmail.com,03-11-2025 11:20,ShopC,13438.542,pending,missing amount in email
+2565,jack.parker@gmail.com,04-11-2025 08:45,ShopB,13447.12267,completed,Large purchase; promo applied
+2566,ella.scott@gmail.com,04-11-2025 08:46,ShopB,13455.70333,completed,Duplicate order possible
+2567,sara.miller@gmail.com,05-11-2025 19:30,ShopD,13464.284,completed,small order
+2568,quinn.owen@gmail.com,06-11-2025 00:00,ShopA,13472.86467,completed,zero-amount test
+2569,ella.wood@gmail.com,06-11-2025 23:59,ShopC,13481.44533,completed,high value order
+2570,dylan.clark@gmail.com,07-11-2025 12:00,ShopE,13490.026,completed,normal
+2571,paul.nelson@gmail.com,01-11-2025 09:15,ShopA,13498.60667,completed,Receipt: Order #1001; card ****1391
+2572,olivia.hall@gmail.com,02-11-2025 14:05,ShopB,13507.18733,completed,Order confirmation email
+2573,alex.parker@gmail.com,02-11-2025 14:07,ShopA,13515.768,refunded,Refund processed on 2025-11-160
+2574,toby.adams@gmail.com,03-11-2025 11:20,ShopC,13524.34867,pending,missing amount in email
+2575,sara.reid@gmail.com,04-11-2025 08:45,ShopB,13532.92933,completed,Large purchase; promo applied
+2576,leo.nelson@gmail.com,04-11-2025 08:46,ShopB,13541.51,completed,Duplicate order possible
+2577,jack.lopez@gmail.com,05-11-2025 19:30,ShopD,13550.09067,completed,small order
+2578,gabby.lopez@gmail.com,06-11-2025 00:00,ShopA,13558.67133,completed,zero-amount test
+2579,leo.lopez@gmail.com,06-11-2025 23:59,ShopC,13567.252,completed,high value order
+2580,gabby.davis@gmail.com,07-11-2025 12:00,ShopE,13575.83267,completed,low
+2581,toby.wood@gmail.com,01-11-2025 09:15,ShopA,13584.41333,completed,Receipt: Order #1001; card ****1392
+2582,ryan.reid@gmail.com,02-11-2025 14:05,ShopB,13592.994,completed,Order confirmation email
+2583,noah.hall@gmail.com,02-11-2025 14:07,ShopA,13601.57467,refunded,Refund processed on 2025-11-161
+2584,dylan.green@gmail.com,03-11-2025 11:20,ShopC,13610.15533,pending,missing amount in email
+2585,finn.green@gmail.com,04-11-2025 08:45,ShopB,13618.736,completed,Large purchase; promo applied
+2586,ella.adams@gmail.com,04-11-2025 08:46,ShopB,13627.31667,completed,Duplicate order possible
+2587,hugo.parker@gmail.com,05-11-2025 19:30,ShopD,13635.89733,completed,small order
+2588,ryan.jones@gmail.com,06-11-2025 00:00,ShopA,13644.478,completed,zero-amount test
+2589,chloe.vance@gmail.com,06-11-2025 23:59,ShopC,13653.05867,completed,high value order
+2590,ben.baker@gmail.com,07-11-2025 12:00,ShopE,13661.63933,completed,high
+2591,ivy.king@gmail.com,01-11-2025 09:15,ShopA,13670.22,completed,Receipt: Order #1001; card ****1393
+2592,gabby.scott@gmail.com,02-11-2025 14:05,ShopB,13678.80067,completed,Order confirmation email
+2593,leo.reid@gmail.com,02-11-2025 14:07,ShopA,13687.38133,refunded,Refund processed on 2025-11-162
+2594,paul.green@gmail.com,03-11-2025 11:20,ShopC,13695.962,pending,missing amount in email
+2595,leo.vance@gmail.com,04-11-2025 08:45,ShopB,13704.54267,completed,Large purchase; promo applied
+2596,ivy.evans@gmail.com,04-11-2025 08:46,ShopB,13713.12333,completed,Duplicate order possible
+2597,chloe.vance@gmail.com,05-11-2025 19:30,ShopD,13721.704,completed,small order
+2598,noah.foster@gmail.com,06-11-2025 00:00,ShopA,13730.28467,completed,zero-amount test
+2599,toby.foster@gmail.com,06-11-2025 23:59,ShopC,13738.86533,completed,high value order
+2600,jack.wood@gmail.com,07-11-2025 12:00,ShopE,13747.446,completed,normal
+2601,karen.parker@gmail.com,01-11-2025 09:15,ShopA,13756.02667,completed,Receipt: Order #1001; card ****1394
+2602,chloe.miller@gmail.com,02-11-2025 14:05,ShopB,13764.60733,completed,Order confirmation email
+2603,ben.jones@gmail.com,02-11-2025 14:07,ShopA,13773.188,refunded,Refund processed on 2025-11-163
+2604,olivia.owen@gmail.com,03-11-2025 11:20,ShopC,13781.76867,pending,missing amount in email
+2605,dylan.lopez@gmail.com,04-11-2025 08:45,ShopB,13790.34933,completed,Large purchase; promo applied
+2606,finn.adams@gmail.com,04-11-2025 08:46,ShopB,13798.93,completed,Duplicate order possible
+2607,karen.reid@gmail.com,05-11-2025 19:30,ShopD,13807.51067,completed,small order
+2608,noah.nelson@gmail.com,06-11-2025 00:00,ShopA,13816.09133,completed,zero-amount test
+2609,ivy.foster@gmail.com,06-11-2025 23:59,ShopC,13824.672,completed,high value order
+2610,ben.green@gmail.com,07-11-2025 12:00,ShopE,13833.25267,completed,low
+2611,karen.clark@gmail.com,01-11-2025 09:15,ShopA,13841.83333,completed,Receipt: Order #1001; card ****1395
+2612,quinn.jones@gmail.com,02-11-2025 14:05,ShopB,13850.414,completed,Order confirmation email
+2613,ivy.adams@gmail.com,02-11-2025 14:07,ShopA,13858.99467,refunded,Refund processed on 2025-11-164
+2614,toby.clark@gmail.com,03-11-2025 11:20,ShopC,13867.57533,pending,missing amount in email
+2615,chloe.clark@gmail.com,04-11-2025 08:45,ShopB,13876.156,completed,Large purchase; promo applied
+2616,sara.king@gmail.com,04-11-2025 08:46,ShopB,13884.73667,completed,Duplicate order possible
+2617,paul.wood@gmail.com,05-11-2025 19:30,ShopD,13893.31733,completed,small order
+2618,ben.jones@gmail.com,06-11-2025 00:00,ShopA,13901.898,completed,zero-amount test
+2619,karen.hall@gmail.com,06-11-2025 23:59,ShopC,13910.47867,completed,high value order
+2620,ben.davis@gmail.com,07-11-2025 12:00,ShopE,13919.05933,completed,high
+2621,noah.davis@gmail.com,01-11-2025 09:15,ShopA,13927.64,completed,Receipt: Order #1001; card ****1396
+2622,dylan.hall@gmail.com,02-11-2025 14:05,ShopB,13936.22067,completed,Order confirmation email
+2623,finn.clark@gmail.com,02-11-2025 14:07,ShopA,13944.80133,refunded,Refund processed on 2025-11-165
+2624,ella.taylor@gmail.com,03-11-2025 11:20,ShopC,13953.382,pending,missing amount in email
+2625,sara.king@gmail.com,04-11-2025 08:45,ShopB,13961.96267,completed,Large purchase; promo applied
+2626,jack.jones@gmail.com,04-11-2025 08:46,ShopB,13970.54333,completed,Duplicate order possible
+2627,finn.scott@gmail.com,05-11-2025 19:30,ShopD,13979.124,completed,small order
+2628,olivia.clark@gmail.com,06-11-2025 00:00,ShopA,13987.70467,completed,zero-amount test
+2629,mia.vance@gmail.com,06-11-2025 23:59,ShopC,13996.28533,completed,high value order
+2630,olivia.green@gmail.com,07-11-2025 12:00,ShopE,14004.866,completed,normal
+2631,ryan.owen@gmail.com,01-11-2025 09:15,ShopA,14013.44667,completed,Receipt: Order #1001; card ****1397
+2632,ryan.taylor@gmail.com,02-11-2025 14:05,ShopB,14022.02733,completed,Order confirmation email
+2633,noah.lopez@gmail.com,02-11-2025 14:07,ShopA,14030.608,refunded,Refund processed on 2025-11-166
+2634,ryan.nelson@gmail.com,03-11-2025 11:20,ShopC,14039.18867,pending,missing amount in email
+2635,finn.clark@gmail.com,04-11-2025 08:45,ShopB,14047.76933,completed,Large purchase; promo applied
+2636,hugo.baker@gmail.com,04-11-2025 08:46,ShopB,14056.35,completed,Duplicate order possible
+2637,jack.owen@gmail.com,05-11-2025 19:30,ShopD,14064.93067,completed,small order
+2638,leo.parker@gmail.com,06-11-2025 00:00,ShopA,14073.51133,completed,zero-amount test
+2639,quinn.taylor@gmail.com,06-11-2025 23:59,ShopC,14082.092,completed,high value order
+2640,jack.foster@gmail.com,07-11-2025 12:00,ShopE,14090.67267,completed,low
+2641,alex.nelson@gmail.com,01-11-2025 09:15,ShopA,14099.25333,completed,Receipt: Order #1001; card ****1398
+2642,dylan.adams@gmail.com,02-11-2025 14:05,ShopB,14107.834,completed,Order confirmation email
+2643,toby.parker@gmail.com,02-11-2025 14:07,ShopA,14116.41467,refunded,Refund processed on 2025-11-167
+2644,paul.adams@gmail.com,03-11-2025 11:20,ShopC,14124.99533,pending,missing amount in email
+2645,jack.reid@gmail.com,04-11-2025 08:45,ShopB,14133.576,completed,Large purchase; promo applied
+2646,quinn.lopez@gmail.com,04-11-2025 08:46,ShopB,14142.15667,completed,Duplicate order possible
+2647,ivy.adams@gmail.com,05-11-2025 19:30,ShopD,14150.73733,completed,small order
+2648,toby.davis@gmail.com,06-11-2025 00:00,ShopA,14159.318,completed,zero-amount test
+2649,finn.adams@gmail.com,06-11-2025 23:59,ShopC,14167.89867,completed,high value order
+2650,ivy.miller@gmail.com,07-11-2025 12:00,ShopE,14176.47933,completed,high
+2651,ryan.scott@gmail.com,01-11-2025 09:15,ShopA,14185.06,completed,Receipt: Order #1001; card ****1399
+2652,leo.clark@gmail.com,02-11-2025 14:05,ShopB,14193.64067,completed,Order confirmation email
+2653,ella.clark@gmail.com,02-11-2025 14:07,ShopA,14202.22133,refunded,Refund processed on 2025-11-168
+2654,olivia.clark@gmail.com,03-11-2025 11:20,ShopC,14210.802,pending,missing amount in email
+2655,leo.clark@gmail.com,04-11-2025 08:45,ShopB,14219.38267,completed,Large purchase; promo applied
+2656,ryan.owen@gmail.com,04-11-2025 08:46,ShopB,14227.96333,completed,Duplicate order possible
+2657,ben.taylor@gmail.com,05-11-2025 19:30,ShopD,14236.544,completed,small order
+2658,finn.baker@gmail.com,06-11-2025 00:00,ShopA,14245.12467,completed,zero-amount test
+2659,leo.owen@gmail.com,06-11-2025 23:59,ShopC,14253.70533,completed,high value order
+2660,dylan.green@gmail.com,07-11-2025 12:00,ShopE,14262.286,completed,normal
+2661,dylan.jones@gmail.com,01-11-2025 09:15,ShopA,14270.86667,completed,Receipt: Order #1001; card ****1400
+2662,paul.king@gmail.com,02-11-2025 14:05,ShopB,14279.44733,completed,Order confirmation email
+2663,dylan.scott@gmail.com,02-11-2025 14:07,ShopA,14288.028,refunded,Refund processed on 2025-11-169
+2664,quinn.vance@gmail.com,03-11-2025 11:20,ShopC,14296.60867,pending,missing amount in email
+2665,dylan.owen@gmail.com,04-11-2025 08:45,ShopB,14305.18933,completed,Large purchase; promo applied
+2666,ben.foster@gmail.com,04-11-2025 08:46,ShopB,14313.77,completed,Duplicate order possible
+2667,mia.baker@gmail.com,05-11-2025 19:30,ShopD,14322.35067,completed,small order
+2668,paul.king@gmail.com,06-11-2025 00:00,ShopA,14330.93133,completed,zero-amount test
+2669,jack.foster@gmail.com,06-11-2025 23:59,ShopC,14339.512,completed,high value order
+2670,finn.lopez@gmail.com,07-11-2025 12:00,ShopE,14348.09267,completed,low
+2671,leo.lopez@gmail.com,01-11-2025 09:15,ShopA,14356.67333,completed,Receipt: Order #1001; card ****1401
+2672,paul.king@gmail.com,02-11-2025 14:05,ShopB,14365.254,completed,Order confirmation email
+2673,hugo.baker@gmail.com,02-11-2025 14:07,ShopA,14373.83467,refunded,Refund processed on 2025-11-170
+2674,leo.adams@gmail.com,03-11-2025 11:20,ShopC,14382.41533,pending,missing amount in email
+2675,dylan.reid@gmail.com,04-11-2025 08:45,ShopB,14390.996,completed,Large purchase; promo applied
+2676,ben.hall@gmail.com,04-11-2025 08:46,ShopB,14399.57667,completed,Duplicate order possible
+2677,finn.nelson@gmail.com,05-11-2025 19:30,ShopD,14408.15733,completed,small order
+2678,ben.owen@gmail.com,06-11-2025 00:00,ShopA,14416.738,completed,zero-amount test
+2679,ella.miller@gmail.com,06-11-2025 23:59,ShopC,14425.31867,completed,high value order
+2680,toby.nelson@gmail.com,07-11-2025 12:00,ShopE,14433.89933,completed,high
+2681,mia.taylor@gmail.com,01-11-2025 09:15,ShopA,14442.48,completed,Receipt: Order #1001; card ****1402
+2682,leo.king@gmail.com,02-11-2025 14:05,ShopB,14451.06067,completed,Order confirmation email
+2683,olivia.jones@gmail.com,02-11-2025 14:07,ShopA,14459.64133,refunded,Refund processed on 2025-11-171
+2684,ben.clark@gmail.com,03-11-2025 11:20,ShopC,14468.222,pending,missing amount in email
+2685,dylan.lopez@gmail.com,04-11-2025 08:45,ShopB,14476.80267,completed,Large purchase; promo applied
+2686,ryan.adams@gmail.com,04-11-2025 08:46,ShopB,14485.38333,completed,Duplicate order possible
+2687,dylan.reid@gmail.com,05-11-2025 19:30,ShopD,14493.964,completed,small order
+2688,paul.evans@gmail.com,06-11-2025 00:00,ShopA,14502.54467,completed,zero-amount test
+2689,mia.baker@gmail.com,06-11-2025 23:59,ShopC,14511.12533,completed,high value order
+2690,alex.green@gmail.com,07-11-2025 12:00,ShopE,14519.706,completed,normal
+2691,paul.foster@gmail.com,01-11-2025 09:15,ShopA,14528.28667,completed,Receipt: Order #1001; card ****1403
+2692,karen.hall@gmail.com,02-11-2025 14:05,ShopB,14536.86733,completed,Order confirmation email
+2693,paul.king@gmail.com,02-11-2025 14:07,ShopA,14545.448,refunded,Refund processed on 2025-11-172
+2694,alex.foster@gmail.com,03-11-2025 11:20,ShopC,14554.02867,pending,missing amount in email
+2695,noah.clark@gmail.com,04-11-2025 08:45,ShopB,14562.60933,completed,Large purchase; promo applied
+2696,olivia.green@gmail.com,04-11-2025 08:46,ShopB,14571.19,completed,Duplicate order possible
+2697,olivia.jones@gmail.com,05-11-2025 19:30,ShopD,14579.77067,completed,small order
+2698,karen.baker@gmail.com,06-11-2025 00:00,ShopA,14588.35133,completed,zero-amount test
+2699,hugo.foster@gmail.com,06-11-2025 23:59,ShopC,14596.932,completed,high value order
+2700,quinn.jones@gmail.com,07-11-2025 12:00,ShopE,14605.51267,completed,low
+2701,olivia.nelson@gmail.com,01-11-2025 09:15,ShopA,14614.09333,completed,Receipt: Order #1001; card ****1404
+2702,toby.clark@gmail.com,02-11-2025 14:05,ShopB,14622.674,completed,Order confirmation email
+2703,ryan.owen@gmail.com,02-11-2025 14:07,ShopA,14631.25467,refunded,Refund processed on 2025-11-173
+2704,ryan.parker@gmail.com,03-11-2025 11:20,ShopC,14639.83533,pending,missing amount in email
+2705,ivy.wood@gmail.com,04-11-2025 08:45,ShopB,14648.416,completed,Large purchase; promo applied
+2706,jack.adams@gmail.com,04-11-2025 08:46,ShopB,14656.99667,completed,Duplicate order possible
+2707,quinn.foster@gmail.com,05-11-2025 19:30,ShopD,14665.57733,completed,small order
+2708,ivy.davis@gmail.com,06-11-2025 00:00,ShopA,14674.158,completed,zero-amount test
+2709,olivia.jones@gmail.com,06-11-2025 23:59,ShopC,14682.73867,completed,high value order
+2710,ryan.taylor@gmail.com,07-11-2025 12:00,ShopE,14691.31933,completed,high
+2711,paul.foster@gmail.com,01-11-2025 09:15,ShopA,14699.9,completed,Receipt: Order #1001; card ****1405
+2712,jack.foster@gmail.com,02-11-2025 14:05,ShopB,14708.48067,completed,Order confirmation email
+2713,gabby.owen@gmail.com,02-11-2025 14:07,ShopA,14717.06133,refunded,Refund processed on 2025-11-174
+2714,ivy.green@gmail.com,03-11-2025 11:20,ShopC,14725.642,pending,missing amount in email
+2715,mia.jones@gmail.com,04-11-2025 08:45,ShopB,14734.22267,completed,Large purchase; promo applied
+2716,dylan.miller@gmail.com,04-11-2025 08:46,ShopB,14742.80333,completed,Duplicate order possible
+2717,alex.miller@gmail.com,05-11-2025 19:30,ShopD,14751.384,completed,small order
+2718,noah.clark@gmail.com,06-11-2025 00:00,ShopA,14759.96467,completed,zero-amount test
+2719,olivia.owen@gmail.com,06-11-2025 23:59,ShopC,14768.54533,completed,high value order
+2720,ella.nelson@gmail.com,07-11-2025 12:00,ShopE,14777.126,completed,normal
+2721,mia.evans@gmail.com,01-11-2025 09:15,ShopA,14785.70667,completed,Receipt: Order #1001; card ****1406
+2722,sara.evans@gmail.com,02-11-2025 14:05,ShopB,14794.28733,completed,Order confirmation email
+2723,sara.owen@gmail.com,02-11-2025 14:07,ShopA,14802.868,refunded,Refund processed on 2025-11-175
+2724,alex.jones@gmail.com,03-11-2025 11:20,ShopC,14811.44867,pending,missing amount in email
+2725,hugo.adams@gmail.com,04-11-2025 08:45,ShopB,14820.02933,completed,Large purchase; promo applied
+2726,hugo.parker@gmail.com,04-11-2025 08:46,ShopB,14828.61,completed,Duplicate order possible
+2727,ivy.nelson@gmail.com,05-11-2025 19:30,ShopD,14837.19067,completed,small order
+2728,finn.davis@gmail.com,06-11-2025 00:00,ShopA,14845.77133,completed,zero-amount test
+2729,finn.foster@gmail.com,06-11-2025 23:59,ShopC,14854.352,completed,high value order
+2730,noah.parker@gmail.com,07-11-2025 12:00,ShopE,14862.93267,completed,low
+2731,hugo.davis@gmail.com,01-11-2025 09:15,ShopA,14871.51333,completed,Receipt: Order #1001; card ****1407
+2732,gabby.reid@gmail.com,02-11-2025 14:05,ShopB,14880.094,completed,Order confirmation email
+2733,jack.scott@gmail.com,02-11-2025 14:07,ShopA,14888.67467,refunded,Refund processed on 2025-11-176
+2734,gabby.scott@gmail.com,03-11-2025 11:20,ShopC,14897.25533,pending,missing amount in email
+2735,karen.parker@gmail.com,04-11-2025 08:45,ShopB,14905.836,completed,Large purchase; promo applied
+2736,olivia.nelson@gmail.com,04-11-2025 08:46,ShopB,14914.41667,completed,Duplicate order possible
+2737,finn.adams@gmail.com,05-11-2025 19:30,ShopD,14922.99733,completed,small order
+2738,hugo.davis@gmail.com,06-11-2025 00:00,ShopA,14931.578,completed,zero-amount test
+2739,sara.davis@gmail.com,06-11-2025 23:59,ShopC,14940.15867,completed,high value order
+2740,olivia.foster@gmail.com,07-11-2025 12:00,ShopE,14948.73933,completed,high
+2741,jack.foster@gmail.com,01-11-2025 09:15,ShopA,14957.32,completed,Receipt: Order #1001; card ****1408
+2742,chloe.adams@gmail.com,02-11-2025 14:05,ShopB,14965.90067,completed,Order confirmation email
+2743,ryan.vance@gmail.com,02-11-2025 14:07,ShopA,14974.48133,refunded,Refund processed on 2025-11-177
+2744,quinn.foster@gmail.com,03-11-2025 11:20,ShopC,14983.062,pending,missing amount in email
+2745,jack.green@gmail.com,04-11-2025 08:45,ShopB,14991.64267,completed,Large purchase; promo applied
+2746,leo.taylor@gmail.com,04-11-2025 08:46,ShopB,15000.22333,completed,Duplicate order possible
+2747,quinn.clark@gmail.com,05-11-2025 19:30,ShopD,15008.804,completed,small order
+2748,mia.lopez@gmail.com,06-11-2025 00:00,ShopA,15017.38467,completed,zero-amount test
+2749,ella.wood@gmail.com,06-11-2025 23:59,ShopC,15025.96533,completed,high value order
+2750,toby.owen@gmail.com,07-11-2025 12:00,ShopE,15034.546,completed,normal
+2751,dylan.miller@gmail.com,01-11-2025 09:15,ShopA,15043.12667,completed,Receipt: Order #1001; card ****1409
+2752,dylan.owen@gmail.com,02-11-2025 14:05,ShopB,15051.70733,completed,Order confirmation email
+2753,mia.lopez@gmail.com,02-11-2025 14:07,ShopA,15060.288,refunded,Refund processed on 2025-11-178
+2754,olivia.nelson@gmail.com,03-11-2025 11:20,ShopC,15068.86867,pending,missing amount in email
+2755,alex.clark@gmail.com,04-11-2025 08:45,ShopB,15077.44933,completed,Large purchase; promo applied
+2756,quinn.wood@gmail.com,04-11-2025 08:46,ShopB,15086.03,completed,Duplicate order possible
+2757,sara.lopez@gmail.com,05-11-2025 19:30,ShopD,15094.61067,completed,small order
+2758,gabby.reid@gmail.com,06-11-2025 00:00,ShopA,15103.19133,completed,zero-amount test
+2759,hugo.jones@gmail.com,06-11-2025 23:59,ShopC,15111.772,completed,high value order
+2760,ivy.vance@gmail.com,07-11-2025 12:00,ShopE,15120.35267,completed,low
+2761,ben.parker@gmail.com,01-11-2025 09:15,ShopA,15128.93333,completed,Receipt: Order #1001; card ****1410
+2762,ben.vance@gmail.com,02-11-2025 14:05,ShopB,15137.514,completed,Order confirmation email
+2763,gabby.owen@gmail.com,02-11-2025 14:07,ShopA,15146.09467,refunded,Refund processed on 2025-11-179
+2764,chloe.baker@gmail.com,03-11-2025 11:20,ShopC,15154.67533,pending,missing amount in email
+2765,karen.hall@gmail.com,04-11-2025 08:45,ShopB,15163.256,completed,Large purchase; promo applied
+2766,ryan.davis@gmail.com,04-11-2025 08:46,ShopB,15171.83667,completed,Duplicate order possible
+2767,finn.king@gmail.com,05-11-2025 19:30,ShopD,15180.41733,completed,small order
+2768,ryan.nelson@gmail.com,06-11-2025 00:00,ShopA,15188.998,completed,zero-amount test
+2769,karen.taylor@gmail.com,06-11-2025 23:59,ShopC,15197.57867,completed,high value order
+2770,gabby.adams@gmail.com,07-11-2025 12:00,ShopE,15206.15933,completed,high
+2771,ben.taylor@gmail.com,01-11-2025 09:15,ShopA,15214.74,completed,Receipt: Order #1001; card ****1411
+2772,chloe.baker@gmail.com,02-11-2025 14:05,ShopB,15223.32067,completed,Order confirmation email
+2773,alex.green@gmail.com,02-11-2025 14:07,ShopA,15231.90133,refunded,Refund processed on 2025-11-180
+2774,leo.king@gmail.com,03-11-2025 11:20,ShopC,15240.482,pending,missing amount in email
+2775,mia.scott@gmail.com,04-11-2025 08:45,ShopB,15249.06267,completed,Large purchase; promo applied
+2776,toby.clark@gmail.com,04-11-2025 08:46,ShopB,15257.64333,completed,Duplicate order possible
+2777,olivia.evans@gmail.com,05-11-2025 19:30,ShopD,15266.224,completed,small order
+2778,leo.miller@gmail.com,06-11-2025 00:00,ShopA,15274.80467,completed,zero-amount test
+2779,finn.miller@gmail.com,06-11-2025 23:59,ShopC,15283.38533,completed,high value order
+2780,ella.nelson@gmail.com,07-11-2025 12:00,ShopE,15291.966,completed,normal
+2781,quinn.owen@gmail.com,01-11-2025 09:15,ShopA,15300.54667,completed,Receipt: Order #1001; card ****1412
+2782,chloe.parker@gmail.com,02-11-2025 14:05,ShopB,15309.12733,completed,Order confirmation email
+2783,jack.jones@gmail.com,02-11-2025 14:07,ShopA,15317.708,refunded,Refund processed on 2025-11-181
+2784,alex.adams@gmail.com,03-11-2025 11:20,ShopC,15326.28867,pending,missing amount in email
+2785,chloe.king@gmail.com,04-11-2025 08:45,ShopB,15334.86933,completed,Large purchase; promo applied
+2786,dylan.lopez@gmail.com,04-11-2025 08:46,ShopB,15343.45,completed,Duplicate order possible
+2787,karen.jones@gmail.com,05-11-2025 19:30,ShopD,15352.03067,completed,small order
+2788,hugo.green@gmail.com,06-11-2025 00:00,ShopA,15360.61133,completed,zero-amount test
+2789,hugo.scott@gmail.com,06-11-2025 23:59,ShopC,15369.192,completed,high value order
+2790,ella.miller@gmail.com,07-11-2025 12:00,ShopE,15377.77267,completed,low
+2791,quinn.owen@gmail.com,01-11-2025 09:15,ShopA,15386.35333,completed,Receipt: Order #1001; card ****1413
+2792,dylan.taylor@gmail.com,02-11-2025 14:05,ShopB,15394.934,completed,Order confirmation email
+2793,ivy.taylor@gmail.com,02-11-2025 14:07,ShopA,15403.51467,refunded,Refund processed on 2025-11-182
+2794,quinn.clark@gmail.com,03-11-2025 11:20,ShopC,15412.09533,pending,missing amount in email
+2795,ivy.reid@gmail.com,04-11-2025 08:45,ShopB,15420.676,completed,Large purchase; promo applied
+2796,ben.king@gmail.com,04-11-2025 08:46,ShopB,15429.25667,completed,Duplicate order possible
+2797,alex.baker@gmail.com,05-11-2025 19:30,ShopD,15437.83733,completed,small order
+2798,ryan.evans@gmail.com,06-11-2025 00:00,ShopA,15446.418,completed,zero-amount test
+2799,gabby.wood@gmail.com,06-11-2025 23:59,ShopC,15454.99867,completed,high value order
+2800,leo.clark@gmail.com,07-11-2025 12:00,ShopE,15463.57933,completed,high
+2801,olivia.taylor@gmail.com,01-11-2025 09:15,ShopA,15472.16,completed,Receipt: Order #1001; card ****1414
+2802,hugo.wood@gmail.com,02-11-2025 14:05,ShopB,15480.74067,completed,Order confirmation email
+2803,finn.clark@gmail.com,02-11-2025 14:07,ShopA,15489.32133,refunded,Refund processed on 2025-11-183
+2804,olivia.jones@gmail.com,03-11-2025 11:20,ShopC,15497.902,pending,missing amount in email
+2805,olivia.owen@gmail.com,04-11-2025 08:45,ShopB,15506.48267,completed,Large purchase; promo applied
+2806,finn.reid@gmail.com,04-11-2025 08:46,ShopB,15515.06333,completed,Duplicate order possible
+2807,ivy.baker@gmail.com,05-11-2025 19:30,ShopD,15523.644,completed,small order
+2808,quinn.miller@gmail.com,06-11-2025 00:00,ShopA,15532.22467,completed,zero-amount test
+2809,gabby.clark@gmail.com,06-11-2025 23:59,ShopC,15540.80533,completed,high value order
+2810,toby.taylor@gmail.com,07-11-2025 12:00,ShopE,15549.386,completed,normal
+2811,leo.scott@gmail.com,01-11-2025 09:15,ShopA,15557.96667,completed,Receipt: Order #1001; card ****1415
+2812,leo.vance@gmail.com,02-11-2025 14:05,ShopB,15566.54733,completed,Order confirmation email
+2813,ella.reid@gmail.com,02-11-2025 14:07,ShopA,15575.128,refunded,Refund processed on 2025-11-184
+2814,quinn.scott@gmail.com,03-11-2025 11:20,ShopC,15583.70867,pending,missing amount in email
+2815,noah.king@gmail.com,04-11-2025 08:45,ShopB,15592.28933,completed,Large purchase; promo applied
+2816,ben.king@gmail.com,04-11-2025 08:46,ShopB,15600.87,completed,Duplicate order possible
+2817,gabby.clark@gmail.com,05-11-2025 19:30,ShopD,15609.45067,completed,small order
+2818,ivy.nelson@gmail.com,06-11-2025 00:00,ShopA,15618.03133,completed,zero-amount test
+2819,alex.vance@gmail.com,06-11-2025 23:59,ShopC,15626.612,completed,high value order
+2820,dylan.evans@gmail.com,07-11-2025 12:00,ShopE,15635.19267,completed,low
+2821,chloe.davis@gmail.com,01-11-2025 09:15,ShopA,15643.77333,completed,Receipt: Order #1001; card ****1416
+2822,alex.lopez@gmail.com,02-11-2025 14:05,ShopB,15652.354,completed,Order confirmation email
+2823,ivy.baker@gmail.com,02-11-2025 14:07,ShopA,15660.93467,refunded,Refund processed on 2025-11-185
+2824,paul.taylor@gmail.com,03-11-2025 11:20,ShopC,15669.51533,pending,missing amount in email
+2825,gabby.king@gmail.com,04-11-2025 08:45,ShopB,15678.096,completed,Large purchase; promo applied
+2826,toby.king@gmail.com,04-11-2025 08:46,ShopB,15686.67667,completed,Duplicate order possible
+2827,ella.davis@gmail.com,05-11-2025 19:30,ShopD,15695.25733,completed,small order
+2828,sara.vance@gmail.com,06-11-2025 00:00,ShopA,15703.838,completed,zero-amount test
+2829,toby.evans@gmail.com,06-11-2025 23:59,ShopC,15712.41867,completed,high value order
+2830,hugo.vance@gmail.com,07-11-2025 12:00,ShopE,15720.99933,completed,high
+2831,paul.king@gmail.com,01-11-2025 09:15,ShopA,15729.58,completed,Receipt: Order #1001; card ****1417
+2832,ryan.lopez@gmail.com,02-11-2025 14:05,ShopB,15738.16067,completed,Order confirmation email
+2833,quinn.owen@gmail.com,02-11-2025 14:07,ShopA,15746.74133,refunded,Refund processed on 2025-11-186
+2834,ella.jones@gmail.com,03-11-2025 11:20,ShopC,15755.322,pending,missing amount in email
+2835,ryan.wood@gmail.com,04-11-2025 08:45,ShopB,15763.90267,completed,Large purchase; promo applied
+2836,jack.scott@gmail.com,04-11-2025 08:46,ShopB,15772.48333,completed,Duplicate order possible
+2837,toby.evans@gmail.com,05-11-2025 19:30,ShopD,15781.064,completed,small order
+2838,toby.baker@gmail.com,06-11-2025 00:00,ShopA,15789.64467,completed,zero-amount test
+2839,hugo.evans@gmail.com,06-11-2025 23:59,ShopC,15798.22533,completed,high value order
+2840,olivia.wood@gmail.com,07-11-2025 12:00,ShopE,15806.806,completed,normal
+2841,ivy.adams@gmail.com,01-11-2025 09:15,ShopA,15815.38667,completed,Receipt: Order #1001; card ****1418
+2842,hugo.green@gmail.com,02-11-2025 14:05,ShopB,15823.96733,completed,Order confirmation email
+2843,dylan.owen@gmail.com,02-11-2025 14:07,ShopA,15832.548,refunded,Refund processed on 2025-11-187
+2844,karen.miller@gmail.com,03-11-2025 11:20,ShopC,15841.12867,pending,missing amount in email
+2845,finn.king@gmail.com,04-11-2025 08:45,ShopB,15849.70933,completed,Large purchase; promo applied
+2846,jack.reid@gmail.com,04-11-2025 08:46,ShopB,15858.29,completed,Duplicate order possible
+2847,karen.wood@gmail.com,05-11-2025 19:30,ShopD,15866.87067,completed,small order
+2848,ella.lopez@gmail.com,06-11-2025 00:00,ShopA,15875.45133,completed,zero-amount test
+2849,toby.reid@gmail.com,06-11-2025 23:59,ShopC,15884.032,completed,high value order
+2850,karen.scott@gmail.com,07-11-2025 12:00,ShopE,15892.61267,completed,low
+2851,gabby.parker@gmail.com,01-11-2025 09:15,ShopA,15901.19333,completed,Receipt: Order #1001; card ****1419
+2852,chloe.foster@gmail.com,02-11-2025 14:05,ShopB,15909.774,completed,Order confirmation email
+2853,ben.evans@gmail.com,02-11-2025 14:07,ShopA,15918.35467,refunded,Refund processed on 2025-11-188
+2854,paul.green@gmail.com,03-11-2025 11:20,ShopC,15926.93533,pending,missing amount in email
+2855,ben.hall@gmail.com,04-11-2025 08:45,ShopB,15935.516,completed,Large purchase; promo applied
+2856,ryan.evans@gmail.com,04-11-2025 08:46,ShopB,15944.09667,completed,Duplicate order possible
+2857,ivy.hall@gmail.com,05-11-2025 19:30,ShopD,15952.67733,completed,small order
+2858,ryan.parker@gmail.com,06-11-2025 00:00,ShopA,15961.258,completed,zero-amount test
+2859,leo.baker@gmail.com,06-11-2025 23:59,ShopC,15969.83867,completed,high value order
+2860,dylan.king@gmail.com,07-11-2025 12:00,ShopE,15978.41933,completed,high
+2861,quinn.miller@gmail.com,01-11-2025 09:15,ShopA,15987,completed,Receipt: Order #1001; card ****1420
+2862,finn.davis@gmail.com,02-11-2025 14:05,ShopB,15995.58067,completed,Order confirmation email
+2863,dylan.baker@gmail.com,02-11-2025 14:07,ShopA,16004.16133,refunded,Refund processed on 2025-11-189
+2864,ben.foster@gmail.com,03-11-2025 11:20,ShopC,16012.742,pending,missing amount in email
+2865,ella.nelson@gmail.com,04-11-2025 08:45,ShopB,16021.32267,completed,Large purchase; promo applied
+2866,olivia.adams@gmail.com,04-11-2025 08:46,ShopB,16029.90333,completed,Duplicate order possible
+2867,mia.wood@gmail.com,05-11-2025 19:30,ShopD,16038.484,completed,small order
+2868,sara.davis@gmail.com,06-11-2025 00:00,ShopA,16047.06467,completed,zero-amount test
+2869,toby.owen@gmail.com,06-11-2025 23:59,ShopC,16055.64533,completed,high value order
+2870,mia.nelson@gmail.com,07-11-2025 12:00,ShopE,16064.226,completed,normal
+2871,paul.clark@gmail.com,01-11-2025 09:15,ShopA,16072.80667,completed,Receipt: Order #1001; card ****1421
+2872,noah.wood@gmail.com,02-11-2025 14:05,ShopB,16081.38733,completed,Order confirmation email
+2873,ben.king@gmail.com,02-11-2025 14:07,ShopA,16089.968,refunded,Refund processed on 2025-11-190
+2874,ivy.reid@gmail.com,03-11-2025 11:20,ShopC,16098.54867,pending,missing amount in email
+2875,paul.king@gmail.com,04-11-2025 08:45,ShopB,16107.12933,completed,Large purchase; promo applied
+2876,hugo.davis@gmail.com,04-11-2025 08:46,ShopB,16115.71,completed,Duplicate order possible
+2877,paul.hall@gmail.com,05-11-2025 19:30,ShopD,16124.29067,completed,small order
+2878,gabby.green@gmail.com,06-11-2025 00:00,ShopA,16132.87133,completed,zero-amount test
+2879,quinn.miller@gmail.com,06-11-2025 23:59,ShopC,16141.452,completed,high value order
+2880,finn.davis@gmail.com,07-11-2025 12:00,ShopE,16150.03267,completed,low
+2881,ella.evans@gmail.com,01-11-2025 09:15,ShopA,16158.61333,completed,Receipt: Order #1001; card ****1422
+2882,leo.vance@gmail.com,02-11-2025 14:05,ShopB,16167.194,completed,Order confirmation email
+2883,dylan.wood@gmail.com,02-11-2025 14:07,ShopA,16175.77467,refunded,Refund processed on 2025-11-191
+2884,paul.davis@gmail.com,03-11-2025 11:20,ShopC,16184.35533,pending,missing amount in email
+2885,ben.jones@gmail.com,04-11-2025 08:45,ShopB,16192.936,completed,Large purchase; promo applied
+2886,olivia.nelson@gmail.com,04-11-2025 08:46,ShopB,16201.51667,completed,Duplicate order possible
+2887,ella.taylor@gmail.com,05-11-2025 19:30,ShopD,16210.09733,completed,small order
+2888,sara.king@gmail.com,06-11-2025 00:00,ShopA,16218.678,completed,zero-amount test
+2889,leo.taylor@gmail.com,06-11-2025 23:59,ShopC,16227.25867,completed,high value order
+2890,finn.king@gmail.com,07-11-2025 12:00,ShopE,16235.83933,completed,high
+2891,ivy.vance@gmail.com,01-11-2025 09:15,ShopA,16244.42,completed,Receipt: Order #1001; card ****1423
+2892,dylan.green@gmail.com,02-11-2025 14:05,ShopB,16253.00067,completed,Order confirmation email
+2893,olivia.wood@gmail.com,02-11-2025 14:07,ShopA,16261.58133,refunded,Refund processed on 2025-11-192
+2894,hugo.lopez@gmail.com,03-11-2025 11:20,ShopC,16270.162,pending,missing amount in email
+2895,mia.taylor@gmail.com,04-11-2025 08:45,ShopB,16278.74267,completed,Large purchase; promo applied
+2896,ben.hall@gmail.com,04-11-2025 08:46,ShopB,16287.32333,completed,Duplicate order possible
+2897,toby.davis@gmail.com,05-11-2025 19:30,ShopD,16295.904,completed,small order
+2898,chloe.nelson@gmail.com,06-11-2025 00:00,ShopA,16304.48467,completed,zero-amount test
+2899,ben.owen@gmail.com,06-11-2025 23:59,ShopC,16313.06533,completed,high value order
+2900,noah.green@gmail.com,07-11-2025 12:00,ShopE,16321.646,completed,normal
+2901,toby.wood@gmail.com,01-11-2025 09:15,ShopA,16330.22667,completed,Receipt: Order #1001; card ****1424
+2902,leo.adams@gmail.com,02-11-2025 14:05,ShopB,16338.80733,completed,Order confirmation email
+2903,gabby.jones@gmail.com,02-11-2025 14:07,ShopA,16347.388,refunded,Refund processed on 2025-11-193
+2904,ryan.wood@gmail.com,03-11-2025 11:20,ShopC,16355.96867,pending,missing amount in email
+2905,ella.adams@gmail.com,04-11-2025 08:45,ShopB,16364.54933,completed,Large purchase; promo applied
+2906,dylan.davis@gmail.com,04-11-2025 08:46,ShopB,16373.13,completed,Duplicate order possible
+2907,dylan.owen@gmail.com,05-11-2025 19:30,ShopD,16381.71067,completed,small order
+2908,chloe.nelson@gmail.com,06-11-2025 00:00,ShopA,16390.29133,completed,zero-amount test
+2909,noah.evans@gmail.com,06-11-2025 23:59,ShopC,16398.872,completed,high value order
+2910,quinn.adams@gmail.com,07-11-2025 12:00,ShopE,16407.45267,completed,low
+2911,gabby.miller@gmail.com,01-11-2025 09:15,ShopA,16416.03333,completed,Receipt: Order #1001; card ****1425
+2912,alex.reid@gmail.com,02-11-2025 14:05,ShopB,16424.614,completed,Order confirmation email
+2913,ben.adams@gmail.com,02-11-2025 14:07,ShopA,16433.19467,refunded,Refund processed on 2025-11-194
+2914,jack.evans@gmail.com,03-11-2025 11:20,ShopC,16441.77533,pending,missing amount in email
+2915,karen.davis@gmail.com,04-11-2025 08:45,ShopB,16450.356,completed,Large purchase; promo applied
+2916,toby.hall@gmail.com,04-11-2025 08:46,ShopB,16458.93667,completed,Duplicate order possible
+2917,quinn.wood@gmail.com,05-11-2025 19:30,ShopD,16467.51733,completed,small order
+2918,karen.green@gmail.com,06-11-2025 00:00,ShopA,16476.098,completed,zero-amount test
+2919,jack.adams@gmail.com,06-11-2025 23:59,ShopC,16484.67867,completed,high value order
+2920,finn.evans@gmail.com,07-11-2025 12:00,ShopE,16493.25933,completed,high
+2921,noah.baker@gmail.com,01-11-2025 09:15,ShopA,16501.84,completed,Receipt: Order #1001; card ****1426
+2922,ben.evans@gmail.com,02-11-2025 14:05,ShopB,16510.42067,completed,Order confirmation email
+2923,paul.hall@gmail.com,02-11-2025 14:07,ShopA,16519.00133,refunded,Refund processed on 2025-11-195
+2924,finn.vance@gmail.com,03-11-2025 11:20,ShopC,16527.582,pending,missing amount in email
+2925,karen.baker@gmail.com,04-11-2025 08:45,ShopB,16536.16267,completed,Large purchase; promo applied
+2926,chloe.nelson@gmail.com,04-11-2025 08:46,ShopB,16544.74333,completed,Duplicate order possible
+2927,quinn.owen@gmail.com,05-11-2025 19:30,ShopD,16553.324,completed,small order
+2928,dylan.nelson@gmail.com,06-11-2025 00:00,ShopA,16561.90467,completed,zero-amount test
+2929,noah.clark@gmail.com,06-11-2025 23:59,ShopC,16570.48533,completed,high value order
+2930,gabby.king@gmail.com,07-11-2025 12:00,ShopE,16579.066,completed,normal
+2931,ivy.clark@gmail.com,01-11-2025 09:15,ShopA,16587.64667,completed,Receipt: Order #1001; card ****1427
+2932,paul.taylor@gmail.com,02-11-2025 14:05,ShopB,16596.22733,completed,Order confirmation email
+2933,sara.wood@gmail.com,02-11-2025 14:07,ShopA,16604.808,refunded,Refund processed on 2025-11-196
+2934,toby.green@gmail.com,03-11-2025 11:20,ShopC,16613.38867,pending,missing amount in email
+2935,hugo.lopez@gmail.com,04-11-2025 08:45,ShopB,16621.96933,completed,Large purchase; promo applied
+2936,hugo.clark@gmail.com,04-11-2025 08:46,ShopB,16630.55,completed,Duplicate order possible
+2937,leo.scott@gmail.com,05-11-2025 19:30,ShopD,16639.13067,completed,small order
+2938,quinn.king@gmail.com,06-11-2025 00:00,ShopA,16647.71133,completed,zero-amount test
+2939,chloe.jones@gmail.com,06-11-2025 23:59,ShopC,16656.292,completed,high value order
+2940,toby.parker@gmail.com,07-11-2025 12:00,ShopE,16664.87267,completed,low
+2941,finn.evans@gmail.com,01-11-2025 09:15,ShopA,16673.45333,completed,Receipt: Order #1001; card ****1428
+2942,dylan.clark@gmail.com,02-11-2025 14:05,ShopB,16682.034,completed,Order confirmation email
+2943,finn.taylor@gmail.com,02-11-2025 14:07,ShopA,16690.61467,refunded,Refund processed on 2025-11-197
+2944,mia.lopez@gmail.com,03-11-2025 11:20,ShopC,16699.19533,pending,missing amount in email
+2945,chloe.king@gmail.com,04-11-2025 08:45,ShopB,16707.776,completed,Large purchase; promo applied
+2946,sara.jones@gmail.com,04-11-2025 08:46,ShopB,16716.35667,completed,Duplicate order possible
+2947,hugo.reid@gmail.com,05-11-2025 19:30,ShopD,16724.93733,completed,small order
+2948,finn.jones@gmail.com,06-11-2025 00:00,ShopA,16733.518,completed,zero-amount test
+2949,jack.hall@gmail.com,06-11-2025 23:59,ShopC,16742.09867,completed,high value order
+2950,ivy.hall@gmail.com,07-11-2025 12:00,ShopE,16750.67933,completed,high
+2951,karen.adams@gmail.com,01-11-2025 09:15,ShopA,16759.26,completed,Receipt: Order #1001; card ****1429
+2952,hugo.green@gmail.com,02-11-2025 14:05,ShopB,16767.84067,completed,Order confirmation email
+2953,finn.evans@gmail.com,02-11-2025 14:07,ShopA,16776.42133,refunded,Refund processed on 2025-11-198
+2954,gabby.baker@gmail.com,03-11-2025 11:20,ShopC,16785.002,pending,missing amount in email
+2955,paul.vance@gmail.com,04-11-2025 08:45,ShopB,16793.58267,completed,Large purchase; promo applied
+2956,paul.hall@gmail.com,04-11-2025 08:46,ShopB,16802.16333,completed,Duplicate order possible
+2957,chloe.foster@gmail.com,05-11-2025 19:30,ShopD,16810.744,completed,small order
+2958,olivia.foster@gmail.com,06-11-2025 00:00,ShopA,16819.32467,completed,zero-amount test
+2959,ben.vance@gmail.com,06-11-2025 23:59,ShopC,16827.90533,completed,high value order
+2960,leo.clark@gmail.com,07-11-2025 12:00,ShopE,16836.486,completed,normal
+2961,noah.hall@gmail.com,01-11-2025 09:15,ShopA,16845.06667,completed,Receipt: Order #1001; card ****1430
+2962,chloe.baker@gmail.com,02-11-2025 14:05,ShopB,16853.64733,completed,Order confirmation email
+2963,mia.jones@gmail.com,02-11-2025 14:07,ShopA,16862.228,refunded,Refund processed on 2025-11-199
+2964,toby.jones@gmail.com,03-11-2025 11:20,ShopC,16870.80867,pending,missing amount in email
+2965,alex.scott@gmail.com,04-11-2025 08:45,ShopB,16879.38933,completed,Large purchase; promo applied
+2966,karen.davis@gmail.com,04-11-2025 08:46,ShopB,16887.97,completed,Duplicate order possible
+2967,ella.scott@gmail.com,05-11-2025 19:30,ShopD,16896.55067,completed,small order
+2968,jack.king@gmail.com,06-11-2025 00:00,ShopA,16905.13133,completed,zero-amount test
+2969,toby.parker@gmail.com,06-11-2025 23:59,ShopC,16913.712,completed,high value order
+2970,leo.king@gmail.com,07-11-2025 12:00,ShopE,16922.29267,completed,low
+2971,chloe.vance@gmail.com,01-11-2025 09:15,ShopA,16930.87333,completed,Receipt: Order #1001; card ****1431
+2972,mia.taylor@gmail.com,02-11-2025 14:05,ShopB,16939.454,completed,Order confirmation email
+2973,ivy.evans@gmail.com,02-11-2025 14:07,ShopA,16948.03467,refunded,Refund processed on 2025-11-200
+2974,quinn.adams@gmail.com,03-11-2025 11:20,ShopC,16956.61533,pending,missing amount in email
+2975,jack.foster@gmail.com,04-11-2025 08:45,ShopB,16965.196,completed,Large purchase; promo applied
+2976,alex.clark@gmail.com,04-11-2025 08:46,ShopB,16973.77667,completed,Duplicate order possible
+2977,alex.reid@gmail.com,05-11-2025 19:30,ShopD,16982.35733,completed,small order
+2978,ivy.reid@gmail.com,06-11-2025 00:00,ShopA,16990.938,completed,zero-amount test
+2979,sara.jones@gmail.com,06-11-2025 23:59,ShopC,16999.51867,completed,high value order
+2980,karen.jones@gmail.com,07-11-2025 12:00,ShopE,17008.09933,completed,high
+2981,dylan.nelson@gmail.com,01-11-2025 09:15,ShopA,17016.68,completed,Receipt: Order #1001; card ****1432
+2982,hugo.davis@gmail.com,02-11-2025 14:05,ShopB,17025.26067,completed,Order confirmation email
+2983,ivy.green@gmail.com,02-11-2025 14:07,ShopA,17033.84133,refunded,Refund processed on 2025-11-201
+2984,karen.jones@gmail.com,03-11-2025 11:20,ShopC,17042.422,pending,missing amount in email
+2985,hugo.king@gmail.com,04-11-2025 08:45,ShopB,17051.00267,completed,Large purchase; promo applied
+2986,dylan.wood@gmail.com,04-11-2025 08:46,ShopB,17059.58333,completed,Duplicate order possible
+2987,chloe.evans@gmail.com,05-11-2025 19:30,ShopD,17068.164,completed,small order
+2988,olivia.wood@gmail.com,06-11-2025 00:00,ShopA,17076.74467,completed,zero-amount test
+2989,leo.reid@gmail.com,06-11-2025 23:59,ShopC,17085.32533,completed,high value order
+2990,paul.king@gmail.com,07-11-2025 12:00,ShopE,17093.906,completed,normal
+2991,finn.clark@gmail.com,01-11-2025 09:15,ShopA,17102.48667,completed,Receipt: Order #1001; card ****1433
+2992,ryan.scott@gmail.com,02-11-2025 14:05,ShopB,17111.06733,completed,Order confirmation email
+2993,dylan.vance@gmail.com,02-11-2025 14:07,ShopA,17119.648,refunded,Refund processed on 2025-11-202
+2994,olivia.wood@gmail.com,03-11-2025 11:20,ShopC,17128.22867,pending,missing amount in email
+2995,quinn.evans@gmail.com,04-11-2025 08:45,ShopB,17136.80933,completed,Large purchase; promo applied
+2996,toby.davis@gmail.com,04-11-2025 08:46,ShopB,17145.39,completed,Duplicate order possible
+2997,alex.owen@gmail.com,05-11-2025 19:30,ShopD,17153.97067,completed,small order
+2998,jack.baker@gmail.com,06-11-2025 00:00,ShopA,17162.55133,completed,zero-amount test
+2999,finn.evans@gmail.com,06-11-2025 23:59,ShopC,17171.132,completed,high value order
+3000,ryan.evans@gmail.com,07-11-2025 12:00,ShopE,17179.71267,completed,low
+3001,sara.scott@gmail.com,01-11-2025 09:15,ShopA,17188.29333,completed,Receipt: Order #1001; card ****1434
+3002,karen.reid@gmail.com,02-11-2025 14:05,ShopB,17196.874,completed,Order confirmation email
+3003,mia.green@gmail.com,02-11-2025 14:07,ShopA,17205.45467,refunded,Refund processed on 2025-11-203
+3004,chloe.king@gmail.com,03-11-2025 11:20,ShopC,17214.03533,pending,missing amount in email
+3005,karen.miller@gmail.com,04-11-2025 08:45,ShopB,17222.616,completed,Large purchase; promo applied
+3006,gabby.reid@gmail.com,04-11-2025 08:46,ShopB,17231.19667,completed,Duplicate order possible
+3007,toby.clark@gmail.com,05-11-2025 19:30,ShopD,17239.77733,completed,small order
+3008,ryan.hall@gmail.com,06-11-2025 00:00,ShopA,17248.358,completed,zero-amount test
+3009,gabby.foster@gmail.com,06-11-2025 23:59,ShopC,17256.93867,completed,high value order
+3010,leo.taylor@gmail.com,07-11-2025 12:00,ShopE,17265.51933,completed,high
+3011,mia.jones@gmail.com,01-11-2025 09:15,ShopA,17274.1,completed,Receipt: Order #1001; card ****1435
+3012,jack.evans@gmail.com,02-11-2025 14:05,ShopB,17282.68067,completed,Order confirmation email
+3013,quinn.davis@gmail.com,02-11-2025 14:07,ShopA,17291.26133,refunded,Refund processed on 2025-11-204
+3014,mia.reid@gmail.com,03-11-2025 11:20,ShopC,17299.842,pending,missing amount in email
+3015,chloe.baker@gmail.com,04-11-2025 08:45,ShopB,17308.42267,completed,Large purchase; promo applied
+3016,ivy.scott@gmail.com,04-11-2025 08:46,ShopB,17317.00333,completed,Duplicate order possible
+3017,alex.king@gmail.com,05-11-2025 19:30,ShopD,17325.584,completed,small order
+3018,noah.scott@gmail.com,06-11-2025 00:00,ShopA,17334.16467,completed,zero-amount test
+3019,paul.miller@gmail.com,06-11-2025 23:59,ShopC,17342.74533,completed,high value order
+3020,quinn.foster@gmail.com,07-11-2025 12:00,ShopE,17351.326,completed,normal
+3021,karen.parker@gmail.com,01-11-2025 09:15,ShopA,17359.90667,completed,Receipt: Order #1001; card ****1436
+3022,dylan.scott@gmail.com,02-11-2025 14:05,ShopB,17368.48733,completed,Order confirmation email
+3023,finn.green@gmail.com,02-11-2025 14:07,ShopA,17377.068,refunded,Refund processed on 2025-11-205
+3024,olivia.green@gmail.com,03-11-2025 11:20,ShopC,17385.64867,pending,missing amount in email
+3025,ryan.scott@gmail.com,04-11-2025 08:45,ShopB,17394.22933,completed,Large purchase; promo applied
+3026,finn.foster@gmail.com,04-11-2025 08:46,ShopB,17402.81,completed,Duplicate order possible
+3027,ivy.nelson@gmail.com,05-11-2025 19:30,ShopD,17411.39067,completed,small order
+3028,chloe.nelson@gmail.com,06-11-2025 00:00,ShopA,17419.97133,completed,zero-amount test
+3029,mia.king@gmail.com,06-11-2025 23:59,ShopC,17428.552,completed,high value order
+3030,chloe.foster@gmail.com,07-11-2025 12:00,ShopE,17437.13267,completed,low
+3031,quinn.nelson@gmail.com,01-11-2025 09:15,ShopA,17445.71333,completed,Receipt: Order #1001; card ****1437
+3032,noah.lopez@gmail.com,02-11-2025 14:05,ShopB,17454.294,completed,Order confirmation email
+3033,olivia.king@gmail.com,02-11-2025 14:07,ShopA,17462.87467,refunded,Refund processed on 2025-11-206
+3034,noah.nelson@gmail.com,03-11-2025 11:20,ShopC,17471.45533,pending,missing amount in email
+3035,ben.evans@gmail.com,04-11-2025 08:45,ShopB,17480.036,completed,Large purchase; promo applied
+3036,ben.foster@gmail.com,04-11-2025 08:46,ShopB,17488.61667,completed,Duplicate order possible
+3037,karen.baker@gmail.com,05-11-2025 19:30,ShopD,17497.19733,completed,small order
